@@ -1135,6 +1135,7 @@
 
 ## python 
 
+- [OrangeX4/typst-sympy-calculator](https://github.com/OrangeX4/typst-sympy-calculator) - Parse typst math expressions into sympy form for calc and define your custom functions in typst files.
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
