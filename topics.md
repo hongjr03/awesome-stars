@@ -776,6 +776,8 @@
 
 ## others 
 
+- [sjfhsjfh/typst-relescope](https://github.com/sjfhsjfh/typst-relescope) - 
+- [sjfhsjfh/typst-wasm](https://github.com/sjfhsjfh/typst-wasm) - 
 - [YDX-2147483647/typechat-link](https://github.com/YDX-2147483647/typechat-link) - 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客节目。此项目从其网站爬取各期的参考链接，并整理出一些信息。
 - [OrangeX4/typst-theorion](https://github.com/OrangeX4/typst-theorion) - Out-of-the-box, customizable and multilingual theorem environment package for Typst.
 - [OrangeX4/typst-ori](https://github.com/OrangeX4/typst-ori) - Simple enough but expressive template for notes, reports, and documents for Typst.
