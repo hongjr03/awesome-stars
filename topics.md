@@ -542,6 +542,7 @@
 
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
+- [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS Spotlight] Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network
 - [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
 - [fansuregrin/RAUNE-Net](https://github.com/fansuregrin/RAUNE-Net) - A Residual and Attention-Driven Underwater Image Enhancement (UIE) method.
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
@@ -841,7 +842,6 @@
 - [FatPaper-1874/fatpaper-monopoly](https://github.com/FatPaper-1874/fatpaper-monopoly) - 大富翁总项目
 - [WJZ-P/LiteLoaderQQNT-Grab-RedBag](https://github.com/WJZ-P/LiteLoaderQQNT-Grab-RedBag) - 基于IPC通信的抢红包插件！ヽ(＾Д＾)ﾉ
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
-- [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - Official Code for "Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network"
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 - [Red-Asuka/vitepress-plugin-tabs](https://github.com/Red-Asuka/vitepress-plugin-tabs) - VitePress plugin - markdown custom container to display content in tabs
 - [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
