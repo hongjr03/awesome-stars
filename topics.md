@@ -61,6 +61,7 @@
 - [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [homebrew](#homebrew)
 - [html](#html)
 - [http](#http)
 - [https](#https)
@@ -517,6 +518,10 @@
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
+## homebrew 
+
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+
 ## html 
 
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
@@ -653,6 +658,7 @@
 
 ## macos 
 
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
@@ -794,7 +800,7 @@
 - [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
 - [wenbin-liu/typst-hugo](https://github.com/wenbin-liu/typst-hugo) - A typst to html compiler for hugo
 - [hust-open-atom-club/intro2oss](https://github.com/hust-open-atom-club/intro2oss) - 开源软件通识课程 (Introduction to Open Source Software)，本课程暂定设计面向信息大类专业的大一学生
-- [hongjr03/typst-ReXLlenT](https://github.com/hongjr03/typst-ReXLlenT) - Convert xlsx/ods format tables to typst tables, powered by wasm.
+- [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
 - [lublak/typst-spreet-package](https://github.com/lublak/typst-spreet-package) - 
 - [slowli/externref](https://github.com/slowli/externref) - Low-cost reference type shims for WASM modules
 - [typst-doc-cn/guide](https://github.com/typst-doc-cn/guide) - 
@@ -1113,6 +1119,7 @@
 
 ## package-manager 
 
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
@@ -1238,6 +1245,7 @@
 
 ## ruby 
 
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 
 ## rust 
