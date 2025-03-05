@@ -503,6 +503,7 @@
 
 ## Ruby 
 
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 
 ## Rust 
@@ -517,7 +518,7 @@
 - [kokic/kodama](https://github.com/kokic/kodama) - A Typst-friendly static Zettelkasten site generator.
 - [MathNya/umya-spreadsheet](https://github.com/MathNya/umya-spreadsheet) - A pure rust library for reading and writing spreadsheet files
 - [wenbin-liu/typst-hugo](https://github.com/wenbin-liu/typst-hugo) - A typst to html compiler for hugo
-- [hongjr03/typst-ReXLlenT](https://github.com/hongjr03/typst-ReXLlenT) - Convert xlsx/ods format tables to typst tables, powered by wasm.
+- [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
 - [lublak/typst-spreet-package](https://github.com/lublak/typst-spreet-package) - 
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [m4tx/riichi-hand-rs](https://github.com/m4tx/riichi-hand-rs) - A collection of utilities for working with Riichi Mahjong player hands to use with Rust programming language
