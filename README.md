@@ -410,7 +410,7 @@
 - [Zheng-MJ/SMFANet](https://github.com/Zheng-MJ/SMFANet) - [ECCV 2024] SMFANet: A Lightweight Self-Modulation Feature Aggregation Network for Efficient Image Super-Resolution
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
-- [NVlabs/MambaVision](https://github.com/NVlabs/MambaVision) - Official PyTorch Implementation of MambaVision: A Hybrid Mamba-Transformer Vision Backbone
+- [NVlabs/MambaVision](https://github.com/NVlabs/MambaVision) - [CVPR 2025] Official PyTorch Implementation of MambaVision: A Hybrid Mamba-Transformer Vision Backbone
 - [joshyZhou/FPro](https://github.com/joshyZhou/FPro) - Seeing the Unseen: A Frequency Prompt Guided Transformer for Image Restoration
 - [VinAIResearch/Blur2Blur](https://github.com/VinAIResearch/Blur2Blur) - Blur Conversion for Unsupervised Image Deblurring (CVPR'24)
 - [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
