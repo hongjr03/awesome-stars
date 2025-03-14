@@ -660,7 +660,7 @@
 - [typst-doc-cn/news](https://github.com/typst-doc-cn/news) - News about typst.
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [flaribbit/numbly](https://github.com/flaribbit/numbly) - A package that helps you to specify different numbering formats for different levels of headings.
-- [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization.
+- [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
 - [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
 - [marc-thieme/frame-it](https://github.com/marc-thieme/frame-it) - Beautiful, flexible, and integrated. Display custom frames for theorems, environments, and more. Attractive visuals with syntax that blends seamlessly into the source.
 - [OrangeX4/typst-cheq](https://github.com/OrangeX4/typst-cheq) - Write markdown-like checklist easily.
