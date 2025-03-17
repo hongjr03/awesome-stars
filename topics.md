@@ -784,6 +784,7 @@
 
 ## others 
 
+- [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
 - [AlexStrNik/SafariPark](https://github.com/AlexStrNik/SafariPark) - Brings Safari’s OTP autofill to any macOS app
 - [sjfhsjfh/typst-relescope](https://github.com/sjfhsjfh/typst-relescope) - 
 - [sjfhsjfh/typst-wasm](https://github.com/sjfhsjfh/typst-wasm) - 
