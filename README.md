@@ -191,7 +191,7 @@
 - [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
 - [dark-flames/apollo-typst](https://github.com/dark-flames/apollo-typst) - Typst blog template based on Zola, typst.ts, and apollo.
 - [b-coimbra/dawn](https://github.com/b-coimbra/dawn) - A startpage called "dawn"
-- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [skygongque/MiniProgram-DouyinParse](https://github.com/skygongque/MiniProgram-DouyinParse) - 抖音无水印视频解析小程序，利用云开发云函数无需后端服务器即可上线
 - [frigopedro/Apple-Music-Background](https://github.com/frigopedro/Apple-Music-Background) - A script that generate dynamic background such as Apple Music does.
 - [etigerstudio/apple-music-cover-scraper](https://github.com/etigerstudio/apple-music-cover-scraper) - A command line tool to scrape album cover from apple music preview page.
@@ -427,7 +427,7 @@
 - [ac1982/eBook-translator](https://github.com/ac1982/eBook-translator) - Native prompt engineering translate script that can keep e-book format, URL, image and more.
 - [xstephen95x/6033](https://github.com/xstephen95x/6033) - Personal course notes for Spring 2017 semester, 6.033
 - [yzbouc/UVEB](https://github.com/yzbouc/UVEB) - 
-- [ljxi/GeoCN](https://github.com/ljxi/GeoCN) - 每月更新中国大陆高精度IPV4+IPV6离线库，部分IP精确到区
+- [ljxi/GeoCN](https://github.com/ljxi/GeoCN) - 中国大陆高精度IPV4+IPV6离线库，部分IP精确到区
 - [nachifur/RDDM](https://github.com/nachifur/RDDM) - CVPR 2024: Residual Denoising Diffusion Models
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
