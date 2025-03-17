@@ -763,7 +763,7 @@
 
 ## open-source 
 
-- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -946,7 +946,7 @@
 - [HenryJk/PvZWidescreen](https://github.com/HenryJk/PvZWidescreen) - Widescreen mod for Plants vs Zombies
 - [yzbouc/UVEB](https://github.com/yzbouc/UVEB) - 
 - [CS-BAOYAN/CS-BAOYAN-DDL](https://github.com/CS-BAOYAN/CS-BAOYAN-DDL) - 夏令营截止日期DDL静态网页
-- [ljxi/GeoCN](https://github.com/ljxi/GeoCN) - 每月更新中国大陆高精度IPV4+IPV6离线库，部分IP精确到区
+- [ljxi/GeoCN](https://github.com/ljxi/GeoCN) - 中国大陆高精度IPV4+IPV6离线库，部分IP精确到区
 - [Ruixxxx/Awesome-Vision-Mamba-Models](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models) - [Official Repo] Visual Mamba: A Survey and New Outlooks
 - [nachifur/RDDM](https://github.com/nachifur/RDDM) - CVPR 2024: Residual Denoising Diffusion Models
 - [weitunglin/pixmamba](https://github.com/weitunglin/pixmamba) - Official code for PixMamba
