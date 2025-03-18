@@ -377,7 +377,7 @@
 - [Cherrison/ouc_jwc_spader](https://github.com/Cherrison/ouc_jwc_spader) - 爬取中国海洋大学教务处课表(python)
 - [Vandermode/ELD](https://github.com/Vandermode/ELD) - Physics-based Noise Modeling for Extreme Low-light Photography (CVPR 2020 Oral & TPAMI 2021)
 - [VITA-Group/EnlightenGAN](https://github.com/VITA-Group/EnlightenGAN) - [IEEE TIP] "EnlightenGAN: Deep Light Enhancement without Paired Supervision" by Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang
-- [iSEE-Laboratory/DiffUIR](https://github.com/iSEE-Laboratory/DiffUIR) - The official implementation of the paper of CVPR2024: Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model
+- [iSEE-Laboratory/DiffUIR](https://github.com/iSEE-Laboratory/DiffUIR) - (CVPR2024) Official implementation of paper: "Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model"
 - [c-yn/ConvIR](https://github.com/c-yn/ConvIR) - Revitalizing Convolutional Network for Image Restoration
 - [jinyeying/RaindropClarity](https://github.com/jinyeying/RaindropClarity) - [ECCV2024] "Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal", https://arxiv.org/abs/2407.16957
 - [c-yn/IRNeXt](https://github.com/c-yn/IRNeXt) - [ICML2023] IRNeXt: Rethinking Convolutional Network Design for Image Restoration
