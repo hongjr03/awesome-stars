@@ -548,7 +548,7 @@
 
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
-- [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Label Generator and Cooperative Unfolding Network
+- [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
 - [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
 - [fansuregrin/RAUNE-Net](https://github.com/fansuregrin/RAUNE-Net) - A Residual and Attention-Driven Underwater Image Enhancement (UIE) method.
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
