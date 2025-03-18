@@ -872,7 +872,7 @@
 - [Vandermode/ELD](https://github.com/Vandermode/ELD) - Physics-based Noise Modeling for Extreme Low-light Photography (CVPR 2020 Oral & TPAMI 2021)
 - [ayushjain01/Spotify-Lyrics-Share](https://github.com/ayushjain01/Spotify-Lyrics-Share) - Inspired by Spotify, this project lets you share specific song lyrics with friends. It creates custom preview images for your selected lyrics, perfect for sharing!
 - [lspriv/wx-calendar](https://github.com/lspriv/wx-calendar) - 微信小程序日历
-- [iSEE-Laboratory/DiffUIR](https://github.com/iSEE-Laboratory/DiffUIR) - The official implementation of the paper of CVPR2024: Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model
+- [iSEE-Laboratory/DiffUIR](https://github.com/iSEE-Laboratory/DiffUIR) - (CVPR2024) Official implementation of paper: "Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model"
 - [XLearning-SCU/Awesome-All-In-One-Image-Restoration](https://github.com/XLearning-SCU/Awesome-All-In-One-Image-Restoration) - This is a summary of research on All-In-One Image/Video Restoration. There may be omissions. If anything is missing please get in touch with us. Our emails: liboyun.gm@gmail.com; gouyuanbiao@gmail.com
 - [MoYuM/HowToDrink](https://github.com/MoYuM/HowToDrink) - 程序员在家自制酒/饮料方法指南。Programmer's guide about how to drink at home (Simplified Chinese only).
 - [c-yn/ConvIR](https://github.com/c-yn/ConvIR) - Revitalizing Convolutional Network for Image Restoration
