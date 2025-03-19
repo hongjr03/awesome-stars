@@ -834,7 +834,6 @@
 - [Uber-Eins/FileCentipede-Automatic-Activation](https://github.com/Uber-Eins/FileCentipede-Automatic-Activation) - 一个简单的文件蜈蚣(半)自动激活程序
 - [3401797899/luci-app-ouc-auth](https://github.com/3401797899/luci-app-ouc-auth) - OUC校园网认证插件
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
-- [shufflewzc/faker5](https://github.com/shufflewzc/faker5) - 另类羊毛
 - [nagejacob/RecurrentMobileNet](https://github.com/nagejacob/RecurrentMobileNet) - Light parameters raw image denoising, 2nd place in MegCup 2022
 - [kyashy/denoising-on-mobile-devices](https://github.com/kyashy/denoising-on-mobile-devices) - Python implementation of the paper "Practical Deep Raw Image Denoising on Mobile Devices"
 - [JL-DY/MFDNet](https://github.com/JL-DY/MFDNet) - Lightweight network towards real-time image denoising on mobile devices
