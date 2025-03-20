@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [Heptagon196/Dict](https://github.com/Heptagon196/Dict) - 命令行英汉/汉英字典
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [PanQL/zircon](https://github.com/PanQL/zircon) - 从fuchsia官方目录中分离出来的zircon代码
 - [hongjr03/GameTower](https://github.com/hongjr03/GameTower) - We are students from OUC. We are making games. Do not copy.
@@ -249,6 +250,7 @@
 
 ## Lua 
 
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 
