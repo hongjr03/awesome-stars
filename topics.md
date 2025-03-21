@@ -801,6 +801,7 @@
 
 ## others 
 
+- [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 - [Heptagon196/Dict](https://github.com/Heptagon196/Dict) - 命令行英汉/汉英字典
 - [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
 - [AlexStrNik/SafariPark](https://github.com/AlexStrNik/SafariPark) - Brings Safari’s OTP autofill to any macOS app
