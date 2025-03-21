@@ -536,6 +536,7 @@
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [remarkablemark/html-dom-parser](https://github.com/remarkablemark/html-dom-parser) - 📝 HTML to DOM parser.
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
+- [marc-thieme/frame-it](https://github.com/marc-thieme/frame-it) - Beautiful, flexible, and integrated. Display custom frames for theorems, environments, and more. Attractive visuals with syntax that blends seamlessly into the source.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [vincerubinetti/svg-to-png](https://github.com/vincerubinetti/svg-to-png) - Convert SVG to PNG right in your browser, reliably and correctly
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -829,7 +830,6 @@
 - [Myriad-Dreamin/vistyp](https://github.com/Myriad-Dreamin/vistyp) - Simple visualized cetz editor
 - [SabrinaJewson/cmarker.typ](https://github.com/SabrinaJewson/cmarker.typ) - Transpile CommonMark Markdown to Typst, from within Typst!
 - [vivek2293/AI-Driven-Game-Automation](https://github.com/vivek2293/AI-Driven-Game-Automation) - Using Reinforcement Learning to play "Modern Warship Android Game"
-- [marc-thieme/frame-it](https://github.com/marc-thieme/frame-it) - Beautiful, flexible, and integrated. Display custom frames for theorems, environments, and more. Attractive visuals with syntax that blends seamlessly into the source.
 - [AlexStrNik/LyricsOver](https://github.com/AlexStrNik/LyricsOver) - Overlay lyrics from Apple Music
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [sjfhsjfh/typship](https://github.com/sjfhsjfh/typship) - A Typst package CLI tool
