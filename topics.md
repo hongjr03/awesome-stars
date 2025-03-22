@@ -802,6 +802,7 @@
 
 ## others 
 
+- [lovefc/china_school_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 - [Heptagon196/Dict](https://github.com/Heptagon196/Dict) - 命令行英汉/汉英字典
 - [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
