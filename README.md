@@ -308,7 +308,6 @@
 - [PanQL/zircon-notes](https://github.com/PanQL/zircon-notes) - 对zircon内核的一些分析，欢迎补充！
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
 - [hongjr03/hongjr03](https://github.com/hongjr03/hongjr03) - 
-- [gRox167/typst-assignment-template](https://github.com/gRox167/typst-assignment-template) - 
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [KeleMC/wiki](https://github.com/KeleMC/wiki) - Wiki of KeleMC Server. Managed by Gitbook. Visit：wiki.kelemc.fun
@@ -700,6 +699,7 @@
 - [talal/ilm](https://github.com/talal/ilm) - A versatile, clean and minimal template for non-fiction writing. Ideal for class notes, reports, and books.
 - [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 - [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
+- [gRox167/typst-assignment-template](https://github.com/gRox167/typst-assignment-template) - 
 - [hongjr03/typst-assignment-template](https://github.com/hongjr03/typst-assignment-template) - 美观的 Typst 作业 / 报告模板
 - [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
