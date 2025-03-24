@@ -106,6 +106,7 @@
 
 ## CSS 
 
+- [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [lovefc/china_school_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 A Hugo theme named Dream.
