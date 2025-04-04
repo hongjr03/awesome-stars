@@ -532,7 +532,7 @@
 - [tingerrr/tytanic](https://github.com/tingerrr/tytanic) - A test runner for typst projects.
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [kokic/kodama](https://github.com/kokic/kodama) - A Typst-friendly static Zettelkasten site generator.
+- [kokic/kodama](https://github.com/kokic/kodama) - A Typst-friendly static Zettelkästen site generator.
 - [MathNya/umya-spreadsheet](https://github.com/MathNya/umya-spreadsheet) - A pure rust library for reading and writing spreadsheet files
 - [wenbin-liu/typst-hugo](https://github.com/wenbin-liu/typst-hugo) - A typst to html compiler for hugo
 - [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
