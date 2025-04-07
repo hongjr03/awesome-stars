@@ -810,7 +810,7 @@
 
 ## others 
 
-- [ParaN3xus/haobook](https://github.com/ParaN3xus/haobook) - 
+- [ParaN3xus/haobook](https://github.com/ParaN3xus/haobook) - A Typst book template inspired by kaobook
 - [hylarucoder/ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover) - AI 味去除 - 仅在 Gemini 2.5 Pro 上测试通过
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [bamboolife/SoundTouch](https://github.com/bamboolife/SoundTouch) - Android使用SoundTouch实现音频的变调变速
