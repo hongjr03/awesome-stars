@@ -669,7 +669,7 @@
 
 ## Typst 
 
-- [ParaN3xus/haobook](https://github.com/ParaN3xus/haobook) - 
+- [ParaN3xus/haobook](https://github.com/ParaN3xus/haobook) - A Typst book template inspired by kaobook
 - [OrangeX4/typst-theorion](https://github.com/OrangeX4/typst-theorion) - Out-of-the-box, customizable and multilingual theorem environment package for Typst.
 - [OrangeX4/typst-ori](https://github.com/OrangeX4/typst-ori) - Simple enough but expressive template for notes, reports, and documents for Typst.
 - [ParaN3xus/typst-snippets](https://github.com/ParaN3xus/typst-snippets) - ParaN3xus's Typst Snippets
