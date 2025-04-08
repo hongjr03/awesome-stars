@@ -1032,7 +1032,6 @@
 - [zkawfanx/RLP](https://github.com/zkawfanx/RLP) - Learning Rain Location Prior for Nighttime Deraining (ICCV2023)
 - [noxsine/LDP](https://github.com/noxsine/LDP) - 
 - [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
-- [hongjr03/hongjr03](https://github.com/hongjr03/hongjr03) - 
 - [daooshee/QuadPrior](https://github.com/daooshee/QuadPrior) - Official code for Zero-Reference Low-Light Enhancement via Physical Quadruple Priors (CVPR-24)
 - [gRox167/typst-assignment-template](https://github.com/gRox167/typst-assignment-template) - 
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
