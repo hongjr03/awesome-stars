@@ -317,7 +317,6 @@
 - [lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record) - 记录近期的 1) 图像/视频的超分增强等low level vision任务; 2) 图像生成 等任务相关论文, 主要为18年以后的DL based方法.
 - [PanQL/zircon-notes](https://github.com/PanQL/zircon-notes) - 对zircon内核的一些分析，欢迎补充！
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
-- [hongjr03/hongjr03](https://github.com/hongjr03/hongjr03) - 
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [KeleMC/wiki](https://github.com/KeleMC/wiki) - Wiki of KeleMC Server. Managed by Gitbook. Visit：wiki.kelemc.fun
