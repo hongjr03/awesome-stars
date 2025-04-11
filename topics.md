@@ -883,7 +883,7 @@
 - [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - 
 - [FatPaper-1874/fatpaper-monopoly](https://github.com/FatPaper-1874/fatpaper-monopoly) - 大富翁总项目
 - [WJZ-P/LiteLoaderQQNT-Grab-RedBag](https://github.com/WJZ-P/LiteLoaderQQNT-Grab-RedBag) - 基于IPC通信的抢红包插件！ヽ(＾Д＾)ﾉ
-- [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能入门指南 Embodied-AI-Guide
+- [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 - [Red-Asuka/vitepress-plugin-tabs](https://github.com/Red-Asuka/vitepress-plugin-tabs) - VitePress plugin - markdown custom container to display content in tabs
 - [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
