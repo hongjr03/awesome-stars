@@ -144,6 +144,8 @@
 
 ## Go 
 
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [xuri/nfp](https://github.com/xuri/nfp) - Go Language Microsoft Excel™ Number Format Parser
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
@@ -525,6 +527,7 @@
 
 ## Rust 
 
+- [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
 - [sjfhsjfh/typst-relescope](https://github.com/sjfhsjfh/typst-relescope) - 
