@@ -163,7 +163,6 @@
 
 - [moxcomic/archer](https://github.com/moxcomic/archer) - Archer is a top-tier Mahjong AI development framework, currently reaching as high as Tenhou 9.7 dan. https://moxcomic.github.io/archer/
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
-- [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
@@ -303,6 +302,7 @@
 - [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - 
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp) - 『微信小程序』优秀教程、轮子、开源项目 资源汇总
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
