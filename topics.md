@@ -745,7 +745,6 @@
 ## minecraft 
 
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
-- [Hex-Dragon/PCL2](https://github.com/Hex-Dragon/PCL2) - Minecraft 启动器 Plain Craft Launcher（PCL）。
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [CPlayer-CN/Spigot-Plugin-Dev-Chinese](https://github.com/CPlayer-CN/Spigot-Plugin-Dev-Chinese) - 水龙头插件开发文档中文翻译 | Spigot Plugin Development Chinese translation
 - [Flo56958/MineTinker](https://github.com/Flo56958/MineTinker) - A TinkersConstruct-inspired Spigot plugin
@@ -1005,7 +1004,6 @@
 - [Ruixxxx/Awesome-Vision-Mamba-Models](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models) - [Official Repo] Visual Mamba: A Survey and New Outlooks
 - [nachifur/RDDM](https://github.com/nachifur/RDDM) - CVPR 2024: Residual Denoising Diffusion Models
 - [weitunglin/pixmamba](https://github.com/weitunglin/pixmamba) - Official code for PixMamba
-- [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
 - [flaribbit/indenta](https://github.com/flaribbit/indenta) - Fix indent of first paragraph in typst.
 - [muzairkhattak/ProText](https://github.com/muzairkhattak/ProText) - [AAAI'25, CVPRW 2024] Official repository of paper titled "Learning to Prompt with Text Only Supervision for Vision-Language Models".
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
