@@ -42,9 +42,7 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vim Script](#vim-script)
-- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
-- [XML](#xml)
 - [Zig](#zig)
 - [mcfunction](#mcfunction)
 
@@ -725,10 +723,6 @@
 
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
-## Visual Basic .NET 
-
-- [Hex-Dragon/PCL2](https://github.com/Hex-Dragon/PCL2) - Minecraft 启动器 Plain Craft Launcher（PCL）。
-
 ## Vue 
 
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -740,10 +734,6 @@
 - [NyaaCat/NyaaStats](https://github.com/NyaaCat/NyaaStats) - Public player stats page generator
 - [Enter-tainer/cxx2flow-gui](https://github.com/Enter-tainer/cxx2flow-gui) - Tauri based GUI for cxx2flow
 - [lxfater/Learning-By-GPT](https://github.com/lxfater/Learning-By-GPT) - A chrome extension helps you learn using ai technology.
-
-## XML 
-
-- [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
 
 ## Zig 
 
