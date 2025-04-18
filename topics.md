@@ -828,6 +828,8 @@
 
 ## others 
 
+- [danieleades/mdbook-d2](https://github.com/danieleades/mdbook-d2) - D2 diagram generator plugin for MdBook
+- [bokuweb/docx-rs](https://github.com/bokuweb/docx-rs) - :memo:  A .docx file writer with Rust/WebAssembly.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [borgar/numfmt](https://github.com/borgar/numfmt) - Full ECMA-376 number and date formatting in JavaScript
 - [ParaN3xus/haobook](https://github.com/ParaN3xus/haobook) - A Typst book template inspired by kaobook
