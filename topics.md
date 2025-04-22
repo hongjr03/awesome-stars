@@ -829,6 +829,9 @@
 
 ## others 
 
+- [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
+- [KaiserY/ooxmlsdk](https://github.com/KaiserY/ooxmlsdk) - Open XML SDK for Rust
+- [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [danieleades/mdbook-d2](https://github.com/danieleades/mdbook-d2) - D2 diagram generator plugin for MdBook
 - [bokuweb/docx-rs](https://github.com/bokuweb/docx-rs) - :memo:  A .docx file writer with Rust/WebAssembly.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
