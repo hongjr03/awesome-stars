@@ -829,6 +829,7 @@
 
 ## others 
 
+- [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
 - [KaiserY/ooxmlsdk](https://github.com/KaiserY/ooxmlsdk) - Open XML SDK for Rust
