@@ -525,6 +525,7 @@
 
 ## Rust 
 
+- [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
 - [KaiserY/ooxmlsdk](https://github.com/KaiserY/ooxmlsdk) - Open XML SDK for Rust
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
