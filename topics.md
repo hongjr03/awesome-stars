@@ -79,6 +79,7 @@
 - [json](#json)
 - [kubernetes](#kubernetes)
 - [latex](#latex)
+- [learning](#learning)
 - [linux](#linux)
 - [llm](#llm)
 - [login](#login)
@@ -105,7 +106,6 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
-- [operating-system](#operating-system)
 - [others](#others)
 - [package-manager](#package-manager)
 - [php](#php)
@@ -652,6 +652,10 @@
 - [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
 - [sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer) - 上海交通大学 Beamer 模版 | Beamer template for Shanghai Jiao Tong University
 
+## learning 
+
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
+
 ## linux 
 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -822,10 +826,6 @@
 
 - [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
 - [jayboxyz/deeplearning-cv-notes](https://github.com/jayboxyz/deeplearning-cv-notes) - :notebook: DeepLearning and CV notes.
-
-## operating-system 
-
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 
 ## others 
 
