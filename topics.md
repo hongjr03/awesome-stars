@@ -829,6 +829,7 @@
 
 ## others 
 
+- [WiwilZ/mvmd-pytorch](https://github.com/WiwilZ/mvmd-pytorch) - Multivariate Variational Mode Decomposition implemented in PyTorch
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
@@ -856,7 +857,7 @@
 - [ParaN3xus/typst-snippets](https://github.com/ParaN3xus/typst-snippets) - ParaN3xus's Typst Snippets
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [typst-doc-cn/news](https://github.com/typst-doc-cn/news) - News about typst.
-- [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows 7 through 11.
+- [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows Vista through 11.
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [flaribbit/numbly](https://github.com/flaribbit/numbly) - A package that helps you to specify different numbering formats for different levels of headings.
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
