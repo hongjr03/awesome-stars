@@ -1427,6 +1427,7 @@
 
 ## typescript 
 
+- [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
