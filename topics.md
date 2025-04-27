@@ -835,6 +835,7 @@
 
 ## others 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
 - [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - 
 - [WiwilZ/mvmd-pytorch](https://github.com/WiwilZ/mvmd-pytorch) - Multivariate Variational Mode Decomposition implemented in PyTorch
