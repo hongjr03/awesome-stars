@@ -527,7 +527,7 @@
 
 ## Rust 
 
-- [alexykn/spm](https://github.com/alexykn/spm) - Rust based package manager for macOS
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - 
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
