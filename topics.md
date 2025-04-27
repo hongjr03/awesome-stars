@@ -550,7 +550,7 @@
 
 ## homebrew 
 
-- [alexykn/spm](https://github.com/alexykn/spm) - Rust based package manager for macOS
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 
 ## html 
@@ -702,7 +702,7 @@
 
 ## macos 
 
-- [alexykn/spm](https://github.com/alexykn/spm) - Rust based package manager for macOS
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac](https://github.com/Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac) - 在 Apple Silicon Mac 上入门汇编语言
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1183,7 +1183,7 @@
 
 ## package-manager 
 
-- [alexykn/spm](https://github.com/alexykn/spm) - Rust based package manager for macOS
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
@@ -1320,7 +1320,7 @@
 
 ## rust 
 
-- [alexykn/spm](https://github.com/alexykn/spm) - Rust based package manager for macOS
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [MathNya/umya-spreadsheet](https://github.com/MathNya/umya-spreadsheet) - A pure rust library for reading and writing spreadsheet files
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [m4tx/riichi-hand-rs](https://github.com/m4tx/riichi-hand-rs) - A collection of utilities for working with Riichi Mahjong player hands to use with Rust programming language
