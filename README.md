@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
 - [bamboolife/SoundTouch](https://github.com/bamboolife/SoundTouch) - Android使用SoundTouch实现音频的变调变速
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 - [Heptagon196/Dict](https://github.com/Heptagon196/Dict) - 命令行英汉/汉英字典
@@ -527,6 +528,7 @@
 
 ## Rust 
 
+- [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
 - [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
 - [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - 
