@@ -845,7 +845,7 @@
 - [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
-- [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - 
+- [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - A CommonMark writer implementation in Rust.
 - [WiwilZ/mvmd-pytorch](https://github.com/WiwilZ/mvmd-pytorch) - Multivariate Variational Mode Decomposition implemented in PyTorch
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
