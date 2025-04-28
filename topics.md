@@ -841,6 +841,8 @@
 
 ## others 
 
+- [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
+- [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
 - [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - 
