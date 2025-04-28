@@ -104,6 +104,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -817,6 +818,10 @@
 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
+## obsidian-plugin 
+
+- [kirito41dd/obsidian-hugo-publish](https://github.com/kirito41dd/obsidian-hugo-publish) - write blog in obsidian, pubulish to hugo site.
+
 ## open-source 
 
 - [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
@@ -1095,7 +1100,6 @@
 - [SakuraHentai/nursery-bot](https://github.com/SakuraHentai/nursery-bot) - 开局托儿所 bot
 - [AiArt-Gao/MATEBIT](https://github.com/AiArt-Gao/MATEBIT) - [CVPR'23] Masked and Adaptive Transformer for Exemplar Based Image Translation (MATEBIT)
 - [csfive/composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🦊 CS61A 教材 Composing Programs 的中文翻译
-- [kirito41dd/obsidian-hugo-publish](https://github.com/kirito41dd/obsidian-hugo-publish) - write blog in obsidian, pubulish to hugo site.
 - [JianghaiSCU/Diffusion-Low-Light](https://github.com/JianghaiSCU/Diffusion-Low-Light) - Official pytorch implementation for "Low-light Image Enhancement with Wavelet-based Diffusion Models"
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
