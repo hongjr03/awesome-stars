@@ -205,7 +205,7 @@
 - [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
 - [dark-flames/apollo-typst](https://github.com/dark-flames/apollo-typst) - Typst blog template based on Zola, typst.ts, and apollo.
 - [b-coimbra/dawn](https://github.com/b-coimbra/dawn) - A startpage called "dawn"
-- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
 - [skygongque/MiniProgram-DouyinParse](https://github.com/skygongque/MiniProgram-DouyinParse) - 抖音无水印视频解析小程序，利用云开发云函数无需后端服务器即可上线
 - [frigopedro/Apple-Music-Background](https://github.com/frigopedro/Apple-Music-Background) - A script that generate dynamic background such as Apple Music does.
 - [etigerstudio/apple-music-cover-scraper](https://github.com/etigerstudio/apple-music-cover-scraper) - A command line tool to scrape album cover from apple music preview page.
