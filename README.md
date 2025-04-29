@@ -530,7 +530,7 @@
 
 - [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - A CommonMark writer implementation in Rust.
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
