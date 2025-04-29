@@ -290,6 +290,7 @@
 
 ## Others 
 
+- [hongjr03/tinymist-coverage-workflow](https://github.com/hongjr03/tinymist-coverage-workflow) - 
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format
 - [hylarucoder/ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover) - AI 味去除 - 仅在 Gemini 2.5 Pro 上测试通过
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -528,6 +529,7 @@
 
 ## Rust 
 
+- [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
