@@ -841,6 +841,7 @@
 
 ## others 
 
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - BongoCat 是一个可爱的互动桌面宠物应用，让你的桌面充满乐趣！
 - [hongjr03/tinymist-coverage-workflow](https://github.com/hongjr03/tinymist-coverage-workflow) - 
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
