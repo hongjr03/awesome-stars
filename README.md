@@ -423,7 +423,7 @@
 - [ChenzhaoNju/WF-Diff](https://github.com/ChenzhaoNju/WF-Diff) - Here is the official repository of WF-Diff reproductions.
 - [chenydong/PA-Diff](https://github.com/chenydong/PA-Diff) - The code of paper "Learning A Physical-aware Diffusion Model Based on  Transformer for Underwater Image Enhancement"
 - [GuoRuige/UTransCNN](https://github.com/GuoRuige/UTransCNN) - U-TransCNN: A U-shape Transformer-CNN model for Underwater Image Enhancement
-- [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - A novel physical model-based transformer framework for underwater image enhancement.
+- [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - [KBS 2025] SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement
 - [fansuregrin/RAUNE-Net](https://github.com/fansuregrin/RAUNE-Net) - A Residual and Attention-Driven Underwater Image Enhancement (UIE) method.
 - [ZengxiZhang/HUPE](https://github.com/ZengxiZhang/HUPE) - Extention version of the paper "Waterflow: heuristic normalizing flow for underwater image enhancement and beyond"
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
