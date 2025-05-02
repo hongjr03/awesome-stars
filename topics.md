@@ -298,6 +298,7 @@
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
 - [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
+- [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - [KBS 2025] SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement
 - [fansuregrin/RAUNE-Net](https://github.com/fansuregrin/RAUNE-Net) - A Residual and Attention-Driven Underwater Image Enhancement (UIE) method.
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
 - [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - :fire: [CVPR 2024] Color Shift Estimation-and-Correction for Image Enhancement
@@ -991,7 +992,6 @@
 - [ChenzhaoNju/WF-Diff](https://github.com/ChenzhaoNju/WF-Diff) - Here is the official repository of WF-Diff reproductions.
 - [chenydong/PA-Diff](https://github.com/chenydong/PA-Diff) - The code of paper "Learning A Physical-aware Diffusion Model Based on  Transformer for Underwater Image Enhancement"
 - [GuoRuige/UTransCNN](https://github.com/GuoRuige/UTransCNN) - U-TransCNN: A U-shape Transformer-CNN model for Underwater Image Enhancement
-- [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - A novel physical model-based transformer framework for underwater image enhancement.
 - [ZengxiZhang/HUPE](https://github.com/ZengxiZhang/HUPE) - Extention version of the paper "Waterflow: heuristic normalizing flow for underwater image enhancement and beyond"
 - [Coekjan/typst-upgrade](https://github.com/Coekjan/typst-upgrade) - Upgrade your typst packages
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
