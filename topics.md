@@ -93,6 +93,7 @@
 - [matlab](#matlab)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
+- [monitoring](#monitoring)
 - [music](#music)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
@@ -205,6 +206,7 @@
 
 ## automation 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
@@ -764,6 +766,10 @@
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [CPlayer-CN/Spigot-Plugin-Dev-Chinese](https://github.com/CPlayer-CN/Spigot-Plugin-Dev-Chinese) - 水龙头插件开发文档中文翻译 | Spigot Plugin Development Chinese translation
 - [Flo56958/MineTinker](https://github.com/Flo56958/MineTinker) - A TinkersConstruct-inspired Spigot plugin
+
+## monitoring 
+
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## music 
 
@@ -1443,6 +1449,7 @@
 
 ## twitter 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## typescript 
