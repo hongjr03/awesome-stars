@@ -48,6 +48,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -72,6 +73,7 @@
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -450,6 +452,11 @@
 
 - [MatNoble/LaTeX-Document](https://github.com/MatNoble/LaTeX-Document) - LaTeX Templates for Document
 
+## embedded 
+
+- [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+
 ## emoji 
 
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
@@ -604,6 +611,10 @@
 
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
+
+## iot 
+
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 
 ## java 
 
@@ -851,6 +862,8 @@
 
 ## others 
 
+- [mbbill/Silverfir](https://github.com/mbbill/Silverfir) - A WebAssembly runtime for embedded systems
+- [yamt/toywasm](https://github.com/yamt/toywasm) - A WebAssembly interpreter written in C
 - [skanehira/tiny-wasm-runtime](https://github.com/skanehira/tiny-wasm-runtime) - Reference Implementation for Book of "Writing A Wasm Runtime in Rust"
 - [mcuking/wasmc](https://github.com/mcuking/wasmc) - :sparkles:  A WebAssembly interpreter written in C for demonstration
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
@@ -1349,6 +1362,7 @@
 
 ## rust 
 
+- [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
 - [skanehira/writing-a-wasm-runtime-in-rust](https://github.com/skanehira/writing-a-wasm-runtime-in-rust) - Writing A Wasm Runtime In Rust
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [MathNya/umya-spreadsheet](https://github.com/MathNya/umya-spreadsheet) - A pure rust library for reading and writing spreadsheet files
