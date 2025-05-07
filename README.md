@@ -64,6 +64,7 @@
 
 ## C 
 
+- [mcuking/wasmc](https://github.com/mcuking/wasmc) - :sparkles:  A WebAssembly interpreter written in C for demonstration
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac](https://github.com/Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac) - 在 Apple Silicon Mac 上入门汇编语言
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
@@ -291,6 +292,7 @@
 
 ## Others 
 
+- [skanehira/writing-a-wasm-runtime-in-rust](https://github.com/skanehira/writing-a-wasm-runtime-in-rust) - Writing A Wasm Runtime In Rust
 - [hongjr03/tinymist-coverage-workflow](https://github.com/hongjr03/tinymist-coverage-workflow) - 
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format
 - [hylarucoder/ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover) - AI 味去除 - 仅在 Gemini 2.5 Pro 上测试通过
@@ -531,6 +533,7 @@
 
 ## Rust 
 
+- [skanehira/tiny-wasm-runtime](https://github.com/skanehira/tiny-wasm-runtime) - Reference Implementation for Book of "Writing A Wasm Runtime in Rust"
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
