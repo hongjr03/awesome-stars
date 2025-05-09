@@ -864,6 +864,7 @@
 
 ## others 
 
+- [zoowayss/cursor-auto-account](https://github.com/zoowayss/cursor-auto-account) - 这是一个用于管理 Cursor 账号的 Web 服务，支持自动注册、存储账号信息、查看和修改账号状态。
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [mbbill/Silverfir](https://github.com/mbbill/Silverfir) - A WebAssembly runtime for embedded systems
 - [yamt/toywasm](https://github.com/yamt/toywasm) - A WebAssembly interpreter written in C
