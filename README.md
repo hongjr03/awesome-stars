@@ -75,6 +75,7 @@
 - [let-def/texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 - [frozolotl/muchpdf](https://github.com/frozolotl/muchpdf) - Include PDF images in your Typst document
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 - [yangminz/bcst_csapp](https://github.com/yangminz/bcst_csapp) - A C language repo to implement CSAPP
 - [palera1n/palera1n-c](https://github.com/palera1n/palera1n-c) - palera1n written in C
 
@@ -169,7 +170,6 @@
 - [moxcomic/archer](https://github.com/moxcomic/archer) - Archer is a top-tier Mahjong AI development framework, currently reaching as high as Tenhou 9.7 dan. https://moxcomic.github.io/archer/
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) - Zero-DCE code and model
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
@@ -473,7 +473,7 @@
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
 - [zkawfanx/RLP](https://github.com/zkawfanx/RLP) - Learning Rain Location Prior for Nighttime Deraining (ICCV2023)
 - [daooshee/QuadPrior](https://github.com/daooshee/QuadPrior) - Official code for Zero-Reference Low-Light Enhancement via Physical Quadruple Priors (CVPR-24)
-- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - :fire: [CVPR 2024] Color Shift Estimation-and-Correction for Image Enhancement
+- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR 2024] Color Shift Estimation-and-Correction for Image Enhancement
 - [mrluin/TextualDegRemoval](https://github.com/mrluin/TextualDegRemoval) - [arXiv 2023] Improving Image Restoration through Removing Degradations in Textual Representations
 - [yz-wang/UCL-Dehaze](https://github.com/yz-wang/UCL-Dehaze) - Image dehazing
 - [MzeroMiko/VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models，code is based on mamba
