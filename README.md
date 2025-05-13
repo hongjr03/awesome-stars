@@ -538,6 +538,7 @@
 
 ## Rust 
 
+- [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
 - [skanehira/tiny-wasm-runtime](https://github.com/skanehira/tiny-wasm-runtime) - Reference Implementation for Book of "Writing A Wasm Runtime in Rust"
