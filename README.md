@@ -538,6 +538,7 @@
 
 ## Rust 
 
+- [tqwewe/rustdoc-md](https://github.com/tqwewe/rustdoc-md) - Convert Rust documentation JSON into clean, organized Markdown files
 - [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
