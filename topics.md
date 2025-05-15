@@ -876,7 +876,7 @@
 - [skanehira/tiny-wasm-runtime](https://github.com/skanehira/tiny-wasm-runtime) - Reference Implementation for Book of "Writing A Wasm Runtime in Rust"
 - [mcuking/wasmc](https://github.com/mcuking/wasmc) - :sparkles:  A WebAssembly interpreter written in C for demonstration
 - [wtklbm/crm](https://github.com/wtklbm/crm) - Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源
-- [Myriad-Dreamin/blog](https://github.com/Myriad-Dreamin/blog) - 
+- [Myriad-Dreamin/blog](https://github.com/Myriad-Dreamin/blog) - My blog.
 - [hongjr03/tinymist-coverage-workflow](https://github.com/hongjr03/tinymist-coverage-workflow) - 
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
