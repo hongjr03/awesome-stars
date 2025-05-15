@@ -52,7 +52,7 @@
 
 ## Astro 
 
-- [Myriad-Dreamin/blog](https://github.com/Myriad-Dreamin/blog) - 
+- [Myriad-Dreamin/blog](https://github.com/Myriad-Dreamin/blog) - My blog.
 - [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 
