@@ -869,6 +869,7 @@
 
 ## others 
 
+- [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
 - [tqwewe/rustdoc-md](https://github.com/tqwewe/rustdoc-md) - Convert Rust documentation JSON into clean, organized Markdown files
 - [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
 - [zoowayss/cursor-auto-account](https://github.com/zoowayss/cursor-auto-account) - 这是一个用于管理 Cursor 账号的 Web 服务，支持自动注册、存储账号信息、查看和修改账号状态。
