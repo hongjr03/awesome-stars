@@ -538,6 +538,7 @@
 
 ## Rust 
 
+- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [tqwewe/rustdoc-md](https://github.com/tqwewe/rustdoc-md) - Convert Rust documentation JSON into clean, organized Markdown files
 - [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
