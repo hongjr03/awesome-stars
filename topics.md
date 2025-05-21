@@ -81,6 +81,7 @@
 - [js](#js)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [latex](#latex)
 - [learning](#learning)
 - [linux](#linux)
@@ -292,6 +293,7 @@
 
 ## compiler 
 
+- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -549,6 +551,7 @@
 
 ## hacktoberfest 
 
+- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
@@ -668,6 +671,10 @@
 ## kubernetes 
 
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+
+## language 
+
+- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 
 ## latex 
 
