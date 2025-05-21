@@ -64,6 +64,7 @@
 
 ## C 
 
+- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [mbbill/Silverfir](https://github.com/mbbill/Silverfir) - A WebAssembly runtime for embedded systems
 - [yamt/toywasm](https://github.com/yamt/toywasm) - A WebAssembly interpreter written in C
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
