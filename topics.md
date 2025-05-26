@@ -879,6 +879,7 @@
 
 ## others 
 
+- [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
 - [tqwewe/rustdoc-md](https://github.com/tqwewe/rustdoc-md) - Convert Rust documentation JSON into clean, organized Markdown files
