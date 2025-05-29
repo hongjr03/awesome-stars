@@ -1028,7 +1028,7 @@
 - [joshyZhou/AST](https://github.com/joshyZhou/AST) - Adapt or Perish: Adaptive Sparse Transformer with Attentive Feature Refinement for Image Restoration
 - [xgqdut2016/cuda_code](https://github.com/xgqdut2016/cuda_code) - easy cuda code
 - [sahasatvik/typst-theorems](https://github.com/sahasatvik/typst-theorems) - An implementation of numbered theorem environments in typst
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工中）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [747929791/MajsoulAI](https://github.com/747929791/MajsoulAI) - 以JianYangAI作后端，进行在线雀魂对局
 - [LowLevelAI/GLARE](https://github.com/LowLevelAI/GLARE) - Official implementation of GLARE, which is accpeted by ECCV 2024.
