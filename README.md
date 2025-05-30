@@ -540,7 +540,9 @@
 
 ## Rust 
 
-- [Cariboujar/luscinia](https://github.com/Cariboujar/luscinia) - 
+- [fasterthanlime/pegviz](https://github.com/fasterthanlime/pegviz) - PEG trace visualizer
+- [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
+- [Cariboujar/luscinia](https://github.com/Cariboujar/luscinia) - A spreadsheet number formatting syntax parser and formatter for Rust.
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
