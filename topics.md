@@ -114,6 +114,7 @@
 - [opencv](#opencv)
 - [others](#others)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [php](#php)
 - [powershell](#powershell)
 - [programming](#programming)
@@ -884,7 +885,7 @@
 
 ## others 
 
-- [Cariboujar/luscinia](https://github.com/Cariboujar/luscinia) - 
+- [Cariboujar/luscinia](https://github.com/Cariboujar/luscinia) - A spreadsheet number formatting syntax parser and formatter for Rust.
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
@@ -1259,6 +1260,10 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
+## parsing 
+
+- [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
+
 ## php 
 
 - [yrccondor/mdx](https://github.com/yrccondor/mdx) - MDx - Material Design WordPress Theme
@@ -1391,6 +1396,8 @@
 
 ## rust 
 
+- [fasterthanlime/pegviz](https://github.com/fasterthanlime/pegviz) - PEG trace visualizer
+- [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
