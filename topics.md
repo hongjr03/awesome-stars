@@ -1069,7 +1069,7 @@
 - [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
 - [yzhuoning/Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) - Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).
 - [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
-- [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code or terminal with your favorite font and theme. Powered by solid.js
+- [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code or terminal with your favorite font and theme.
 - [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK) - 我的世界新兴论坛晋级赛，欢迎观战
 - [hongjr03/GameTower](https://github.com/hongjr03/GameTower) - We are students from OUC. We are making games. Do not copy.
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
