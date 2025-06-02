@@ -1396,6 +1396,8 @@
 
 ## rust 
 
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
+- [skanehira/chibiwasm](https://github.com/skanehira/chibiwasm) - A small Wasm Runtime
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [fasterthanlime/pegviz](https://github.com/fasterthanlime/pegviz) - PEG trace visualizer
 - [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
