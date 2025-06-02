@@ -539,6 +539,7 @@
 
 ## Rust 
 
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [fasterthanlime/pegviz](https://github.com/fasterthanlime/pegviz) - PEG trace visualizer
 - [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [Cariboujar/luscinia](https://github.com/Cariboujar/luscinia) - A spreadsheet number formatting syntax parser and formatter for Rust.
