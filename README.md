@@ -107,7 +107,6 @@
 - [Heptagon196/Dict](https://github.com/Heptagon196/Dict) - 命令行英汉/汉英字典
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [PanQL/zircon](https://github.com/PanQL/zircon) - 从fuchsia官方目录中分离出来的zircon代码
-- [hongjr03/GameTower](https://github.com/hongjr03/GameTower) - We are students from OUC. We are making games. Do not copy.
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [lihas/windows-DPI-scaling-sample](https://github.com/lihas/windows-DPI-scaling-sample) - App To mimic getting and setting DPI scaling for displays on a system
 - [Grandpas-Daddies/GameTower](https://github.com/Grandpas-Daddies/GameTower) - We are students from OUC. We are making games. Do not copy.
@@ -541,6 +540,7 @@
 
 ## Rust 
 
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [skanehira/chibiwasm](https://github.com/skanehira/chibiwasm) - A small Wasm Runtime
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
