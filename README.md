@@ -44,6 +44,7 @@
 - [V](#v)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [Zig](#zig)
 - [mcfunction](#mcfunction)
 
@@ -151,6 +152,7 @@
 
 ## Go 
 
+- [zxh0/wasmgo-book](https://github.com/zxh0/wasmgo-book) - 《WebAssembly原理与核心技术》随书源代码
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -789,6 +791,10 @@
 - [NyaaCat/NyaaStats](https://github.com/NyaaCat/NyaaStats) - Public player stats page generator
 - [Enter-tainer/cxx2flow-gui](https://github.com/Enter-tainer/cxx2flow-gui) - Tauri based GUI for cxx2flow
 - [lxfater/Learning-By-GPT](https://github.com/lxfater/Learning-By-GPT) - A chrome extension helps you learn using ai technology.
+
+## WebAssembly 
+
+- [Relph1119/wasm-python-book](https://github.com/Relph1119/wasm-python-book) - 《WebAssembly原理与核心技术》WebAssembly解释器的Python实现
 
 ## Zig 
 
