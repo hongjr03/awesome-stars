@@ -52,6 +52,7 @@
 - [emoji](#emoji)
 - [firefox](#firefox)
 - [flask](#flask)
+- [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
 - [game](#game)
@@ -274,6 +275,7 @@
 
 ## clash 
 
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
@@ -485,6 +487,10 @@
 
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 
+## flutter 
+
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
+
 ## font 
 
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
@@ -547,6 +553,7 @@
 
 ## golang 
 
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -600,6 +607,7 @@
 
 ## http 
 
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
 ## https 
@@ -750,6 +758,7 @@
 
 ## macos 
 
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem, designed to minimize distractions and enhance the retention of information.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
@@ -955,7 +964,7 @@
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
 - [wenbin-liu/typst-hugo](https://github.com/wenbin-liu/typst-hugo) - A typst to html compiler for hugo
-- [hust-open-atom-club/intro2oss](https://github.com/hust-open-atom-club/intro2oss) - 开源软件通识课程 (Introduction to Open Source Software)，本课程暂定设计面向信息大类专业的大一学生
+- [hust-open-atom-club/intro2oss](https://github.com/hust-open-atom-club/intro2oss) - 开源软件通识课程 (Introduction to Open Source Software)，本课程暂定设计面向信息大类专业的低年级学生
 - [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
 - [lublak/typst-spreet-package](https://github.com/lublak/typst-spreet-package) - 
 - [slowli/externref](https://github.com/slowli/externref) - Low-cost reference type shims for WASM modules
@@ -1569,6 +1578,7 @@
 
 ## vpn 
 
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [lcandy2/webvpn-converter](https://github.com/lcandy2/webvpn-converter) - 轻松访问校内网络资源，无需繁琐设置，只需粘贴链接，常规网址即刻转化为您学校的Web VPN网址。
 
 ## vue 
@@ -1595,6 +1605,7 @@
 
 ## windows 
 
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem, designed to minimize distractions and enhance the retention of information.
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
