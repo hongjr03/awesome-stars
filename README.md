@@ -153,7 +153,7 @@
 
 ## Go 
 
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [zxh0/wasmgo-book](https://github.com/zxh0/wasmgo-book) - 《WebAssembly原理与核心技术》随书源代码
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -586,7 +586,7 @@
 - [sjfhsjfh/typst-wasm](https://github.com/sjfhsjfh/typst-wasm) - 
 - [YDX-2147483647/typechat-link](https://github.com/YDX-2147483647/typechat-link) - 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客节目。此项目从其网站爬取各期的参考链接，并整理出一些信息。
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
-- [tingerrr/tytanic](https://github.com/tingerrr/tytanic) - A test runner for typst projects.
+- [typst-community/tytanic](https://github.com/typst-community/tytanic) - A test runner for typst projects.
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [kokic/kodama](https://github.com/kokic/kodama) - A Typst-friendly static Zettelkästen site generator.
@@ -734,6 +734,7 @@
 
 ## Typst 
 
+- [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
 - [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
 - [Myriad-Dreamin/blog](https://github.com/Myriad-Dreamin/blog) - My blog.
 - [ParaN3xus/haobook](https://github.com/ParaN3xus/haobook) - A Typst book template inspired by kaobook
