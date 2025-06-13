@@ -490,7 +490,7 @@
 - [csguoh/MambaIR](https://github.com/csguoh/MambaIR) - [ECCV2024, CVPR2025] MambaIR and MambaIRv2!
 - [suxuann/ddib](https://github.com/suxuann/ddib) - Dual Diffusion Implicit Bridges for Image-to-Image Translation. ICLR 2023.
 - [linfengWen98/CAP-VSTNet](https://github.com/linfengWen98/CAP-VSTNet) - [CVPR 2023] CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer
-- [SakuraHentai/nursery-bot](https://github.com/SakuraHentai/nursery-bot) - 开局托儿所 bot
+- [rikkayoru/nursery-bot](https://github.com/rikkayoru/nursery-bot) - 开局托儿所 bot
 - [avinabsaha/ReIQA](https://github.com/avinabsaha/ReIQA) - Official implementation for CVPR2023 Paper "Re-IQA : Unsupervised Learning for Image Quality Assessment in the Wild"
 - [AiArt-Gao/MATEBIT](https://github.com/AiArt-Gao/MATEBIT) - [CVPR'23] Masked and Adaptive Transformer for Exemplar Based Image Translation (MATEBIT)
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
@@ -544,6 +544,9 @@
 
 ## Rust 
 
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
+- [nfejzic/mathemascii](https://github.com/nfejzic/mathemascii) - AsciiMath parser written in Rust.
+- [Trivernis/asciimath-rs](https://github.com/Trivernis/asciimath-rs) - A crate for parsing AsciiMath in rust.
 - [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
