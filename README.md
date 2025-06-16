@@ -25,6 +25,7 @@
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Markdown](#markdown)
+- [Nim](#nim)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -289,6 +290,10 @@
 
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## Nim 
+
+- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 
 ## OCaml 
 
