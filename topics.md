@@ -86,6 +86,7 @@
 - [language](#language)
 - [latex](#latex)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [llm](#llm)
 - [login](#login)
@@ -720,6 +721,10 @@
 
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 
+## library 
+
+- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
+
 ## linux 
 
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem, designed to minimize distractions and enhance the retention of information.
@@ -1333,6 +1338,7 @@
 
 ## python 
 
+- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [OrangeX4/typst-sympy-calculator](https://github.com/OrangeX4/typst-sympy-calculator) - Parse typst math expressions into sympy form for calc and define your custom functions in typst files.
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime
@@ -1363,6 +1369,7 @@
 
 ## python3 
 
+- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
 - [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
