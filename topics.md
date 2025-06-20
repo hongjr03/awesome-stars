@@ -1447,6 +1447,7 @@
 
 ## rust 
 
+- [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem, designed to minimize distractions and enhance the retention of information.
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
