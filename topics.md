@@ -922,6 +922,7 @@
 
 ## others 
 
+- [anqur/TinyLean](https://github.com/anqur/TinyLean) - Tiny theorem prover with syntax like Lean 4 in &lt;1K LOC
 - [ITStudioOUC/xha_auto_login_wifi](https://github.com/ITStudioOUC/xha_auto_login_wifi) - 
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 - [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
@@ -1244,7 +1245,7 @@
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [KevinOfCathay/DDPM-demo](https://github.com/KevinOfCathay/DDPM-demo) - pytorch ddpm demo
 - [Ray2OUC/P2CNet](https://github.com/Ray2OUC/P2CNet) - Deep Color Compensation for Generalized Underwater Image Enhancement
-- [markyin0707/typora-activation](https://github.com/markyin0707/typora-activation) - Typora最新的激活破解方案，三步即激活。 😊实时更新中/👩‍🎓学生党必备，有条件支持正版的请不要点开🔞🈲️。Activate Typora
+- [eglfiv/typora-activation](https://github.com/eglfiv/typora-activation) - Typora最新的激活破解方案，三步即激活。 😊实时更新中/👩‍🎓学生党必备，有条件支持正版的请不要点开🔞🈲️。Activate Typora
 - [LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) - U-shape Transformer for Underwater Image Enhancement
 - [BIGWangYuDong/lqit](https://github.com/BIGWangYuDong/lqit) - Low Quality Image Toolbox
 - [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) - Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Meth
