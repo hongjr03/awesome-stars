@@ -922,6 +922,7 @@
 
 ## others 
 
+- [ITStudioOUC/xha_auto_login_wifi](https://github.com/ITStudioOUC/xha_auto_login_wifi) - 
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 - [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
 - [nfejzic/mathemascii](https://github.com/nfejzic/mathemascii) - AsciiMath parser written in Rust.
