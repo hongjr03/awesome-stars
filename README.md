@@ -294,7 +294,7 @@
 
 ## Nim 
 
-- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
+- [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 
 ## OCaml 
 
