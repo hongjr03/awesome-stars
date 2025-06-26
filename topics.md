@@ -724,7 +724,7 @@
 
 ## library 
 
-- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
+- [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 
 ## linux 
 
@@ -1342,7 +1342,7 @@
 
 ## python 
 
-- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
+- [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [OrangeX4/typst-sympy-calculator](https://github.com/OrangeX4/typst-sympy-calculator) - Parse typst math expressions into sympy form for calc and define your custom functions in typst files.
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
 - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime
@@ -1373,7 +1373,7 @@
 
 ## python3 
 
-- [nimpylib/pylib](https://github.com/nimpylib/pylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
+- [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
 - [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
