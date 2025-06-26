@@ -666,7 +666,7 @@
 ## Swift 
 
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [AlexStrNik/SafariPark](https://github.com/AlexStrNik/SafariPark) - Brings Safari’s OTP autofill to any macOS app
