@@ -56,7 +56,6 @@
 ## Astro 
 
 - [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 
 ## Batchfile 
 
@@ -202,6 +201,7 @@
 
 ## JavaScript 
 
+- [thedevdojo/static](https://github.com/thedevdojo/static) - ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
 - [borgar/numfmt](https://github.com/borgar/numfmt) - Full ECMA-376 number and date formatting in JavaScript
 - [remarkablemark/html-dom-parser](https://github.com/remarkablemark/html-dom-parser) - 📝 HTML to DOM parser.
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
@@ -744,6 +744,7 @@
 
 ## Typst 
 
+- [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
 - [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
 - [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
 - [Myriad-Dreamin/blog](https://github.com/Myriad-Dreamin/blog) - My blog.
