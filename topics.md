@@ -147,7 +147,6 @@
 - [statistics](#statistics)
 - [swift](#swift)
 - [swiftui](#swiftui)
-- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -604,6 +603,7 @@
 
 ## html 
 
+- [thedevdojo/static](https://github.com/thedevdojo/static) - ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [remarkablemark/html-dom-parser](https://github.com/remarkablemark/html-dom-parser) - 📝 HTML to DOM parser.
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
@@ -922,6 +922,7 @@
 
 ## others 
 
+- [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
 - [anqur/TinyLean](https://github.com/anqur/TinyLean) - Tiny theorem prover with syntax like Lean 4 in &lt;1K LOC
 - [ITStudioOUC/xha_auto_login_wifi](https://github.com/ITStudioOUC/xha_auto_login_wifi) - 
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
@@ -1535,17 +1536,12 @@
 
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 
-## tailwind 
-
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
-
 ## tailwindcss 
 
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
 - [kuizuo/blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
 
 ## telegram 
@@ -1639,6 +1635,7 @@
 
 ## website 
 
+- [thedevdojo/static](https://github.com/thedevdojo/static) - ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
 - [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
 - [lcandy2/webvpn-converter](https://github.com/lcandy2/webvpn-converter) - 轻松访问校内网络资源，无需繁琐设置，只需粘贴链接，常规网址即刻转化为您学校的Web VPN网址。
 
