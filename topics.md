@@ -1235,7 +1235,7 @@
 - [chenyang1999/MyComputerCollegeCourses](https://github.com/chenyang1999/MyComputerCollegeCourses) - 我的大学课程学习资料汇总
 - [timdyh/library-management-system](https://github.com/timdyh/library-management-system) - 2017级北航计算机学院软件工程个人作业-图书馆借阅系统
 - [tuanzi0701/notion_cn](https://github.com/tuanzi0701/notion_cn) - notion客户端汉化，包括mac和win
-- [geeeeeeeek/python_book](https://github.com/geeeeeeeek/python_book) - （Python+Django+Vue）在线图书借阅网站、图书管理系统 - 毕业设计 - 课程设计
+- [geeeeeeeek/python_book](https://github.com/geeeeeeeek/python_book) - （Python+Django+Vue）在线图书借阅网站、图书管理系统 - 毕业设计 - 课程设计- 视频讲解
 - [cuiziteng/Aleth-NeRF](https://github.com/cuiziteng/Aleth-NeRF) - 🌕 [AAAI 2024] Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption (Low-light enhance / Exposure correction + NeRF)
 - [deborahLevy130/seathru_NeRF](https://github.com/deborahLevy130/seathru_NeRF) - official implementation of SeaThru-NeRF CVPR 2023
 - [wangchx67/FourLLIE](https://github.com/wangchx67/FourLLIE) - This is the official pytorch implementation of "FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information" (ACM MM 2023)
