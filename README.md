@@ -815,7 +815,7 @@
 - [CS-BAOYAN/CS-BAOYAN-DDL](https://github.com/CS-BAOYAN/CS-BAOYAN-DDL) - 夏令营截止日期DDL静态网页
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [baobaoJK/Vue-Element-Plus-SpringBoot-Library](https://github.com/baobaoJK/Vue-Element-Plus-SpringBoot-Library) - Vue-Element-Plus-SpringBoot-Library
-- [geeeeeeeek/python_book](https://github.com/geeeeeeeek/python_book) - （Python+Django+Vue）在线图书借阅网站、图书管理系统 - 毕业设计 - 课程设计
+- [geeeeeeeek/python_book](https://github.com/geeeeeeeek/python_book) - （Python+Django+Vue）在线图书借阅网站、图书管理系统 - 毕业设计 - 课程设计- 视频讲解
 - [NyaaCat/NyaaStats](https://github.com/NyaaCat/NyaaStats) - Public player stats page generator
 - [Enter-tainer/cxx2flow-gui](https://github.com/Enter-tainer/cxx2flow-gui) - Tauri based GUI for cxx2flow
 - [lxfater/Learning-By-GPT](https://github.com/lxfater/Learning-By-GPT) - A chrome extension helps you learn using ai technology.
