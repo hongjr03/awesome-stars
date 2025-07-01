@@ -592,7 +592,7 @@
 - [danieleades/mdbook-d2](https://github.com/danieleades/mdbook-d2) - D2 diagram generator plugin for MdBook
 - [bokuweb/docx-rs](https://github.com/bokuweb/docx-rs) - :memo:  A .docx file writer with Rust/WebAssembly.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
 - [sjfhsjfh/typst-relescope](https://github.com/sjfhsjfh/typst-relescope) - 
 - [sjfhsjfh/typst-wasm](https://github.com/sjfhsjfh/typst-wasm) - 
