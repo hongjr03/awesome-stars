@@ -380,7 +380,7 @@
 
 ## Python 
 
-- [maoken-fonts/flex-sans](https://github.com/maoken-fonts/flex-sans) - 
+- [maoken-fonts/flex-sans](https://github.com/maoken-fonts/flex-sans) - Source files of Flex Sans Project | 械黑计划字型源文件
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [anqur/TinyLean](https://github.com/anqur/TinyLean) - Tiny theorem prover with syntax like Lean 4 in &lt;1K LOC
 - [ITStudioOUC/xha_auto_login_wifi](https://github.com/ITStudioOUC/xha_auto_login_wifi) - 
