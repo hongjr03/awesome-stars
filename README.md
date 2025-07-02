@@ -678,6 +678,7 @@
 
 ## TeX 
 
+- [AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp) - Frama-C and WP tutorial
 - [GuangLun2000/COMAP-MCM-2024](https://github.com/GuangLun2000/COMAP-MCM-2024) - 数模美赛材料合集 COMAP MCM/ICM 2025
 - [XPixelGroup/BasicSR-docs](https://github.com/XPixelGroup/BasicSR-docs) - 
 - [ameDev21/6-033-mit-notes](https://github.com/ameDev21/6-033-mit-notes) - This repo contains all 6.033 notes, with slides, some papers.
