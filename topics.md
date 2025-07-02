@@ -925,6 +925,7 @@
 
 ## others 
 
+- [maoken-fonts/flex-sans](https://github.com/maoken-fonts/flex-sans) - 
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
 - [anqur/TinyLean](https://github.com/anqur/TinyLean) - Tiny theorem prover with syntax like Lean 4 in &lt;1K LOC
