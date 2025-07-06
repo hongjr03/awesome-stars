@@ -65,6 +65,7 @@
 
 ## C 
 
+- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [ichi4096/vivado-on-silicon-mac](https://github.com/ichi4096/vivado-on-silicon-mac) - Installs Vivado on M1/M2/M3 macs
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [mbbill/Silverfir](https://github.com/mbbill/Silverfir) - A WebAssembly runtime for embedded systems
