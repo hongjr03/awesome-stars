@@ -197,7 +197,6 @@
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [GhastCraftHD/Miniaturise](https://github.com/GhastCraftHD/Miniaturise) - A Minecraft Paper plugin that helps you to create miniatures of your builds and makes working with Block Displays easy
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
-- [adventurer-w/Computer-network-TCP](https://github.com/adventurer-w/Computer-network-TCP) - 计算机网络TCP大实验
 - [SincereXIA/XidianCS](https://github.com/SincereXIA/XidianCS) - 西安电子科技大学 计算机科学与技术专业 笔记、上机作业、实验 etc.
 - [DrDREAM233/auto-get-fu-card](https://github.com/DrDREAM233/auto-get-fu-card) - 自动领取支付宝福卡
 - [Flo56958/MineTinker](https://github.com/Flo56958/MineTinker) - A TinkersConstruct-inspired Spigot plugin
