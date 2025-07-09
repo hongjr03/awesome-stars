@@ -1240,7 +1240,6 @@
 - [DarrenPan/Awesome-ICCV2023-Low-Level-Vision](https://github.com/DarrenPan/Awesome-ICCV2023-Low-Level-Vision) - A Collection of Papers and Codes in ICCV2023/2021 about low level vision
 - [Li-Chongyi/UHDFour_code](https://github.com/Li-Chongyi/UHDFour_code) - 
 - [xahidbuffon/Awesome_Underwater_Datasets](https://github.com/xahidbuffon/Awesome_Underwater_Datasets) - Pointers to large-scale underwater datasets and relevant resources.
-- [adventurer-w/Computer-network-TCP](https://github.com/adventurer-w/Computer-network-TCP) - 计算机网络TCP大实验
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [Ysz2022/NeRCo](https://github.com/Ysz2022/NeRCo) - [ICCV 2023] Implicit Neural Representation for Cooperative Low-light Image Enhancement
 - [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter) - A quickstart template to create a Hugo blog using hugo-theme-stack
