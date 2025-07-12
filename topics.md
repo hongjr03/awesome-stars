@@ -937,6 +937,7 @@
 
 ## others 
 
+- [kxxt/overleaf](https://github.com/kxxt/overleaf) - A web-based collaborative LaTeX editor
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [maoken-fonts/flex-sans](https://github.com/maoken-fonts/flex-sans) - Source files of Flex Sans Project | 械黑计划字型源文件
