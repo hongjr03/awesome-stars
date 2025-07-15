@@ -141,6 +141,7 @@
 
 ## Dart 
 
+- [josxha/minecraft-purpur-docker](https://github.com/josxha/minecraft-purpur-docker) - Automatic Docker builds for Minecraft Purpur server
 - [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
