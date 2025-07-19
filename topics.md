@@ -213,8 +213,7 @@
 
 ## artificial-intelligence 
 
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
-- [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
+- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 
 ## automation 
@@ -324,8 +323,8 @@
 
 ## computer-vision 
 
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
-- [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
 - [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - [KBS 2025] SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement
 - [fansuregrin/RAUNE-Net](https://github.com/fansuregrin/RAUNE-Net) - A Residual and Attention-Driven Underwater Image Enhancement (UIE) method.
@@ -471,7 +470,7 @@
 ## electron 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -638,8 +637,8 @@
 
 ## image-processing 
 
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
-- [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
 - [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
 - [fansuregrin/RAUNE-Net](https://github.com/fansuregrin/RAUNE-Net) - A Residual and Attention-Driven Underwater Image Enhancement (UIE) method.
@@ -934,7 +933,7 @@
 
 ## opencv 
 
-- [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
+- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [jayboxyz/deeplearning-cv-notes](https://github.com/jayboxyz/deeplearning-cv-notes) - :notebook: DeepLearning and CV notes.
 
 ## others 
@@ -1402,7 +1401,7 @@
 ## python3 
 
 - [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
-- [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
+- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
@@ -1411,8 +1410,8 @@
 
 - [WiwilZ/MVMD-PyTorch](https://github.com/WiwilZ/MVMD-PyTorch) - Multivariate Variational Mode Decomposition implemented in PyTorch
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
-- [Tohrusky/Final2x-core](https://github.com/Tohrusky/Final2x-core) - core for Final2x
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [VITA-Group/EnlightenGAN](https://github.com/VITA-Group/EnlightenGAN) - [IEEE TIP] "EnlightenGAN: Deep Light Enhancement without Paired Supervision" by Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang
 - [c-yn/IRNeXt](https://github.com/c-yn/IRNeXt) - [ICML2023] IRNeXt: Rethinking Convolutional Network Design for Image Restoration
 - [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
@@ -1613,7 +1612,7 @@
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
