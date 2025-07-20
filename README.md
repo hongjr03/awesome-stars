@@ -536,7 +536,7 @@
 - [Li-Chongyi/Water-Net_Code](https://github.com/Li-Chongyi/Water-Net_Code) - Code repository for our paper Chongyi Li, Chunle Guo, Wenqi Ren, Runmin Cong, Junhui Hou, Sam Kwong, Dacheng Tao , "An Underwater Image Enhancement Benchmark Dataset and Beyond" IEEE TIP 2019.
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [bixiangpeng/HiSIF-DTA](https://github.com/bixiangpeng/HiSIF-DTA) - 
-- [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023) & (NTIRE 2024 Challenge)
+- [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023) & (NTIRE 2024 Runner-Up)
 - [KevinOfCathay/DDPM-demo](https://github.com/KevinOfCathay/DDPM-demo) - pytorch ddpm demo
 - [jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze) - [ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738
 - [BIGWangYuDong/lqit](https://github.com/BIGWangYuDong/lqit) - Low Quality Image Toolbox
