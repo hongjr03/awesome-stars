@@ -1269,7 +1269,7 @@
 - [Li-Chongyi/Water-Net_Code](https://github.com/Li-Chongyi/Water-Net_Code) - Code repository for our paper Chongyi Li, Chunle Guo, Wenqi Ren, Runmin Cong, Junhui Hou, Sam Kwong, Dacheng Tao , "An Underwater Image Enhancement Benchmark Dataset and Beyond" IEEE TIP 2019.
 - [shufflewzc/faker2](https://github.com/shufflewzc/faker2) - 不破楼兰终不还
 - [bixiangpeng/HiSIF-DTA](https://github.com/bixiangpeng/HiSIF-DTA) - 
-- [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023) & (NTIRE 2024 Challenge)
+- [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023) & (NTIRE 2024 Runner-Up)
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [KevinOfCathay/DDPM-demo](https://github.com/KevinOfCathay/DDPM-demo) - pytorch ddpm demo
