@@ -173,6 +173,7 @@
 
 ## ai 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [moxcomic/archer](https://github.com/moxcomic/archer) - Archer is a top-tier Mahjong AI development framework, currently reaching as high as Tenhou 9.7 dan. https://moxcomic.github.io/archer/
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -378,7 +379,6 @@
 
 ## data-science 
 
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
