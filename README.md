@@ -325,7 +325,7 @@
 - [ACT-02/PingFang-for-Windows](https://github.com/ACT-02/PingFang-for-Windows) - 为 Windows 适配的苹方字体。
 - [ladeng07/7MA-Helper](https://github.com/ladeng07/7MA-Helper) - IOS快捷指令：7MA助手，功能包括扫码骑车，一键还车，一键续借，订单状态，长时间锁车等
 - [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - 
-- [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
+- [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI] 具身智能技术指南 Embodied-AI-Guide
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp) - 『微信小程序』优秀教程、轮子、开源项目 资源汇总
