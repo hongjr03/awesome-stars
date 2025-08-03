@@ -1233,7 +1233,7 @@
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [MzeroMiko/VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models，code is based on mamba
 - [elegaanz/vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
-- [Michael-Williams49/latex-report-template](https://github.com/Michael-Williams49/latex-report-template) - The report class is a LaTeX template designed to provide a swift, elegant, and modern way to typeset reports, suitable for a wide range of purposes, from documentations to lab reports.
+- [mw54/latex-report-template](https://github.com/mw54/latex-report-template) - The report class is a LaTeX template designed to provide a swift, elegant, and modern way to typeset reports, suitable for a wide range of purposes, from documentations to lab reports.
 - [zzr-idam/UVM-Net](https://github.com/zzr-idam/UVM-Net) - U-shaped Vision Mamba for Single Image Dehazing
 - [AkexStar/LaTeX-Homework-Template](https://github.com/AkexStar/LaTeX-Homework-Template) - 使用CTeX包的中文LaTeX作业模板 This is a LaTeX class (with companion MathJax component) aimed towards formatting homework.
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) - Elegant LaTeX Template for Books
