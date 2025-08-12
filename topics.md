@@ -217,7 +217,6 @@
 
 ## artificial-intelligence 
 
-- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 
 ## automation 
@@ -946,7 +945,6 @@
 
 ## opencv 
 
-- [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [jayboxyz/deeplearning-cv-notes](https://github.com/jayboxyz/deeplearning-cv-notes) - :notebook: DeepLearning and CV notes.
 
 ## others 
