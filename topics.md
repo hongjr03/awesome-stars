@@ -332,7 +332,7 @@
 
 ## computer-vision 
 
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
 - [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
 - [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - [KBS 2025] SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement
@@ -485,7 +485,7 @@
 ## electron 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -651,7 +651,7 @@
 
 ## image-processing 
 
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
 - [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
 - [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
@@ -1427,7 +1427,7 @@
 
 - [WiwilZ/MVMD-PyTorch](https://github.com/WiwilZ/MVMD-PyTorch) - Multivariate Variational Mode Decomposition implemented in PyTorch
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
 - [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [VITA-Group/EnlightenGAN](https://github.com/VITA-Group/EnlightenGAN) - [IEEE TIP] "EnlightenGAN: Deep Light Enhancement without Paired Supervision" by Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang
 - [c-yn/IRNeXt](https://github.com/c-yn/IRNeXt) - [ICML2023] IRNeXt: Rethinking Convolutional Network Design for Image Restoration
@@ -1629,7 +1629,7 @@
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
