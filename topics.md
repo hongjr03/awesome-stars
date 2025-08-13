@@ -123,6 +123,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [php](#php)
+- [physics](#physics)
 - [powershell](#powershell)
 - [productivity](#productivity)
 - [programming](#programming)
@@ -1021,7 +1022,6 @@
 - [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows Vista through 11.
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [flaribbit/numbly](https://github.com/flaribbit/numbly) - A package that helps you to specify different numbering formats for different levels of headings.
-- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
@@ -1355,6 +1355,10 @@
 
 - [yrccondor/mdx](https://github.com/yrccondor/mdx) - MDx - Material Design WordPress Theme
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
+
+## physics 
+
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 
 ## powershell 
 
