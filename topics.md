@@ -1418,6 +1418,7 @@
 
 ## python3 
 
+- [nimpylib/npython](https://github.com/nimpylib/npython) - (Subset of) Python programming language implemented in Nim
 - [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [TensoRaws/Final2x-core](https://github.com/TensoRaws/Final2x-core) - core for Final2x
 - [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
