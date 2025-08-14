@@ -298,6 +298,7 @@
 
 ## Nim 
 
+- [nimpylib/npython](https://github.com/nimpylib/npython) - (Subset of) Python programming language implemented in Nim
 - [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 
 ## OCaml 
