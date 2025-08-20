@@ -114,6 +114,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -928,6 +929,10 @@
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
+## obsidian-md 
+
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+
 ## obsidian-plugin 
 
 - [kirito41dd/obsidian-hugo-publish](https://github.com/kirito41dd/obsidian-hugo-publish) - write blog in obsidian, pubulish to hugo site.
@@ -989,7 +994,6 @@
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
 - [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
 - [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - A CommonMark writer implementation in Rust.
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
