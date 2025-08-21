@@ -339,7 +339,7 @@
 - [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - [KBS 2025] SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement
 - [fansuregrin/RAUNE-Net](https://github.com/fansuregrin/RAUNE-Net) - A Residual and Attention-Driven Underwater Image Enhancement (UIE) method.
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
-- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Color Shift Estimation-and-Correction for Image Enhancement
+- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Official Implementation of Paper "Color Shift Estimation-and-Correction for Image Enhancement"
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
@@ -1444,7 +1444,7 @@
 - [henryhmko/Deep_Sea-NN](https://github.com/henryhmko/Deep_Sea-NN) - Enhancing underwater images using a truncated U-Net architecture for real-time color correction applications
 - [gy65896/OneRestore](https://github.com/gy65896/OneRestore) - [ECCV 2024] OneRestore: A Universal Restoration Framework for Composite Degradation
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
-- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Color Shift Estimation-and-Correction for Image Enhancement
+- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Official Implementation of Paper "Color Shift Estimation-and-Correction for Image Enhancement"
 - [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 👁️ 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
