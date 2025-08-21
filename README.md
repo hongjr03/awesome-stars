@@ -499,7 +499,7 @@
 - [gaogaotiantian/objprint](https://github.com/gaogaotiantian/objprint) - A library that can print Python objects in human readable format
 - [zkawfanx/RLP](https://github.com/zkawfanx/RLP) - Learning Rain Location Prior for Nighttime Deraining (ICCV2023)
 - [daooshee/QuadPrior](https://github.com/daooshee/QuadPrior) - Official code for Zero-Reference Low-Light Enhancement via Physical Quadruple Priors (CVPR-24)
-- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Color Shift Estimation-and-Correction for Image Enhancement
+- [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Official Implementation of Paper "Color Shift Estimation-and-Correction for Image Enhancement"
 - [mrluin/TextualDegRemoval](https://github.com/mrluin/TextualDegRemoval) - [arXiv 2023] Improving Image Restoration through Removing Degradations in Textual Representations
 - [yz-wang/UCL-Dehaze](https://github.com/yz-wang/UCL-Dehaze) - Image dehazing
 - [MzeroMiko/VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models，code is based on mamba
