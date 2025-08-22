@@ -1034,7 +1034,7 @@
 - [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
 - [lublak/typst-spreet-package](https://github.com/lublak/typst-spreet-package) - 
 - [slowli/externref](https://github.com/slowli/externref) - Low-cost reference type shims for WASM modules
-- [typst-doc-cn/guide](https://github.com/typst-doc-cn/guide) - 
+- [typst-doc-cn/guide](https://github.com/typst-doc-cn/guide) - Typst 中文社区导航——这里收集了一些官方文档和小蓝书中未提到的一些问题和小技巧，尤其是面向中文用户的。
 - [Myriad-Dreamin/vistyp](https://github.com/Myriad-Dreamin/vistyp) - Simple visualized cetz editor
 - [SabrinaJewson/cmarker.typ](https://github.com/SabrinaJewson/cmarker.typ) - Transpile CommonMark Markdown to Typst, from within Typst!
 - [vivek2293/AI-Driven-Game-Automation](https://github.com/vivek2293/AI-Driven-Game-Automation) - Using Reinforcement Learning to play "Modern Warship Android Game"
