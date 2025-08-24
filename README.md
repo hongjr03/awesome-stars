@@ -840,6 +840,7 @@
 
 ## WebAssembly 
 
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [Relph1119/wasm-python-book](https://github.com/Relph1119/wasm-python-book) - 《WebAssembly原理与核心技术》WebAssembly解释器的Python实现
 
 ## Zig 
