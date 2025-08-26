@@ -949,7 +949,7 @@
 
 ## others 
 
-- [ParaN3xus/typst-playground](https://github.com/ParaN3xus/typst-playground) - Recreate the online editing experience of typst.app based on tinymist and typst.ts
+- [ParaN3xus/tyraria](https://github.com/ParaN3xus/tyraria) - Recreate the online editing experience of typst.app based on tinymist and typst.ts
 - [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM).
 - [OverflowCat/astro-typst](https://github.com/OverflowCat/astro-typst) - All-in-one Typst integration for Astro
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
