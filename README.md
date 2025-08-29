@@ -268,6 +268,7 @@
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [ykdai/Flare7K](https://github.com/ykdai/Flare7K) - Official Implementation of "Flare7K: A Phenomenological Nighttime Flare Removal Dataset"
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
+- [OFA-Sys/Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
 - [yangqy1110/Diffusion-Models](https://github.com/yangqy1110/Diffusion-Models) - 扩散模型原理和pytorch代码实现初学资料汇总
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [Ray2OUC/P2CNet](https://github.com/Ray2OUC/P2CNet) - Deep Color Compensation for Generalized Underwater Image Enhancement
@@ -525,7 +526,6 @@
 - [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - Open source Pan-CJK pixel font / 开源的泛中日韩像素字体
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
 - [Li-Chongyi/UHDFour_code](https://github.com/Li-Chongyi/UHDFour_code) - 
-- [OFA-Sys/Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
 - [Ysz2022/NeRCo](https://github.com/Ysz2022/NeRCo) - [ICCV 2023] Implicit Neural Representation for Cooperative Low-light Image Enhancement
 - [limuloo/PyDIff](https://github.com/limuloo/PyDIff) - [IJCAI 2023 ORAL] "Pyramid Diffusion Models For Low-light Image Enhancement" (Official Implementation)
 - [timdyh/library-management-system](https://github.com/timdyh/library-management-system) - 2017级北航计算机学院软件工程个人作业-图书馆借阅系统
