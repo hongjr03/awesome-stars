@@ -765,6 +765,7 @@
 
 ## Typst 
 
+- [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
 - [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
 - [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
 - [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
