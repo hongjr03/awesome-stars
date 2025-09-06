@@ -56,6 +56,7 @@
 
 ## Astro 
 
+- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [Dnzzk2/Litos](https://github.com/Dnzzk2/Litos) - A Simple & Modern Blog Theme for Astro
 - [OverflowCat/astro-typst](https://github.com/OverflowCat/astro-typst) - All-in-one Typst integration for Astro
 - [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
