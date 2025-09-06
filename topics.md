@@ -823,6 +823,7 @@
 
 ## markdown 
 
+- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [SlateDesign/slate-blog](https://github.com/SlateDesign/slate-blog) - A minimal, elegant, and modern blog theme built with Astro.
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
