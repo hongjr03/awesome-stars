@@ -629,7 +629,7 @@
 - [SabrinaJewson/cmarker.typ](https://github.com/SabrinaJewson/cmarker.typ) - Transpile CommonMark Markdown to Typst, from within Typst!
 - [sjfhsjfh/typship](https://github.com/sjfhsjfh/typship) - A Typst package CLI tool
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
