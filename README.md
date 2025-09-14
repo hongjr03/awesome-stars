@@ -565,6 +565,7 @@
 
 ## Rust 
 
+- [Mivik/bijou](https://github.com/Mivik/bijou) - Bijou is a tiny embeddable encrypted filesystem.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
