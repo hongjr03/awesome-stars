@@ -612,7 +612,6 @@
 - [bokuweb/docx-rs](https://github.com/bokuweb/docx-rs) - :memo:  A .docx file writer with Rust/WebAssembly.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-- [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
 - [sjfhsjfh/typst-relescope](https://github.com/sjfhsjfh/typst-relescope) - 
 - [sjfhsjfh/typst-wasm](https://github.com/sjfhsjfh/typst-wasm) - 
 - [YDX-2147483647/typechat-link](https://github.com/YDX-2147483647/typechat-link) - 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客节目。此项目从其网站爬取各期的参考链接，并整理出一些信息。
@@ -778,6 +777,7 @@
 - [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
 - [Myriad-Dreamin/blog](https://github.com/Myriad-Dreamin/blog) - My blog.
 - [ParaN3xus/haobook](https://github.com/ParaN3xus/haobook) - A Typst book template inspired by kaobook
+- [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
 - [OrangeX4/typst-theorion](https://github.com/OrangeX4/typst-theorion) - Out-of-the-box, customizable and multilingual theorem environment package for Typst.
 - [OrangeX4/typst-ori](https://github.com/OrangeX4/typst-ori) - Simple enough but expressive template for notes, reports, and documents for Typst.
 - [ParaN3xus/typst-snippets](https://github.com/ParaN3xus/typst-snippets) - ParaN3xus's Typst Snippets
