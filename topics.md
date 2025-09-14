@@ -953,6 +953,7 @@
 
 ## others 
 
+- [Mivik/bijou](https://github.com/Mivik/bijou) - Bijou is a tiny embeddable encrypted filesystem.
 - [hamster1963/NextMe](https://github.com/hamster1963/NextMe) - NextMe is a personal website built with Next.js and Tailwind CSS.
 - [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
 - [ParaN3xus/tyraria](https://github.com/ParaN3xus/tyraria) - Recreate the online editing experience of typst.app based on tinymist and typst.ts
