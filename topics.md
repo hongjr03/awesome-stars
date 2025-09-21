@@ -970,6 +970,7 @@
 
 ## others 
 
+- [uwni/11ty-pst](https://github.com/uwni/11ty-pst) - An Eleventy plugin that enables you to write content in Typst format with automatic dual HTML/PDF output generation.
 - [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
 - [tianyi-smile/itemize](https://github.com/tianyi-smile/itemize) - A typst package for users to easily customize and format enumerations and lists.
 - [Mivik/bijou](https://github.com/Mivik/bijou) - Bijou is a tiny embeddable encrypted filesystem.
