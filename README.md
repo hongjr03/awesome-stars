@@ -216,6 +216,7 @@
 
 ## JavaScript 
 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [uwni/11ty-pst](https://github.com/uwni/11ty-pst) - An Eleventy plugin that enables you to write content in Typst format with automatic dual HTML/PDF output generation.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -324,6 +325,7 @@
 
 ## Others 
 
+- [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
 - [Midnight-2004/CoreProtect-AutoBuild](https://github.com/Midnight-2004/CoreProtect-AutoBuild) - 每周日自动拉取并构建一次CoreProtect
 - [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis. 静态程序分析入门教程。
@@ -423,7 +425,7 @@
 - [wty-yy/KataCR](https://github.com/wty-yy/KataCR) - A non-embedded AI for Clash Royale based on RL and CV.
 - [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator) - 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
 - [Uber-Eins/FileCentipede-Automatic-Activation](https://github.com/Uber-Eins/FileCentipede-Automatic-Activation) - 一个简单的文件蜈蚣(半)自动激活程序
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [EutropicAI/Final2x-core](https://github.com/EutropicAI/Final2x-core) - core for Final2x
 - [nagejacob/RecurrentMobileNet](https://github.com/nagejacob/RecurrentMobileNet) - Light parameters raw image denoising, 2nd place in MegCup 2022
