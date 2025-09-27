@@ -789,6 +789,7 @@
 
 ## Typst 
 
+- [polylux-typ/jotter](https://github.com/polylux-typ/jotter) - Handwritten notebook style template for Polylux
 - [tianyi-smile/itemize](https://github.com/tianyi-smile/itemize) - A typst package for users to easily customize and format enumerations and lists.
 - [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
 - [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
