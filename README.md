@@ -427,7 +427,7 @@
 - [wty-yy/KataCR](https://github.com/wty-yy/KataCR) - A non-embedded AI for Clash Royale based on RL and CV.
 - [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator) - 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
 - [Uber-Eins/FileCentipede-Automatic-Activation](https://github.com/Uber-Eins/FileCentipede-Automatic-Activation) - 一个简单的文件蜈蚣(半)自动激活程序
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [EutropicAI/Final2x-core](https://github.com/EutropicAI/Final2x-core) - core for Final2x
 - [nagejacob/RecurrentMobileNet](https://github.com/nagejacob/RecurrentMobileNet) - Light parameters raw image denoising, 2nd place in MegCup 2022
