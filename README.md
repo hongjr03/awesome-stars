@@ -425,7 +425,6 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [wty-yy/KataCR](https://github.com/wty-yy/KataCR) - A non-embedded AI for Clash Royale based on RL and CV.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator) - 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
 - [Uber-Eins/FileCentipede-Automatic-Activation](https://github.com/Uber-Eins/FileCentipede-Automatic-Activation) - 一个简单的文件蜈蚣(半)自动激活程序
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
@@ -746,6 +745,7 @@
 - [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [typst-doc-cn/guide](https://github.com/typst-doc-cn/guide) - Typst 中文社区导航——这里收集了一些官方文档和小蓝书中未提到的一些问题和小技巧，尤其是面向中文用户的。
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [FatPaper-1874/fatpaper-monopoly](https://github.com/FatPaper-1874/fatpaper-monopoly) - 大富翁总项目
