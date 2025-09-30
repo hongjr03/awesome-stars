@@ -252,7 +252,7 @@
 - [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK) - 我的世界新兴论坛晋级赛，欢迎观战
 - [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
 - [csfive/composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🦊 CS61A 教材 Composing Programs 的中文翻译
-- [xiyuesaves/LiteLoaderQQNT-lite_tools](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效
+- [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效
 - [BenjaminHalko/win11-circles](https://github.com/BenjaminHalko/win11-circles) - A recreation of the glowing circles from the Windows 11 user creation screen
 - [tuanzi0701/notion_cn](https://github.com/tuanzi0701/notion_cn) - notion客户端汉化，包括mac和win
 - [shufflewzc/faker2](https://github.com/shufflewzc/faker2) - 不破楼兰终不还
