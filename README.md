@@ -579,6 +579,7 @@
 
 ## Rust 
 
+- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [bezy-org/bezy](https://github.com/bezy-org/bezy) - Bezy is an in-development cross-platform font editor with a built-in bidirectional (RTL/LTR) text editor.
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
