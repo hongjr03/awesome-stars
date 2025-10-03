@@ -167,6 +167,7 @@
 - [ui-design](#ui-design)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
@@ -619,6 +620,7 @@
 
 ## hacktoberfest 
 
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
@@ -1196,7 +1198,6 @@
 - [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK) - 我的世界新兴论坛晋级赛，欢迎观战
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
-- [Crispher/MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - Visualizing the network of math theories.
 - [ac1982/eBook-translator](https://github.com/ac1982/eBook-translator) - Native prompt engineering translate script that can keep e-book format, URL, image and more.
 - [ameDev21/6-033-mit-notes](https://github.com/ameDev21/6-033-mit-notes) - This repo contains all 6.033 notes, with slides, some papers.
 - [hexinatgithub/6.033-2018](https://github.com/hexinatgithub/6.033-2018) - After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one’s own distributed system includes an ability to a
@@ -1217,7 +1218,6 @@
 - [jomaway/typst-bytefield](https://github.com/jomaway/typst-bytefield) - A typst package for creating diagrams of network protocols, memory layouts, register definitions or similar structures.
 - [jneug/typst-mantys](https://github.com/jneug/typst-mantys) - Template for documenting Typst Packages and Templates.
 - [yuhaoliu7456/Diff-Plugin](https://github.com/yuhaoliu7456/Diff-Plugin) - [CVPR 2024] Official code release of our paper "Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks"
-- [hila-chefer/Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability) - [ICCV 2021- Oral] Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any Transformer-bas
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 - [csguoh/Awesome-Mamba-in-Low-Level-Vision](https://github.com/csguoh/Awesome-Mamba-in-Low-Level-Vision) - A paper list of recent mamba efforts for low-level vision.
 - [The-Notebookinator/notebookinator](https://github.com/The-Notebookinator/notebookinator) - 
@@ -1722,6 +1722,16 @@
 ## visual-studio-code 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## visualization 
+
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
+- [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
+- [Crispher/MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - Visualizing the network of math theories.
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+- [hila-chefer/Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability) - [ICCV 2021- Oral] Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any Transformer-bas
 
 ## vpn 
 
