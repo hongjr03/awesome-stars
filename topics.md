@@ -273,7 +273,7 @@
 ## chatgpt 
 
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
@@ -779,7 +779,7 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -834,7 +834,7 @@
 - [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1577,7 +1577,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
@@ -1771,7 +1771,7 @@
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
