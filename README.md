@@ -579,6 +579,7 @@
 
 ## Rust 
 
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [bezy-org/bezy](https://github.com/bezy-org/bezy) - Bezy is an in-development cross-platform font editor with a built-in bidirectional (RTL/LTR) text editor.
