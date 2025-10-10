@@ -408,7 +408,7 @@
 - [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
 - [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
-- [maoken-fonts/flex-sans](https://github.com/maoken-fonts/flex-sans) - Source files of Flex Sans Project | 械黑计划字型源文件
+- [maoken-fonts/frex-sans](https://github.com/maoken-fonts/frex-sans) - Source files of Frex Sans Project | 械黑计划字型源文件
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [anqur/TinyLean](https://github.com/anqur/TinyLean) - Tiny theorem prover with syntax like Lean 4 in &lt;1K LOC
 - [ITStudioOUC/xha_auto_login_wifi](https://github.com/ITStudioOUC/xha_auto_login_wifi) - 
