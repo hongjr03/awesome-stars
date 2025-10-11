@@ -157,6 +157,7 @@
 
 ## Dockerfile 
 
+- [Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon](https://github.com/Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon) - 
 - [MoYuM/HowToDrink](https://github.com/MoYuM/HowToDrink) - 程序员在家自制酒/饮料方法指南。Programmer's guide about how to drink at home (Simplified Chinese only).
 - [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter) - A quickstart template to create a Hugo blog using hugo-theme-stack
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -327,6 +328,7 @@
 
 ## Others 
 
+- [jeff4444/Vivado_on_mac](https://github.com/jeff4444/Vivado_on_mac) - This guide documents the exact steps I followed to get Vivado running on an Apple Silicon (M3 Pro) MacBook by installing a Windows ARM environment. The goal is to provide a clear, copy‑and‑pasteable p
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
 - [Midnight-2004/CoreProtect-AutoBuild](https://github.com/Midnight-2004/CoreProtect-AutoBuild) - 每周日自动拉取并构建一次CoreProtect
@@ -579,6 +581,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
