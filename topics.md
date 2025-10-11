@@ -177,6 +177,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -999,7 +1000,7 @@
 - [kxxt/overleaf](https://github.com/kxxt/overleaf) - A web-based collaborative LaTeX editor
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
-- [maoken-fonts/flex-sans](https://github.com/maoken-fonts/flex-sans) - Source files of Flex Sans Project | 械黑计划字型源文件
+- [maoken-fonts/frex-sans](https://github.com/maoken-fonts/frex-sans) - Source files of Frex Sans Project | 械黑计划字型源文件
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
 - [ITStudioOUC/xha_auto_login_wifi](https://github.com/ITStudioOUC/xha_auto_login_wifi) - 
@@ -1800,6 +1801,10 @@
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
+
+## youtube 
+
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ## zsh 
 
