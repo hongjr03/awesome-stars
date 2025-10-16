@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
 - [oucPMC/RadarControlCenter](https://github.com/oucPMC/RadarControlCenter) - 一个小学期合作项目实践
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
