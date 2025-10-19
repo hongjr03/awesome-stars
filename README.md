@@ -40,6 +40,7 @@
 - [Shell](#shell)
 - [Stylus](#stylus)
 - [Swift](#swift)
+- [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -720,6 +721,10 @@
 - [AlexStrNik/LyricsOver](https://github.com/AlexStrNik/LyricsOver) - Overlay lyrics from Apple Music
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
+
+## SystemVerilog 
+
+- [chipsalliance/sv-tests](https://github.com/chipsalliance/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard.
 
 ## TeX 
 
