@@ -1120,7 +1120,7 @@
 - [JL-DY/MFDNet](https://github.com/JL-DY/MFDNet) - Lightweight network towards real-time image denoising on mobile devices
 - [hongjr03/OUC-Typst-Assignment-Templates](https://github.com/hongjr03/OUC-Typst-Assignment-Templates) - 
 - [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|
-- [checkToke/yangtai](https://github.com/checkToke/yangtai) - 青龙面板、上车， 巴奴火锅、一汽大众、海底捞、屈臣氏、霸王茶姬、华住会、东呈会、万达酒店、益禾堂 自动签到
+- [checkToke/yangtai](https://github.com/checkToke/yangtai) - 青龙面板、上车， 巴奴火锅、一汽大众、海底捞、屈臣氏、霸王茶姬、华住会、东呈会、万达酒店、益禾堂 自动签到 。大疆商城监控库存、价格变化
 - [linbailo/zyqinglong](https://github.com/linbailo/zyqinglong) - 青龙面板脚本自用库薅羊毛（✅ 滴滴出行领券✅ 滴滴加油领券✅ 滴滴代驾领券/滴滴签到领券打卡✅ 滴滴果园✅ mt论坛✅ 美团✅ 饿了么✅ 得物✅ 顺丰✅ 霸王茶姬✅ 益禾堂✅ 塔斯汀✅ 海底捞）
 - [CHERWING/CHERWIN_SCRIPTS](https://github.com/CHERWING/CHERWIN_SCRIPTS) - 永辉生活脚本 | 顺丰速运脚本 | 朴朴超市脚本 | 统一茄皇脚本 | 海底捞小程序脚本 |  口味王会员中心小程序脚本 |  霸王茶姬小程序脚本 | 奈雪点单小程序脚本 | 卡夫亨氏新厨艺公众号脚本 |  韵达快递小程序脚本 | 中通快递小程序脚本 | 德邦快递小程序脚本 |  极兔速递小程序脚本 | 夸克云盘 | 网易生活研究社小程序脚本 | 顾家家居小程序脚本 | 宽哥之家小程序脚本 | 特
 - [hzkonor/bubble-template](https://github.com/hzkonor/bubble-template) - Simple and colorful template for typst
