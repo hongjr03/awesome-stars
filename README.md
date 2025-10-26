@@ -25,6 +25,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -314,6 +315,10 @@
 - [junliumath/ROP](https://github.com/junliumath/ROP) - The Code is created for dehaze, sand dust image and underwater image enhancement.
 - [hongjr03/ROP_Python](https://github.com/hongjr03/ROP_Python) - Rank-One Prior implemented in Python. The code is created for dehaze, sand dust image and underwater image enhancement.
 - [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
+
+## Makefile 
+
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 
 ## Markdown 
 
@@ -609,7 +614,6 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
-- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
