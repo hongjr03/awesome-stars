@@ -195,6 +195,7 @@
 
 ## HTML 
 
+- [kailoon/kailoon.com](https://github.com/kailoon/kailoon.com) - My simple portfolio blog built using 11th and tailwindcss.
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [moxcomic/archer](https://github.com/moxcomic/archer) - Archer is a top-tier Mahjong AI development framework, currently reaching as high as Tenhou 9.7 dan. https://moxcomic.github.io/archer/
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
@@ -434,7 +435,7 @@
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [dx2331lxz/OUC-Electricity-Monitor](https://github.com/dx2331lxz/OUC-Electricity-Monitor) - 一个监控电费变化的工具，实现了电量余量监控、可视化和通知。
 - [sunshangquan/Histoformer](https://github.com/sunshangquan/Histoformer) - [ECCV 2024] Histoformer: Restoring Images in Adverse Weather Conditions via Histogram Transformer
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；推流；IPv4/IPv6；接口验效；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [wty-yy/KataCR](https://github.com/wty-yy/KataCR) - A non-embedded AI for Clash Royale based on RL and CV.
