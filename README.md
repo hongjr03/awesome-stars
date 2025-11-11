@@ -59,8 +59,8 @@
 
 ## Astro 
 
-- [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, unstyled static blogging template—built with Astro, Tailwind, and shadcn/ui.
-- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog—built with Astro, Tailwind, and shadcn/ui.
+- [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, unstyled static blogging template — built with Astro, Tailwind, and shadcn/ui.
+- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog — built with Astro, Tailwind, and shadcn/ui.
 - [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [Dnzzk2/Litos](https://github.com/Dnzzk2/Litos) - A Simple & Modern Blog Theme for Astro
 - [OverflowCat/astro-typst](https://github.com/OverflowCat/astro-typst) - All-in-one Typst integration for Astro
@@ -596,6 +596,7 @@
 
 ## Rust 
 
+- [TangleGuard/dagre-rs](https://github.com/TangleGuard/dagre-rs) - Dagrers is a Rust library implementing the Sugiyama method for hierarchical graph layout calculation, inspired by Dagre.js.
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
