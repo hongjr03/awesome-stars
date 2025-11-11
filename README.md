@@ -423,7 +423,6 @@
 
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
-- [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [maoken-fonts/frex-sans](https://github.com/maoken-fonts/frex-sans) - Source files of Frex Sans Project | 械黑计划字型源文件
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
@@ -832,6 +831,7 @@
 - [polylux-typ/jotter](https://github.com/polylux-typ/jotter) - Handwritten notebook style template for Polylux
 - [tianyi-smile/itemize](https://github.com/tianyi-smile/itemize) - A typst package for users to easily customize and format enumerations and lists.
 - [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
+- [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌
 - [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
 - [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
 - [tshort/typ-pad](https://github.com/tshort/typ-pad) - Create online apps using Typst
