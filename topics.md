@@ -1007,6 +1007,7 @@
 
 ## others 
 
+- [TangleGuard/dagre-rs](https://github.com/TangleGuard/dagre-rs) - Dagrers is a Rust library implementing the Sugiyama method for hierarchical graph layout calculation, inspired by Dagre.js.
 - [GeoffreyChen777/hugo-theme-academic-terminal](https://github.com/GeoffreyChen777/hugo-theme-academic-terminal) - A minimal terminal like Hugo theme for academic resume.
 - [AiDaiP/OUC-LaTex-master](https://github.com/AiDaiP/OUC-LaTex-master) - 中国海洋大学硕士博士学位论文 LaTeX 模板（2025版）
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
@@ -1547,7 +1548,7 @@
 
 ## react 
 
-- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog—built with Astro, Tailwind, and shadcn/ui.
+- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog — built with Astro, Tailwind, and shadcn/ui.
 - [vincerubinetti/svg-to-png](https://github.com/vincerubinetti/svg-to-png) - Convert SVG to PNG right in your browser, reliably and correctly
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
@@ -1697,11 +1698,11 @@
 
 ## tailwind 
 
-- [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, unstyled static blogging template—built with Astro, Tailwind, and shadcn/ui.
+- [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, unstyled static blogging template — built with Astro, Tailwind, and shadcn/ui.
 
 ## tailwindcss 
 
-- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog—built with Astro, Tailwind, and shadcn/ui.
+- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog — built with Astro, Tailwind, and shadcn/ui.
 - [kailoon/kailoon.com](https://github.com/kailoon/kailoon.com) - My simple portfolio blog built using 11th and tailwindcss.
 - [SlateDesign/slate-blog](https://github.com/SlateDesign/slate-blog) - A minimal, elegant, and modern blog theme built with Astro.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
@@ -1749,7 +1750,7 @@
 
 ## typescript 
 
-- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog—built with Astro, Tailwind, and shadcn/ui.
+- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog — built with Astro, Tailwind, and shadcn/ui.
 - [SlateDesign/slate-blog](https://github.com/SlateDesign/slate-blog) - A minimal, elegant, and modern blog theme built with Astro.
 - [Dnzzk2/Litos](https://github.com/Dnzzk2/Litos) - A Simple & Modern Blog Theme for Astro
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
