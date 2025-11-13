@@ -28,6 +28,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
+- [code-quality](#code-quality)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -340,6 +341,10 @@
 
 - [Dherse/codly](https://github.com/Dherse/codly) - A Typst package for even better code blocks
 
+## code-quality 
+
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+
 ## compiler 
 
 - [pascalkuthe/OpenVAF](https://github.com/pascalkuthe/OpenVAF) - An innovative Verilog-A compiler
@@ -634,6 +639,7 @@
 
 ## hacktoberfest 
 
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -717,6 +723,7 @@
 
 ## java 
 
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
@@ -1071,7 +1078,6 @@
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
 - [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
-- [hongjr03/cmark-writer](https://github.com/hongjr03/cmark-writer) - A CommonMark writer implementation in Rust.
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
@@ -1689,6 +1695,7 @@
 
 ## swift 
 
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 
