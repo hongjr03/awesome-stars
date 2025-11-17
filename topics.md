@@ -1014,6 +1014,7 @@
 
 ## others 
 
+- [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [TangleGuard/dagre-rs](https://github.com/TangleGuard/dagre-rs) - Dagrers is a Rust library implementing the Sugiyama method for hierarchical graph layout calculation, inspired by Dagre.js.
 - [GeoffreyChen777/hugo-theme-academic-terminal](https://github.com/GeoffreyChen777/hugo-theme-academic-terminal) - A minimal terminal like Hugo theme for academic resume.
 - [AiDaiP/OUC-LaTex-master](https://github.com/AiDaiP/OUC-LaTex-master) - 中国海洋大学硕士博士学位论文 LaTeX 模板（2025版）
