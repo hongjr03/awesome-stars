@@ -422,6 +422,7 @@
 
 ## Python 
 
+- [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
