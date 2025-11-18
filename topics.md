@@ -723,6 +723,7 @@
 
 ## java 
 
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
@@ -735,6 +736,7 @@
 
 ## javascript 
 
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
