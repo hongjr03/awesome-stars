@@ -216,6 +216,7 @@
 
 ## Java 
 
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [iceiceiceYu/Computer-System-Engineering](https://github.com/iceiceiceYu/Computer-System-Engineering) - Computer System Engineering (CSE) course in Fudan University - labs, reviews & papers 复旦大学《计算机系统工程》课程lab、复习资料与模拟试题
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
