@@ -1014,6 +1014,7 @@
 
 ## others 
 
+- [wasmerio/py2wasm](https://github.com/wasmerio/py2wasm) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [TangleGuard/dagre-rs](https://github.com/TangleGuard/dagre-rs) - Dagrers is a Rust library implementing the Sugiyama method for hierarchical graph layout calculation, inspired by Dagre.js.
 - [GeoffreyChen777/hugo-theme-academic-terminal](https://github.com/GeoffreyChen777/hugo-theme-academic-terminal) - A minimal terminal like Hugo theme for academic resume.
