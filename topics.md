@@ -1604,7 +1604,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [pascalkuthe/OpenVAF](https://github.com/pascalkuthe/OpenVAF) - An innovative Verilog-A compiler
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - A simple Rust profiler that shows exactly where your code spends time and allocates
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - All-in-one Rust performance debug toolkit. Live profiling for allocations, latency, and data flows across channels and streams.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
