@@ -131,6 +131,7 @@
 - [parsing](#parsing)
 - [php](#php)
 - [physics](#physics)
+- [portfolio-website](#portfolio-website)
 - [powershell](#powershell)
 - [productivity](#productivity)
 - [programming](#programming)
@@ -1476,6 +1477,10 @@
 ## physics 
 
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
+
+## portfolio-website 
+
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
 
 ## powershell 
 
