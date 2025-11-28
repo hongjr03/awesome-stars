@@ -75,6 +75,7 @@
 - [gradle](#gradle)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -695,6 +696,10 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
+## haskell 
+
+- [rsdc2/haskell-odt-writer](https://github.com/rsdc2/haskell-odt-writer) - Interface for composing and writing OpenDocument Text (.odt) files in Haskell
 
 ## home-assistant 
 
