@@ -238,7 +238,6 @@
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [uwni/11ty-pst](https://github.com/uwni/11ty-pst) - An Eleventy plugin that enables you to write content in Typst format with automatic dual HTML/PDF output generation.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [kxxt/overleaf](https://github.com/kxxt/overleaf) - A web-based collaborative LaTeX editor
 - [thedevdojo/static](https://github.com/thedevdojo/static) - ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
@@ -780,6 +779,7 @@
 ## TypeScript 
 
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [hamster1963/NextMe](https://github.com/hamster1963/NextMe) - NextMe is a personal website built with Next.js and Tailwind CSS.
 - [ParaN3xus/tyraria](https://github.com/ParaN3xus/tyraria) - Recreate the online editing experience of typst.app based on tinymist and typst.ts
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
