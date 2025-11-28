@@ -19,6 +19,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -213,6 +214,10 @@
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+## Haskell 
+
+- [rsdc2/haskell-odt-writer](https://github.com/rsdc2/haskell-odt-writer) - Interface for composing and writing OpenDocument Text (.odt) files in Haskell
 
 ## Java 
 
