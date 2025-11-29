@@ -280,6 +280,7 @@
 
 ## c 
 
+- [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp) - Frama-C and WP tutorial
@@ -418,6 +419,7 @@
 
 ## cpp 
 
+- [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
