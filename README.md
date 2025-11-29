@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence
 - [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
 - [oucPMC/RadarControlCenter](https://github.com/oucPMC/RadarControlCenter) - 一个小学期合作项目实践
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
