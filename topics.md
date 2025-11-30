@@ -1089,7 +1089,7 @@
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
 - [Midnight-2004/CoreProtect-AutoBuild](https://github.com/Midnight-2004/CoreProtect-AutoBuild) - 每周日自动拉取并构建一次CoreProtect
 - [kxxt/overleaf](https://github.com/kxxt/overleaf) - A web-based collaborative LaTeX editor
-- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Afilmory (/əˈfɪlməri/, "uh-FIL-muh-ree") is a term created for personal photography websites, blending Auto Focus (AF), aperture (light control), film (vintage medium), and memory (captured moments).
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [maoken-fonts/frex-sans](https://github.com/maoken-fonts/frex-sans) - Source files of Frex Sans Project | 械黑计划字型源文件
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
