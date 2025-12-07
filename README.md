@@ -749,7 +749,7 @@
 - [AlexStrNik/SafariPark](https://github.com/AlexStrNik/SafariPark) - Brings Safari’s OTP autofill to any macOS app
 - [AlexStrNik/LyricsOver](https://github.com/AlexStrNik/LyricsOver) - Overlay lyrics from Apple Music
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
-- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 
 ## SystemVerilog 
@@ -776,6 +776,7 @@
 
 ## TypeScript 
 
+- [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [hamster1963/NextMe](https://github.com/hamster1963/NextMe) - NextMe is a personal website built with Next.js and Tailwind CSS.
