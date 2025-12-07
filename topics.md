@@ -716,6 +716,7 @@
 ## html 
 
 - [thedevdojo/static](https://github.com/thedevdojo/static) - ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
+- [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [remarkablemark/html-dom-parser](https://github.com/remarkablemark/html-dom-parser) - 📝 HTML to DOM parser.
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
@@ -1098,7 +1099,6 @@
 - [Myriad-Dreamin/typ](https://github.com/Myriad-Dreamin/typ) - 
 - [ITStudioOUC/xha_auto_login_wifi](https://github.com/ITStudioOUC/xha_auto_login_wifi) - 
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
-- [QuadnucYard/typst-hypraw](https://github.com/QuadnucYard/typst-hypraw) - A lightweight package for creating headless code blocks for html export
 - [nfejzic/mathemascii](https://github.com/nfejzic/mathemascii) - AsciiMath parser written in Rust.
 - [Trivernis/asciimath-rs](https://github.com/Trivernis/asciimath-rs) - A crate for parsing AsciiMath in rust.
 - [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis. 静态程序分析入门教程。
