@@ -1857,6 +1857,7 @@
 
 ## visualization 
 
+- [nturley/netlistsvg](https://github.com/nturley/netlistsvg) - draws an SVG schematic from a JSON netlist
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
