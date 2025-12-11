@@ -1061,7 +1061,7 @@
 ## others 
 
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
-- [pjh456/ccd](https://github.com/pjh456/ccd) - 
+- [pjh456/ccd](https://github.com/pjh456/ccd) - C Clone Detector Tutorial
 - [insidewhy/pisnge](https://github.com/insidewhy/pisnge) - A Rust-based diagram rendering library inspired by Mermaid.js, focused on generating SVG pie charts
 - [wasmerio/py2wasm](https://github.com/wasmerio/py2wasm) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
