@@ -602,6 +602,7 @@
 
 ## Rust 
 
+- [RohanAdwankar/foxes](https://github.com/RohanAdwankar/foxes) - 
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [insidewhy/pisnge](https://github.com/insidewhy/pisnge) - A Rust-based diagram rendering library inspired by Mermaid.js, focused on generating SVG pie charts
 - [TangleGuard/dagre-rs](https://github.com/TangleGuard/dagre-rs) - Dagrers is a Rust library implementing the Sugiyama method for hierarchical graph layout calculation, inspired by Dagre.js.
