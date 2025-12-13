@@ -1063,6 +1063,7 @@
 
 ## others 
 
+- [RohanAdwankar/foxes](https://github.com/RohanAdwankar/foxes) - 
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [pjh456/ccd](https://github.com/pjh456/ccd) - C Clone Detector Tutorial
 - [insidewhy/pisnge](https://github.com/insidewhy/pisnge) - A Rust-based diagram rendering library inspired by Mermaid.js, focused on generating SVG pie charts
