@@ -603,6 +603,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [RohanAdwankar/foxes](https://github.com/RohanAdwankar/foxes) - 
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [insidewhy/pisnge](https://github.com/insidewhy/pisnge) - A Rust-based diagram rendering library inspired by Mermaid.js, focused on generating SVG pie charts
