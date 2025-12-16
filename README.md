@@ -202,7 +202,7 @@
 
 - [kailoon/kailoon.com](https://github.com/kailoon/kailoon.com) - My simple portfolio blog built using 11th and tailwindcss.
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-- [moxcomic/archer](https://github.com/moxcomic/archer) - Archer is a top-tier Mahjong AI development framework, currently reaching as high as Tenhou 9.7 dan. https://moxcomic.github.io/archer/
+- [moxcomic/archer](https://github.com/moxcomic/archer) - Archer is a top-tier Mahjong AI development framework, currently reaching as high as Tenhou 10 dan on Phoenix. https://moxcomic.github.io/archer/
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
@@ -844,6 +844,7 @@
 
 ## Typst 
 
+- [pauladam94/curryst](https://github.com/pauladam94/curryst) - Typst Package to typeset inference rule
 - [hongjr03/typst-oxdraw](https://github.com/hongjr03/typst-oxdraw) - A Typst plugin for visualizing Mermaid diagrams, built on top of oxdraw.
 - [polylux-typ/jotter](https://github.com/polylux-typ/jotter) - Handwritten notebook style template for Polylux
 - [tianyi-smile/itemize](https://github.com/tianyi-smile/itemize) - A typst package for users to easily customize and format enumerations and lists.
