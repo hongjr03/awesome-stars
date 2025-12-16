@@ -393,7 +393,7 @@
 
 ## computer-science 
 
-- [bootcs-cn/cs_study_plan](https://github.com/bootcs-cn/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+- [bootcs-dev/cs_study_plan](https://github.com/bootcs-dev/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## computer-vision 
@@ -1572,7 +1572,7 @@
 
 ## python3 
 
-- [nimpylib/npython](https://github.com/nimpylib/npython) - (Subset of) Python programming language implemented in Nim
+- [nimpylib/npython](https://github.com/nimpylib/npython) - Python interpreter written in Nim (C or Js backend)
 - [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [EutropicAI/Final2x-core](https://github.com/EutropicAI/Final2x-core) - core for Final2x
 - [huaji8/huajiScript](https://github.com/huaji8/huajiScript) - 滑稽の青龙脚本库
