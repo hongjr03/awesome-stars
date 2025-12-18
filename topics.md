@@ -1066,6 +1066,7 @@
 
 ## others 
 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [pauladam94/curryst](https://github.com/pauladam94/curryst) - Typst Package to typeset inference rule
 - [antfu/antfu.me](https://github.com/antfu/antfu.me) - My personal website
 - [RohanAdwankar/foxes](https://github.com/RohanAdwankar/foxes) - 
