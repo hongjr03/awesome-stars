@@ -604,6 +604,7 @@
 
 ## Rust 
 
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [RohanAdwankar/foxes](https://github.com/RohanAdwankar/foxes) - 
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
