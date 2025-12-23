@@ -59,6 +59,7 @@
 
 ## Astro 
 
+- [incluud/accessible-astro-components](https://github.com/incluud/accessible-astro-components) - A collection of accessible components for Astro projects with built-in ARIA attributes, keyboard navigation and interactive elements. Easy to implement and customize to your needs.
 - [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, unstyled static blogging template — built with Astro, Tailwind, and shadcn/ui.
 - [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog — built with Astro, Tailwind, and shadcn/ui.
 - [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
