@@ -381,7 +381,7 @@
 - [yzhuoning/Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) - Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
-- [hexinatgithub/6.033-2018](https://github.com/hexinatgithub/6.033-2018) - After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one’s own distributed system includes an ability to a
+- [ShaneHeX/6.033-2018](https://github.com/ShaneHeX/6.033-2018) - After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one’s own distributed system includes an ability to a
 - [Ruixxxx/Awesome-Vision-Mamba-Models](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models) - [Official Repo] Visual Mamba: A Survey and New Outlooks
 - [csguoh/Awesome-Mamba-in-Low-Level-Vision](https://github.com/csguoh/Awesome-Mamba-in-Low-Level-Vision) - A paper list of recent mamba efforts for low-level vision.
 - [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is &lt;1% CPU, MEM &lt;30 M, Docker Image &lt; 10M
