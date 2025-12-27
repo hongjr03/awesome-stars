@@ -1307,7 +1307,7 @@
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 - [ac1982/eBook-translator](https://github.com/ac1982/eBook-translator) - Native prompt engineering translate script that can keep e-book format, URL, image and more.
 - [ameDev21/6-033-mit-notes](https://github.com/ameDev21/6-033-mit-notes) - This repo contains all 6.033 notes, with slides, some papers.
-- [hexinatgithub/6.033-2018](https://github.com/hexinatgithub/6.033-2018) - After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one’s own distributed system includes an ability to a
+- [ShaneHeX/6.033-2018](https://github.com/ShaneHeX/6.033-2018) - After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one’s own distributed system includes an ability to a
 - [xstephen95x/6033](https://github.com/xstephen95x/6033) - Personal course notes for Spring 2017 semester, 6.033
 - [iceiceiceYu/Computer-System-Engineering](https://github.com/iceiceiceYu/Computer-System-Engineering) - Computer System Engineering (CSE) course in Fudan University - labs, reviews & papers 复旦大学《计算机系统工程》课程lab、复习资料与模拟试题
 - [HenryJk/PvZWidescreen](https://github.com/HenryJk/PvZWidescreen) - Widescreen mod for Plants vs Zombies
