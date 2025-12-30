@@ -227,7 +227,7 @@
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [iceiceiceYu/Computer-System-Engineering](https://github.com/iceiceiceYu/Computer-System-Engineering) - Computer System Engineering (CSE) course in Fudan University - labs, reviews & papers 复旦大学《计算机系统工程》课程lab、复习资料与模拟试题
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [GhastCraftHD/Miniaturise](https://github.com/GhastCraftHD/Miniaturise) - A Minecraft Paper plugin that helps you to create miniatures of your builds and makes working with Block Displays easy
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [SincereXIA/XidianCS](https://github.com/SincereXIA/XidianCS) - 西安电子科技大学 计算机科学与技术专业 笔记、上机作业、实验 etc.
