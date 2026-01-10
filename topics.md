@@ -974,6 +974,7 @@
 
 - [josxha/minecraft-purpur-docker](https://github.com/josxha/minecraft-purpur-docker) - Automatic Docker builds for Minecraft Purpur server
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
+- [KeleMC/wiki](https://github.com/KeleMC/wiki) - Wiki of KeleMC Server. Managed by Gitbook.
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [CPlayer-CN/Spigot-Plugin-Dev-Chinese](https://github.com/CPlayer-CN/Spigot-Plugin-Dev-Chinese) - 水龙头插件开发文档中文翻译 | Spigot Plugin Development Chinese translation
 - [Flo56958/MineTinker](https://github.com/Flo56958/MineTinker) - A TinkersConstruct-inspired Spigot plugin
@@ -1390,7 +1391,6 @@
 - [suxuann/ddib](https://github.com/suxuann/ddib) - Dual Diffusion Implicit Bridges for Image-to-Image Translation. ICLR 2023.
 - [linfengWen98/CAP-VSTNet](https://github.com/linfengWen98/CAP-VSTNet) - [CVPR 2023] CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer
 - [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
-- [KeleMC/wiki](https://github.com/KeleMC/wiki) - Wiki of KeleMC Server. Managed by Gitbook. Visit：wiki.kelemc.fun
 - [Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) - Zero-DCE code and model
 - [GhastCraftHD/Miniaturise](https://github.com/GhastCraftHD/Miniaturise) - A Minecraft Paper plugin that helps you to create miniatures of your builds and makes working with Block Displays easy
 - [rikkayoru/nursery-bot](https://github.com/rikkayoru/nursery-bot) - 开局托儿所 bot
