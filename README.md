@@ -369,7 +369,7 @@
 - [3401797899/OUC_TCP](https://github.com/3401797899/OUC_TCP) - 计网实验
 - [ACT-02/PingFang-for-Windows](https://github.com/ACT-02/PingFang-for-Windows) - 为 Windows 适配的苹方字体。
 - [ladeng07/7MA-Helper](https://github.com/ladeng07/7MA-Helper) - IOS快捷指令：7MA助手，功能包括扫码骑车，一键还车，一键续借，订单状态，长时间锁车等
-- [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - [IEEE TPAMI] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
+- [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - [IEEE TPAMI 2025] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI] 具身智能技术指南 Embodied-AI-Guide
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp) - 『微信小程序』优秀教程、轮子、开源项目 资源汇总
@@ -446,7 +446,7 @@
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [dx2331lxz/OUC-Electricity-Monitor](https://github.com/dx2331lxz/OUC-Electricity-Monitor) - 一个监控电费变化的工具，实现了电量余量监控、可视化和通知。
 - [sunshangquan/Histoformer](https://github.com/sunshangquan/Histoformer) - [ECCV 2024] Histoformer: Restoring Images in Adverse Weather Conditions via Histogram Transformer
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [wty-yy/KataCR](https://github.com/wty-yy/KataCR) - A non-embedded AI for Clash Royale based on RL and CV.
