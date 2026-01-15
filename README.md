@@ -860,7 +860,7 @@
 - [OrangeX4/typst-theorion](https://github.com/OrangeX4/typst-theorion) - Out-of-the-box, customizable and multilingual theorem environment package for Typst.
 - [OrangeX4/typst-ori](https://github.com/OrangeX4/typst-ori) - Simple enough but expressive template for notes, reports, and documents for Typst.
 - [ParaN3xus/typst-snippets](https://github.com/ParaN3xus/typst-snippets) - ParaN3xus's Typst Snippets
-- [typst-doc-cn/news](https://github.com/typst-doc-cn/news) - News about typst.
+- [typst-doc-cn/news](https://github.com/typst-doc-cn/news) - News about typst. 泰普斯屯Typst信息汇总
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [flaribbit/numbly](https://github.com/flaribbit/numbly) - A package that helps you to specify different numbering formats for different levels of headings.
 - [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
