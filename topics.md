@@ -1172,7 +1172,7 @@
 - [OrangeX4/typst-ori](https://github.com/OrangeX4/typst-ori) - Simple enough but expressive template for notes, reports, and documents for Typst.
 - [ParaN3xus/typst-snippets](https://github.com/ParaN3xus/typst-snippets) - ParaN3xus's Typst Snippets
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
-- [typst-doc-cn/news](https://github.com/typst-doc-cn/news) - News about typst.
+- [typst-doc-cn/news](https://github.com/typst-doc-cn/news) - News about typst. 泰普斯屯Typst信息汇总
 - [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows Vista through 11.
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [flaribbit/numbly](https://github.com/flaribbit/numbly) - A package that helps you to specify different numbering formats for different levels of headings.
