@@ -254,6 +254,7 @@
 
 ## automation 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
@@ -311,6 +312,7 @@
 
 ## chrome 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [lcandy2/webvpn-converter](https://github.com/lcandy2/webvpn-converter) - 轻松访问校内网络资源，无需繁琐设置，只需粘贴链接，常规网址即刻转化为您学校的Web VPN网址。
 
@@ -556,6 +558,7 @@
 
 ## electron 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -579,6 +582,7 @@
 
 ## firefox 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 
 ## flask 
@@ -784,6 +788,7 @@
 
 ## javascript 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [incluud/accessible-astro-components](https://github.com/incluud/accessible-astro-components) - A collection of accessible components for Astro projects with built-in ARIA attributes, keyboard navigation and interactive elements. Easy to implement and customize to your needs.
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
@@ -1469,7 +1474,7 @@
 - [qilin512/OUC-OOP](https://github.com/qilin512/OUC-OOP) - 中国海洋大学 面向对象的程序设计 课程
 - [qilin512/OUC_CS_History](https://github.com/qilin512/OUC_CS_History) - 中国海洋大学计算机系系史
 - [lenmx/migu_music_downloader](https://github.com/lenmx/migu_music_downloader) - migu music downloader
-- [hangbale/photography-blog](https://github.com/hangbale/photography-blog) - photography blog generator - 摄影类静态博客生成器
+- [doom40k/photography-blog](https://github.com/doom40k/photography-blog) - photography blog generator - 摄影类静态博客生成器
 - [MFWT/DingTalkAddLikes_E](https://github.com/MFWT/DingTalkAddLikes_E) - 钉钉直播刷赞（请合理使用）
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [tindy2013/stairspeedtest](https://github.com/tindy2013/stairspeedtest) - A small script that can test the stairs' download speed, packet loss and latency. Supports single ss/ssr/v2ray links and their subscribe links.
@@ -1823,6 +1828,7 @@
 
 ## testing 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [typst-community/tytanic](https://github.com/typst-community/tytanic) - A test runner for typst projects.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1917,6 +1923,7 @@
 
 ## web 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
 
 ## web-components 
