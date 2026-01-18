@@ -1080,6 +1080,7 @@
 
 ## others 
 
+- [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 - [OverflowCat/chiandiau](https://github.com/OverflowCat/chiandiau) - Display tone-based jumpy pronunciations in Typst
 - [pauladam94/curryst](https://github.com/pauladam94/curryst) - Typst Package to typeset inference rule
 - [antfu/antfu.me](https://github.com/antfu/antfu.me) - My personal website
