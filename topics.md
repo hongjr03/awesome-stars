@@ -1009,7 +1009,7 @@
 
 ## nextjs 
 
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
@@ -1515,7 +1515,7 @@
 
 ## portfolio-website 
 
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
 
 ## powershell 
 
@@ -1629,7 +1629,7 @@
 - [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog — built with Astro, Tailwind, and shadcn/ui.
 - [vincerubinetti/svg-to-png](https://github.com/vincerubinetti/svg-to-png) - Convert SVGs to PNGs right in your browser, reliably and correctly
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
@@ -1789,7 +1789,7 @@
 - [kailoon/kailoon.com](https://github.com/kailoon/kailoon.com) - My simple portfolio blog built using 11th and tailwindcss.
 - [SlateDesign/slate-blog](https://github.com/SlateDesign/slate-blog) - A minimal, elegant, and modern blog theme built with Astro.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
 - [kuizuo/blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
