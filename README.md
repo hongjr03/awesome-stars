@@ -818,7 +818,7 @@
 - [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) - WeChat Mini-program plugin for TensorFlow.js
 - [lspriv/wx-calendar](https://github.com/lspriv/wx-calendar) - 微信小程序日历
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Next.js 14 personal website with a Notion-powered blog and Bento-inspired design, styled with TailwindCSS and NextUI.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
