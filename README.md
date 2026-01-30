@@ -610,6 +610,7 @@
 
 ## Rust 
 
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [RohanAdwankar/foxes](https://github.com/RohanAdwankar/foxes) - 
@@ -672,7 +673,6 @@
 - [typst/ecow](https://github.com/typst/ecow) - Compact, clone-on-write vector and string.
 - [ayazhafiz/twoslash-rust](https://github.com/ayazhafiz/twoslash-rust) - Generate annotated HTML for Rust code snippets
 - [griccardos/formato](https://github.com/griccardos/formato) - Easily format numbers into string representation
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [xamgore/docx-template](https://github.com/xamgore/docx-template) - Replace {placeholders} and manage content inside .docx files
 - [cstkingkey/docx-rs](https://github.com/cstkingkey/docx-rs) - A Rust library for parsing and generating docx files.
 - [KaiserY/ooxmlsdk](https://github.com/KaiserY/ooxmlsdk) - Open XML SDK for Rust
