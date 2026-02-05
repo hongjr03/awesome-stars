@@ -1788,7 +1788,7 @@
 - [SlateDesign/slate-blog](https://github.com/SlateDesign/slate-blog) - A minimal, elegant, and modern blog theme built with Astro.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
-- [kuizuo/blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
+- [kuizuo/blog](https://github.com/kuizuo/blog) - A technical blog with Docusaurus customization
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
 
