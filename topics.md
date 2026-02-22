@@ -178,6 +178,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [v2ray](#v2ray)
+- [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -1092,9 +1093,7 @@
 - [AiDaiP/OUC-LaTex-master](https://github.com/AiDaiP/OUC-LaTex-master) - 中国海洋大学硕士博士学位论文 LaTeX 模板（2025版）
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) - A SystemVerilog Language Server
 - [adjivas/ml](https://github.com/adjivas/ml) - A library to generating UML language from Rust's project into graphiz/dot file.
-- [chipsalliance/sv-tests](https://github.com/chipsalliance/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard.
 - [mewmew/typast](https://github.com/mewmew/typast) - Parser for Typst.
 - [jeff4444/Vivado_on_mac](https://github.com/jeff4444/Vivado_on_mac) - This guide documents the exact steps I followed to get Vivado running on an Apple Silicon (M3 Pro) MacBook by installing a Windows ARM environment. The goal is to provide a clear, copy‑and‑pasteable p
 - [Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon](https://github.com/Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon) - 
@@ -1264,7 +1263,7 @@
 - [osmosis-diffusion/osmosis-diffusion-code](https://github.com/osmosis-diffusion/osmosis-diffusion-code) - official implementation of Osmosis - RGBD Diffusion Prior for Underwater Image Restoration
 - [Joey777210/Non-Local-Dehazing-Python](https://github.com/Joey777210/Non-Local-Dehazing-Python) - The repreduction of Non-local Dehazing. Pure Python Implementation
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [XPixelGroup/BasicSR-docs](https://github.com/XPixelGroup/BasicSR-docs) - 
 - [DeniJsonC/WaveNet](https://github.com/DeniJsonC/WaveNet) - [PG 2023] WaveNet: Wave-Aware Image Enhancement
@@ -1875,6 +1874,13 @@
 ## v2ray 
 
 - [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
+
+## verilog 
+
+- [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) - A SystemVerilog Language Server
+- [chipsalliance/sv-tests](https://github.com/chipsalliance/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard.
+- [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 
 ## video 
 
