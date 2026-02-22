@@ -490,7 +490,7 @@
 - [osmosis-diffusion/osmosis-diffusion-code](https://github.com/osmosis-diffusion/osmosis-diffusion-code) - official implementation of Osmosis - RGBD Diffusion Prior for Underwater Image Restoration
 - [Joey777210/Non-Local-Dehazing-Python](https://github.com/Joey777210/Non-Local-Dehazing-Python) - The repreduction of Non-local Dehazing. Pure Python Implementation
 - [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
-- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy
 - [DeniJsonC/WaveNet](https://github.com/DeniJsonC/WaveNet) - [PG 2023] WaveNet: Wave-Aware Image Enhancement
 - [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
 - [joshyZhou/AST](https://github.com/joshyZhou/AST) - Adapt or Perish: Adaptive Sparse Transformer with Attentive Feature Refinement for Image Restoration
