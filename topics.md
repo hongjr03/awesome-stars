@@ -411,7 +411,7 @@
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
 - [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Official Implementation of Paper "Color Shift Estimation-and-Correction for Image Enhancement"
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
-- [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
+- [Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2026/CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
@@ -757,7 +757,7 @@
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
 - [CXH-Research/Underwater-Image-Enhancement](https://github.com/CXH-Research/Underwater-Image-Enhancement) - Summary of Publicly Available Underwater Image Enhancement Method
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
-- [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
+- [Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2026/CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [avinabsaha/ReIQA](https://github.com/avinabsaha/ReIQA) - Official implementation for CVPR2023 Paper "Re-IQA : Unsupervised Learning for Image Quality Assessment in the Wild"
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 
