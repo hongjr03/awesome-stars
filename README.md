@@ -717,7 +717,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [mattfbacon/typst-bot](https://github.com/mattfbacon/typst-bot) - A discord bot to render Typst code
 - [gaveen/rustlings-solutions](https://github.com/gaveen/rustlings-solutions) - Rustlings 5 (5.2.1) Solutions
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [Raibows/MLinRust](https://github.com/Raibows/MLinRust) - A machine learning library in Rust from scratch.
