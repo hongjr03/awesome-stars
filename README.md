@@ -304,7 +304,7 @@
 - [kyashy/denoising-on-mobile-devices](https://github.com/kyashy/denoising-on-mobile-devices) - Python implementation of the paper "Practical Deep Raw Image Denoising on Mobile Devices"
 - [mazzzystar/TurtleBench](https://github.com/mazzzystar/TurtleBench) - TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles.
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
-- [MrYangHaoDong/LU2Net](https://github.com/MrYangHaoDong/LU2Net) - 
+- [MrYangHaodong/LU2Net](https://github.com/MrYangHaodong/LU2Net) - 
 - [weitunglin/pixmamba](https://github.com/weitunglin/pixmamba) - Official code for PixMamba
 - [hila-chefer/Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability) - [ICCV 2021- Oral] Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any Transformer-bas
 - [noxsine/LDP](https://github.com/noxsine/LDP) - 
