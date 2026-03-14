@@ -1291,7 +1291,7 @@
 - [ZengxiZhang/HUPE](https://github.com/ZengxiZhang/HUPE) - Extention version of the paper "Waterflow: heuristic normalizing flow for underwater image enhancement and beyond"
 - [Coekjan/typst-upgrade](https://github.com/Coekjan/typst-upgrade) - Upgrade your typst packages
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
-- [MrYangHaoDong/LU2Net](https://github.com/MrYangHaoDong/LU2Net) - 
+- [MrYangHaodong/LU2Net](https://github.com/MrYangHaodong/LU2Net) - 
 - [Stephen0808/ICELUT](https://github.com/Stephen0808/ICELUT) - [ECCV 2024] Taming Lookup Tables for Efficient Image Retouching
 - [jinlong17/LightDiff](https://github.com/jinlong17/LightDiff) - About [CVPR 2024] The official implementation of paper " Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving"
 - [Zheng-MJ/SMFANet](https://github.com/Zheng-MJ/SMFANet) - [ECCV 2024] SMFANet: A Lightweight Self-Modulation Feature Aggregation Network for Efficient Image Super-Resolution
