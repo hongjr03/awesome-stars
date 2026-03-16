@@ -155,6 +155,8 @@
 - [rust](#rust)
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
+- [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
@@ -1275,7 +1277,6 @@
 - [xgqdut2016/cuda_code](https://github.com/xgqdut2016/cuda_code) - easy cuda code
 - [sahasatvik/typst-theorems](https://github.com/sahasatvik/typst-theorems) - An implementation of numbered theorem environments in typst
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
-- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [747929791/MajsoulAI](https://github.com/747929791/MajsoulAI) - 以JianYangAI作后端，进行在线雀魂对局
 - [LowLevelAI/GLARE](https://github.com/LowLevelAI/GLARE) - Official implementation of GLARE, which is accpeted by ECCV 2024.
 - [ITStudioOUC/OUC-JWGL-Helper](https://github.com/ITStudioOUC/OUC-JWGL-Helper) - OUC选课小工具，可以快速查看课程均分，老师给分，多门课程间对比等
@@ -1729,6 +1730,14 @@
 ## scikit-learn 
 
 - [jayboxyz/deeplearning-cv-notes](https://github.com/jayboxyz/deeplearning-cv-notes) - :notebook: DeepLearning and CV notes.
+
+## security 
+
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
+
+## security-tools 
+
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
 
 ## self-hosted 
 
