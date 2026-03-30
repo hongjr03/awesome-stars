@@ -1306,7 +1306,7 @@
 - [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
-- [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群 1021185005密码888 元梦之星
+- [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 企鹅交流1021185005
 - [yzhuoning/Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) - Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).
 - [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
 - [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for code or terminal with your favorite font and theme.
@@ -1444,7 +1444,6 @@
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) - 🍵 Typecho Theme Matcha
 - [NyaaCat/NyaaStats](https://github.com/NyaaCat/NyaaStats) - Public player stats page generator
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
 - [woolen-sheep/md2report](https://github.com/woolen-sheep/md2report) - 一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。
 - [lifeeka/leaflet.bezier](https://github.com/lifeeka/leaflet.bezier) - Draws a Bézier line between two points with an animated flight object.
 - [frogcat/leaflet-tilelayer-mask](https://github.com/frogcat/leaflet-tilelayer-mask) - A Leaflet Tilelayer with mask
