@@ -775,7 +775,7 @@
 - [XPixelGroup/BasicSR-docs](https://github.com/XPixelGroup/BasicSR-docs) - 
 - [ameDev21/6-033-mit-notes](https://github.com/ameDev21/6-033-mit-notes) - This repo contains all 6.033 notes, with slides, some papers.
 - [LukasPietzschmann/awesome-beamer](https://github.com/LukasPietzschmann/awesome-beamer) - Kinda awesome beamer theme
-- [mw54/latex-report-template](https://github.com/mw54/latex-report-template) - The report class is a LaTeX template designed to provide a swift, elegant, and modern way to typeset reports, suitable for a wide range of purposes, from documentations to lab reports.
+- [mw274/latex-report-template](https://github.com/mw274/latex-report-template) - The report class is a LaTeX template designed to provide a swift, elegant, and modern way to typeset reports, suitable for a wide range of purposes, from documentations to lab reports.
 - [MatNoble/LaTeX-Document](https://github.com/MatNoble/LaTeX-Document) - LaTeX Templates for Document
 - [piazzai/arguelles](https://github.com/piazzai/arguelles) - Simple, typographic beamer theme
 - [fmarotta/kaobook](https://github.com/fmarotta/kaobook) - A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.
