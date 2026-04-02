@@ -553,7 +553,7 @@
 - [mrluin/TextualDegRemoval](https://github.com/mrluin/TextualDegRemoval) - [arXiv 2023] Improving Image Restoration through Removing Degradations in Textual Representations
 - [yz-wang/UCL-Dehaze](https://github.com/yz-wang/UCL-Dehaze) - Image dehazing
 - [MzeroMiko/VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models，code is based on mamba
-- [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 👁️ 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
+- [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 🔎 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
 - [zzr-idam/UVM-Net](https://github.com/zzr-idam/UVM-Net) - U-shaped Vision Mamba for Single Image Dehazing
 - [csguoh/MambaIR](https://github.com/csguoh/MambaIR) - [ECCV2024, CVPR2025] MambaIR and MambaIRv2!
 - [suxuann/ddib](https://github.com/suxuann/ddib) - Dual Diffusion Implicit Bridges for Image-to-Image Translation. ICLR 2023.
