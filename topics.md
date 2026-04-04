@@ -401,7 +401,7 @@
 
 ## computer-science 
 
-- [tensorhero-dev/cs_study_plan](https://github.com/tensorhero-dev/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+- [bootcraft-dev/cs_study_plan](https://github.com/bootcraft-dev/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## computer-vision 
