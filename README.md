@@ -811,7 +811,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
-- [FatPaper-1874/fatpaper-monopoly](https://github.com/FatPaper-1874/fatpaper-monopoly) - 大富翁总项目
+- [FatPaper-1874/mine-monopoly](https://github.com/FatPaper-1874/mine-monopoly) - 大富翁总项目
 - [vincerubinetti/svg-to-png](https://github.com/vincerubinetti/svg-to-png) - Convert SVGs to PNGs right in your browser, reliably and correctly
 - [Red-Asuka/vitepress-plugin-tabs](https://github.com/Red-Asuka/vitepress-plugin-tabs) - VitePress plugin - markdown custom container to display content in tabs
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
@@ -853,6 +853,7 @@
 
 ## Typst 
 
+- [hongjr03/ouc-bachelor-thesis](https://github.com/hongjr03/ouc-bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
 - [pauladam94/curryst](https://github.com/pauladam94/curryst) - Typst Package to typeset inference rule
 - [hongjr03/typst-oxdraw](https://github.com/hongjr03/typst-oxdraw) - A Typst plugin for visualizing Mermaid diagrams, built on top of oxdraw.
 - [polylux-typ/jotter](https://github.com/polylux-typ/jotter) - Handwritten notebook style template for Polylux
