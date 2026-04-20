@@ -1083,6 +1083,7 @@
 
 ## others 
 
+- [hongjr03/ouc-bachelor-thesis](https://github.com/hongjr03/ouc-bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
 - [OverflowCat/tiago](https://github.com/OverflowCat/tiago) - 
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [reitzig/sdkman-for-fish](https://github.com/reitzig/sdkman-for-fish) - Adds support for SDKMAN! to fish
@@ -1231,7 +1232,7 @@
 - [ladeng07/7MA-Helper](https://github.com/ladeng07/7MA-Helper) - IOS快捷指令：7MA助手，功能包括扫码骑车，一键还车，一键续借，订单状态，长时间锁车等
 - [Embraccce/RecStudy](https://github.com/Embraccce/RecStudy) - 记录推荐系统的学习
 - [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - [IEEE TPAMI 2025] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
-- [FatPaper-1874/fatpaper-monopoly](https://github.com/FatPaper-1874/fatpaper-monopoly) - 大富翁总项目
+- [FatPaper-1874/mine-monopoly](https://github.com/FatPaper-1874/mine-monopoly) - 大富翁总项目
 - [WJZ-P/LiteLoaderQQNT-Grab-RedBag](https://github.com/WJZ-P/LiteLoaderQQNT-Grab-RedBag) - 基于IPC通信的抢红包插件！ヽ(＾Д＾)ﾉ
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 - [Red-Asuka/vitepress-plugin-tabs](https://github.com/Red-Asuka/vitepress-plugin-tabs) - VitePress plugin - markdown custom container to display content in tabs
