@@ -143,6 +143,7 @@
 
 ## CSS 
 
+- [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) - a pure css implementation of some sunlight streaming in through the window
 - [GeoffreyChen777/hugo-theme-academic-terminal](https://github.com/GeoffreyChen777/hugo-theme-academic-terminal) - A minimal terminal like Hugo theme for academic resume.
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [lovefc/china_school_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
