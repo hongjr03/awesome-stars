@@ -389,6 +389,7 @@
 
 ## compiler 
 
+- [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [pascalkuthe/OpenVAF](https://github.com/pascalkuthe/OpenVAF) - An innovative Verilog-A compiler
 - [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
