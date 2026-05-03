@@ -864,6 +864,7 @@
 
 ## Typst 
 
+- [tianyi-smile/parize](https://github.com/tianyi-smile/parize) - A Typst package that allows any block-level element to be treated as part of a paragraph.
 - [andreasKroepelin/lovelace](https://github.com/andreasKroepelin/lovelace) - A Typst package for typesetting pseudocode
 - [hongjr03/ouc-bachelor-thesis](https://github.com/hongjr03/ouc-bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
 - [pauladam94/curryst](https://github.com/pauladam94/curryst) - Typst Package to typeset inference rule
