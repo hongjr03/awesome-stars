@@ -175,7 +175,6 @@
 - [Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon](https://github.com/Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon) - 
 - [MoYuM/HowToDrink](https://github.com/MoYuM/HowToDrink) - 程序员在家自制酒/饮料方法指南。Programmer's guide about how to drink at home (Simplified Chinese only).
 - [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter) - A quickstart template to create a Hugo blog using hugo-theme-stack
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Emacs Lisp 
 
@@ -295,6 +294,7 @@
 - [lifeeka/leaflet.bezier](https://github.com/lifeeka/leaflet.bezier) - Draws a Bézier line between two points with an animated flight object.
 - [frogcat/leaflet-tilelayer-mask](https://github.com/frogcat/leaflet-tilelayer-mask) - A Leaflet Tilelayer with mask
 - [ZhuGYao/echarts_trajectory](https://github.com/ZhuGYao/echarts_trajectory) - echarts与百度地图轨迹整合示例
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [moonrailgun/chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) - 中国地址生成器 - 三级地址 四级地址 随机生成完整地址
 - [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
