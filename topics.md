@@ -1024,6 +1024,7 @@
 
 ## nextjs 
 
+- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A minimal, pixel-perfect dev portfolio, shadcn registry, and blog.
 - [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -1570,6 +1571,7 @@
 
 ## python 
 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [OrangeX4/typst-sympy-calculator](https://github.com/OrangeX4/typst-sympy-calculator) - Parse typst math expressions into sympy form for calc and define your custom functions in typst files.
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
@@ -1814,6 +1816,7 @@
 
 ## tailwindcss 
 
+- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A minimal, pixel-perfect dev portfolio, shadcn registry, and blog.
 - [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog — built with Astro, Tailwind, and shadcn/ui.
 - [kailoon/kailoon.com](https://github.com/kailoon/kailoon.com) - My simple portfolio blog built using 11th and tailwindcss.
 - [SlateDesign/slate-blog](https://github.com/SlateDesign/slate-blog) - A minimal, elegant, and modern blog theme built with Astro.
