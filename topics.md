@@ -974,7 +974,7 @@
 
 ## mcp 
 
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, time, and async code.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
@@ -1191,6 +1191,8 @@
 - [Heptagon196/Dict](https://github.com/Heptagon196/Dict) - 命令行英汉/汉英字典
 - [Shuenhoy/typst-kyphu](https://github.com/Shuenhoy/typst-kyphu) - 
 - [AlexStrNik/SafariPark](https://github.com/AlexStrNik/SafariPark) - Brings Safari’s OTP autofill to any macOS app
+- [sjfhsjfh/typst-relescope](https://github.com/sjfhsjfh/typst-relescope) - 
+- [sjfhsjfh/typst-wasm](https://github.com/sjfhsjfh/typst-wasm) - 
 - [YDX-2147483647/typechat-link](https://github.com/YDX-2147483647/typechat-link) - 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客节目。此项目从其网站爬取各期的参考链接，并整理出一些信息。
 - [OrangeX4/typst-theorion](https://github.com/OrangeX4/typst-theorion) - Out-of-the-box, customizable and multilingual theorem environment package for Typst.
 - [OrangeX4/typst-ori](https://github.com/OrangeX4/typst-ori) - Simple enough but expressive template for notes, reports, and documents for Typst.
@@ -1214,6 +1216,7 @@
 - [vivek2293/AI-Driven-Game-Automation](https://github.com/vivek2293/AI-Driven-Game-Automation) - Using Reinforcement Learning to play "Modern Warship Android Game"
 - [AlexStrNik/LyricsOver](https://github.com/AlexStrNik/LyricsOver) - Overlay lyrics from Apple Music
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [sjfhsjfh/typship](https://github.com/sjfhsjfh/typship) - A Typst package CLI tool
 - [OrangeX4/typst-cheq](https://github.com/OrangeX4/typst-cheq) - Write markdown-like checklist easily.
 - [dx2331lxz/OUC-Electricity-Monitor](https://github.com/dx2331lxz/OUC-Electricity-Monitor) - 一个监控电费变化的工具，实现了电量余量监控、可视化和通知。
 - [ParaN3xus/typress](https://github.com/ParaN3xus/typress) - Typst Mathematical Expression OCR
@@ -1694,7 +1697,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [pascalkuthe/OpenVAF](https://github.com/pascalkuthe/OpenVAF) - An innovative Verilog-A compiler
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, time, and async code.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
