@@ -640,7 +640,7 @@
 - [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) - A SystemVerilog Language Server
 - [pascalkuthe/OpenVAF](https://github.com/pascalkuthe/OpenVAF) - An innovative Verilog-A compiler
 - [adjivas/ml](https://github.com/adjivas/ml) - A library to generating UML language from Rust's project into graphiz/dot file.
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, time, and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, and async code.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
