@@ -1126,7 +1126,7 @@
 - [polylux-typ/jotter](https://github.com/polylux-typ/jotter) - Handwritten notebook style template for Polylux
 - [bezy-org/bezy](https://github.com/bezy-org/bezy) - Bezy is an in-development cross-platform font editor with a built-in bidirectional (RTL/LTR) text editor.
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
-- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [uwni/11ty-pst](https://github.com/uwni/11ty-pst) - An Eleventy plugin that enables you to write content in Typst format with automatic dual HTML/PDF output generation.
 - [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
 - [tianyi-smile/itemize](https://github.com/tianyi-smile/itemize) - A typst package for users to easily customize and format enumerations and lists.
