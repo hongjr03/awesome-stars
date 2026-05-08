@@ -173,6 +173,7 @@
 ## Dockerfile 
 
 - [Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon](https://github.com/Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon) - 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [MoYuM/HowToDrink](https://github.com/MoYuM/HowToDrink) - 程序员在家自制酒/饮料方法指南。Programmer's guide about how to drink at home (Simplified Chinese only).
 - [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter) - A quickstart template to create a Hugo blog using hugo-theme-stack
 
@@ -250,7 +251,6 @@
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [nturley/netlistsvg](https://github.com/nturley/netlistsvg) - draws an SVG schematic from a JSON netlist
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [uwni/11ty-pst](https://github.com/uwni/11ty-pst) - An Eleventy plugin that enables you to write content in Typst format with automatic dual HTML/PDF output generation.
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [kxxt/overleaf](https://github.com/kxxt/overleaf) - A web-based collaborative LaTeX editor
