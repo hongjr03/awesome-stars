@@ -1100,6 +1100,7 @@
 
 ## others 
 
+- [bernsteining/scoryst](https://github.com/bernsteining/scoryst) - 🎼 Music partitions in Typst
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [pacaunt/sanor](https://github.com/pacaunt/sanor) - Fast, small, but powerful presentation framework in Typst.
