@@ -621,6 +621,7 @@
 
 ## Rust 
 
+- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [KelvinChung2000/vuff](https://github.com/KelvinChung2000/vuff) - A ruff inspired Verilog/System Verilog lint+formatting tool
 - [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents.
 - [ParaN3xus/jupytypst](https://github.com/ParaN3xus/jupytypst) - 
