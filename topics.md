@@ -1923,6 +1923,7 @@
 
 ## verilog 
 
+- [KelvinChung2000/vuff](https://github.com/KelvinChung2000/vuff) - A ruff inspired Verilog/System Verilog lint+formatting tool
 - [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) - A SystemVerilog Language Server
 - [chipsalliance/sv-tests](https://github.com/chipsalliance/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard.
 - [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
