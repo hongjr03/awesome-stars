@@ -668,7 +668,7 @@
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [nfejzic/mathemascii](https://github.com/nfejzic/mathemascii) - AsciiMath parser written in Rust.
 - [Trivernis/asciimath-rs](https://github.com/Trivernis/asciimath-rs) - A crate for parsing AsciiMath in rust.
-- [pascal-lab/vizsla](https://github.com/pascal-lab/vizsla) - 
+- [pascal-lab/vizsla](https://github.com/pascal-lab/vizsla) - An LSP for Verilog and SystemVerilog.
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem. Designed to minimize distractions and enhance the retention of information.
 - [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -815,6 +815,7 @@
 
 ## TypeScript 
 
+- [YDX-2147483647/typst-set-font](https://github.com/YDX-2147483647/typst-set-font) - Setting Chinese font in Typst. 设置 Typst 中文字体。
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
@@ -846,7 +847,7 @@
 - [lspriv/wx-calendar](https://github.com/lspriv/wx-calendar) - 微信小程序日历
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [kuizuo/blog](https://github.com/kuizuo/blog) - A technical blog with Docusaurus customization
