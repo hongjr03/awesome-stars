@@ -622,6 +622,7 @@
 
 ## Rust 
 
+- [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Auto pilot for Claude Code - connect multiple coding agents to a local LLM brain. 🆕 with a hive mind now
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
