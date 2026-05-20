@@ -817,6 +817,7 @@
 
 ## TypeScript 
 
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [YDX-2147483647/typst-set-font](https://github.com/YDX-2147483647/typst-set-font) - Setting Chinese font in Typst. 设置 Typst 中文字体。
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
