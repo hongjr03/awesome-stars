@@ -125,6 +125,7 @@
 - [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
 - [oucPMC/RadarControlCenter](https://github.com/oucPMC/RadarControlCenter) - 一个小学期合作项目实践
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+- [pascal-lab/vizsla](https://github.com/pascal-lab/vizsla) - An LSP for Verilog and SystemVerilog.
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
 - [bamboolife/SoundTouch](https://github.com/bamboolife/SoundTouch) - Android使用SoundTouch实现音频的变调变速
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
@@ -671,7 +672,6 @@
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [nfejzic/mathemascii](https://github.com/nfejzic/mathemascii) - AsciiMath parser written in Rust.
 - [Trivernis/asciimath-rs](https://github.com/Trivernis/asciimath-rs) - A crate for parsing AsciiMath in rust.
-- [pascal-lab/vizsla](https://github.com/pascal-lab/vizsla) - An LSP for Verilog and SystemVerilog.
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem. Designed to minimize distractions and enhance the retention of information.
 - [drogus/jawsm](https://github.com/drogus/jawsm) - JavaScript to WASM compiler
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
