@@ -348,6 +348,7 @@
 
 ## claude-code 
 
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Auto pilot for Claude Code - connect multiple coding agents to a local LLM brain. 🆕 with a hive mind now
 
 ## cli 
@@ -457,6 +458,7 @@
 
 ## csharp 
 
+- [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
@@ -1112,6 +1114,7 @@
 
 ## others 
 
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [g-plane/lspt](https://github.com/g-plane/lspt) - Language Server Protocol types made easy.
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
@@ -1596,6 +1599,7 @@
 
 ## python 
 
+- [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
 - [OrangeX4/typst-sympy-calculator](https://github.com/OrangeX4/typst-sympy-calculator) - Parse typst math expressions into sympy form for calc and define your custom functions in typst files.
@@ -1714,6 +1718,7 @@
 
 ## rust 
 
+- [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Auto pilot for Claude Code - connect multiple coding agents to a local LLM brain. 🆕 with a hive mind now
