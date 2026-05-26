@@ -124,7 +124,7 @@
 - [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
 - [oucPMC/RadarControlCenter](https://github.com/oucPMC/RadarControlCenter) - 一个小学期合作项目实践
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-- [pascal-lab/vizsla](https://github.com/pascal-lab/vizsla) - An LSP for Verilog and SystemVerilog.
+- [pascal-lab/vide](https://github.com/pascal-lab/vide) - An LSP for Verilog and SystemVerilog.
 - [alex-maleno/Fuzzing-Module](https://github.com/alex-maleno/Fuzzing-Module) - An interactive module to help you learn how to fuzz your first target
 - [bamboolife/SoundTouch](https://github.com/bamboolife/SoundTouch) - Android使用SoundTouch实现音频的变调变速
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
@@ -442,6 +442,7 @@
 
 ## Python 
 
+- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow
 - [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
@@ -755,7 +756,7 @@
 ## Shell 
 
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
@@ -817,7 +818,8 @@
 
 ## TypeScript 
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) - VSCode public API plugged on the monaco editor
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [YDX-2147483647/typst-set-font](https://github.com/YDX-2147483647/typst-set-font) - Setting Chinese font in Typst. 设置 Typst 中文字体。
