@@ -623,6 +623,7 @@
 
 ## Rust 
 
+- [matklad/minipratt](https://github.com/matklad/minipratt) - 
 - [mmastrac/linktime](https://github.com/mmastrac/linktime) - Link-time initialization, destruction, scattered data collection macros for Rust
 - [g-plane/lspt](https://github.com/g-plane/lspt) - Language Server Protocol types made easy.
 - [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
