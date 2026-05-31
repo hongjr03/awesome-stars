@@ -250,6 +250,7 @@
 
 ## JavaScript 
 
+- [EclipseFdn/publish-extensions](https://github.com/EclipseFdn/publish-extensions) - Scripts for publishing VS Code extensions to open-vsx.org
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
