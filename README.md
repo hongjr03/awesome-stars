@@ -27,6 +27,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [MoonBit](#moonbit)
 - [Nim](#nim)
@@ -347,6 +348,10 @@
 - [hongjr03/ROP_Python](https://github.com/hongjr03/ROP_Python) - Rank-One Prior implemented in Python. The code is created for dehaze, sand dust image and underwater image enhancement.
 - [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
 
+## MDX 
+
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+
 ## Markdown 
 
 - [antfu/antfu.me](https://github.com/antfu/antfu.me) - My personal website
@@ -624,6 +629,7 @@
 
 ## Rust 
 
+- [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
 - [matklad/minipratt](https://github.com/matklad/minipratt) - 
 - [mmastrac/linktime](https://github.com/mmastrac/linktime) - Link-time initialization, destruction, scattered data collection macros for Rust
 - [g-plane/lspt](https://github.com/g-plane/lspt) - Language Server Protocol types made easy.
@@ -822,6 +828,7 @@
 
 ## TypeScript 
 
+- [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) - VSCode public API plugged on the monaco editor
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
