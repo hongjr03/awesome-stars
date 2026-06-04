@@ -1116,6 +1116,8 @@
 
 ## others 
 
+- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
+- [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [EclipseFdn/publish-extensions](https://github.com/EclipseFdn/publish-extensions) - Scripts for publishing VS Code extensions to open-vsx.org
