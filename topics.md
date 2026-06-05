@@ -1116,6 +1116,7 @@
 
 ## others 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
