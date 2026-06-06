@@ -629,6 +629,7 @@
 
 ## Rust 
 
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
 - [matklad/minipratt](https://github.com/matklad/minipratt) - 
