@@ -77,6 +77,7 @@
 
 ## C 
 
+- [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
@@ -629,6 +630,7 @@
 
 ## Rust 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
@@ -637,7 +639,7 @@
 - [g-plane/lspt](https://github.com/g-plane/lspt) - Language Server Protocol types made easy.
 - [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local-LLM brain that learns from you.
+- [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [KelvinChung2000/vuff](https://github.com/KelvinChung2000/vuff) - A ruff inspired Verilog/System Verilog lint+formatting tool
 - [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents.
