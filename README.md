@@ -238,6 +238,7 @@
 
 ## Java 
 
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [iceiceiceYu/Computer-System-Engineering](https://github.com/iceiceiceYu/Computer-System-Engineering) - Computer System Engineering (CSE) course in Fudan University - labs, reviews & papers 复旦大学《计算机系统工程》课程lab、复习资料与模拟试题
