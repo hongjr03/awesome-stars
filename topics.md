@@ -586,6 +586,7 @@
 
 ## education 
 
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - https://learningos.cn/os-lectures/ 2026年春季OS课程Slides\实验指导\思维导图\挑战项目等
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -1983,6 +1984,7 @@
 
 ## verilog 
 
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 - [KelvinChung2000/vuff](https://github.com/KelvinChung2000/vuff) - A ruff inspired Verilog/System Verilog lint+formatting tool
 - [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) - A SystemVerilog Language Server
