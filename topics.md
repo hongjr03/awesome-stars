@@ -1130,6 +1130,7 @@
 
 ## others 
 
+- [sjfhsjfh/google_scholar_mcp](https://github.com/sjfhsjfh/google_scholar_mcp) - 📚MCP service for Google Scholar that filters only complete abstracts and seamlessly integrates with Cherry Studio.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
