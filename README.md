@@ -454,6 +454,7 @@
 
 ## Python 
 
+- [sjfhsjfh/google_scholar_mcp](https://github.com/sjfhsjfh/google_scholar_mcp) - 📚MCP service for Google Scholar that filters only complete abstracts and seamlessly integrates with Cherry Studio.
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow
 - [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
