@@ -402,7 +402,7 @@
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [XLearning-SCU/Awesome-All-In-One-Image-Restoration](https://github.com/XLearning-SCU/Awesome-All-In-One-Image-Restoration) - This is a summary of research on All-In-One Image/Video Restoration. There may be omissions. If anything is missing please get in touch with us. Our emails: liboyun.gm@gmail.com; gouyuanbiao@gmail.com
-- [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
+- [Kobaayyy/Awesome-ECCV2026-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2026-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2026/ECCV2024/ECCV2020 Low Level Vision
 - [ddz16/UnderwaterDataset](https://github.com/ddz16/UnderwaterDataset) - This repository contains various underwatr datasets for enhancement, detection, segmentation...
 - [CXH-Research/Underwater-Image-Enhancement](https://github.com/CXH-Research/Underwater-Image-Enhancement) - Summary of Publicly Available Underwater Image Enhancement Method
 - [yzhuoning/Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) - Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).
