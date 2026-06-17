@@ -436,7 +436,7 @@
 
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [EutropicAI/Final2x-core](https://github.com/EutropicAI/Final2x-core) - core for Final2x
-- [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
+- [Kobaayyy/Awesome-ECCV2026-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2026-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2026/ECCV2024/ECCV2020 Low Level Vision
 - [lizhh268/SPMFormer](https://github.com/lizhh268/SPMFormer) - [KBS 2025] SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
 - [yiyulics/CSEC](https://github.com/yiyulics/CSEC) - [CVPR2024] Official Implementation of Paper "Color Shift Estimation-and-Correction for Image Enhancement"
@@ -797,7 +797,7 @@
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [EutropicAI/Final2x-core](https://github.com/EutropicAI/Final2x-core) - core for Final2x
 - [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
-- [Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2024/ECCV2020 Low Level Vision
+- [Kobaayyy/Awesome-ECCV2026-ECCV2024-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2026-ECCV2024-ECCV2020-Low-Level-Vision) - A Collection of Papers and Codes for ECCV2026/ECCV2024/ECCV2020 Low Level Vision
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
 - [CXH-Research/Underwater-Image-Enhancement](https://github.com/CXH-Research/Underwater-Image-Enhancement) - Summary of Publicly Available Underwater Image Enhancement Method
 - [Kobaayyy/Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups) - A Collection of Low Level Vision Research Groups
