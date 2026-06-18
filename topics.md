@@ -1130,6 +1130,7 @@
 
 ## others 
 
+- [Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh) - 逻辑验证漫游指南
 - [sjfhsjfh/google_scholar_mcp](https://github.com/sjfhsjfh/google_scholar_mcp) - 📚MCP service for Google Scholar that filters only complete abstracts and seamlessly integrates with Cherry Studio.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
