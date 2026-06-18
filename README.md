@@ -25,6 +25,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [MDX](#mdx)
@@ -337,6 +338,10 @@
 ## Kotlin 
 
 - [TrPlugins/TrMenu](https://github.com/TrPlugins/TrMenu) - Modern & Advanced Menu-Plugin for Minecraft Servers
+
+## Lean 
+
+- [Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh) - 逻辑验证漫游指南
 
 ## Lua 
 
