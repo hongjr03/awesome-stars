@@ -459,6 +459,7 @@
 
 ## Python 
 
+- [ChattelionLuo/MinecrafTeX](https://github.com/ChattelionLuo/MinecrafTeX) - Typeset real LaTeX math in authentic Minecraft pixel art — one pixel OpenType MATH font for both LaTeX (PDF) and the web (Temml/MathML).
 - [sjfhsjfh/google_scholar_mcp](https://github.com/sjfhsjfh/google_scholar_mcp) - 📚MCP service for Google Scholar that filters only complete abstracts and seamlessly integrates with Cherry Studio.
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow
 - [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
@@ -639,6 +640,8 @@
 
 ## Rust 
 
+- [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
+- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid.js, but headless, in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
