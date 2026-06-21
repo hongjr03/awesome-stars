@@ -1130,6 +1130,7 @@
 
 ## others 
 
+- [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 - [ChattelionLuo/MinecrafTeX](https://github.com/ChattelionLuo/MinecrafTeX) - Typeset real LaTeX math in authentic Minecraft pixel art — one pixel OpenType MATH font for both LaTeX (PDF) and the web (Temml/MathML).
 - [Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh) - 逻辑验证漫游指南
 - [sjfhsjfh/google_scholar_mcp](https://github.com/sjfhsjfh/google_scholar_mcp) - 📚MCP service for Google Scholar that filters only complete abstracts and seamlessly integrates with Cherry Studio.
