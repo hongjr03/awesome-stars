@@ -240,6 +240,7 @@
 
 ## Java 
 
+- [AlloyTools/org.alloytools.alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Alloy is a language for describing structures and a tool for exploring them. It has been used in a wide range of applications from finding holes in security mechanisms to designing telephone switching
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -378,6 +379,7 @@
 
 ## OCaml 
 
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 
 ## Others 
@@ -640,6 +642,7 @@
 
 ## Rust 
 
+- [DataDog/cargo-pup](https://github.com/DataDog/cargo-pup) - Pretty Useful Pup let's you write assertions about the architecture of your Rust project
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [Latias94/merman](https://github.com/Latias94/merman) - Mermaid.js, but headless, in Rust.
