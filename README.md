@@ -120,6 +120,7 @@
 
 ## C++ 
 
+- [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [steveicarus/iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
@@ -640,6 +641,7 @@
 
 ## Rust 
 
+- [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [DataDog/cargo-pup](https://github.com/DataDog/cargo-pup) - Pretty Useful Pup let's you write assertions about the architecture of your Rust project
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
