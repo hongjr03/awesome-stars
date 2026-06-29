@@ -641,6 +641,7 @@
 
 ## Rust 
 
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools) - Full-featured language server and other tools for WebAssembly, making WebAssembly development fast, safe, and joyful.
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [DataDog/cargo-pup](https://github.com/DataDog/cargo-pup) - Pretty Useful Pup let's you write assertions about the architecture of your Rust project
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
