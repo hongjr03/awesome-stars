@@ -418,6 +418,7 @@
 
 ## compiler 
 
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools) - Full-featured language server and other tools for WebAssembly, making WebAssembly development fast, safe, and joyful.
 - [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [pascalkuthe/OpenVAF](https://github.com/pascalkuthe/OpenVAF) - An innovative Verilog-A compiler
 - [MikePopoloski/slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language services
