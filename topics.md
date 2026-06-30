@@ -733,6 +733,7 @@
 
 ## hacktoberfest 
 
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -1139,6 +1140,7 @@
 
 ## others 
 
+- [Aidan-McNay/scarf](https://github.com/Aidan-McNay/scarf) - A suite of tools for interacting with (System)Verilog hardware designs
 - [xlsynth/slang-rs](https://github.com/xlsynth/slang-rs) - Rust bindings for the Slang Verilog parser
 - [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
@@ -1776,6 +1778,7 @@
 
 ## rust 
 
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [tower-lsp-community/ls-types](https://github.com/tower-lsp-community/ls-types) - Types for the LSP and LSIF specifications
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
