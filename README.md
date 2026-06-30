@@ -641,6 +641,7 @@
 
 ## Rust 
 
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [Aidan-McNay/scarf](https://github.com/Aidan-McNay/scarf) - A suite of tools for interacting with (System)Verilog hardware designs
 - [xlsynth/slang-rs](https://github.com/xlsynth/slang-rs) - Rust bindings for the Slang Verilog parser
 - [tower-lsp-community/ls-types](https://github.com/tower-lsp-community/ls-types) - Types for the LSP and LSIF specifications
