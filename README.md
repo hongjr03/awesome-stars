@@ -641,6 +641,9 @@
 
 ## Rust 
 
+- [xlsynth/slang-rs](https://github.com/xlsynth/slang-rs) - Rust bindings for the Slang Verilog parser
+- [tower-lsp-community/ls-types](https://github.com/tower-lsp-community/ls-types) - Types for the LSP and LSIF specifications
+- [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
 - [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools) - Full-featured language server and other tools for WebAssembly, making WebAssembly development fast, safe, and joyful.
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.
 - [DataDog/cargo-pup](https://github.com/DataDog/cargo-pup) - Pretty Useful Pup let's you write assertions about the architecture of your Rust project
