@@ -394,7 +394,6 @@
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format
 - [hylarucoder/ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover) - AI 味去除 - 仅在 Gemini 2.5 Pro 上测试通过
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [hust-open-atom-club/intro2oss](https://github.com/hust-open-atom-club/intro2oss) - 开源软件通识课程 (Introduction to Open Source Software)，本课程暂定设计面向信息大类专业的低年级学生
 - [hongjr03/OUC-TCP-Lab](https://github.com/hongjr03/OUC-TCP-Lab) - 
 - [ITStudioOUC/OUC-WaterShortcut](https://github.com/ITStudioOUC/OUC-WaterShortcut) - 中国海洋大学饮水机的快捷指令，可以实现快捷打水
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
