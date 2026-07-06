@@ -1150,6 +1150,7 @@
 
 ## others 
 
+- [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [Aidan-McNay/scarf](https://github.com/Aidan-McNay/scarf) - A suite of tools for interacting with (System)Verilog hardware designs
 - [xlsynth/slang-rs](https://github.com/xlsynth/slang-rs) - Rust bindings for the Slang Verilog parser
