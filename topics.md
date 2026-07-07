@@ -117,6 +117,7 @@
 - [mcp](#mcp)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
+- [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
 - [natural-language-processing](#natural-language-processing)
@@ -354,6 +355,7 @@
 
 ## claude 
 
+- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
@@ -363,6 +365,7 @@
 
 ## claude-code 
 
+- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -938,6 +941,7 @@
 
 ## llm 
 
+- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -1048,6 +1052,10 @@
 - [CPlayer-CN/Spigot-Plugin-Dev-Chinese](https://github.com/CPlayer-CN/Spigot-Plugin-Dev-Chinese) - 水龙头插件开发文档中文翻译 | Spigot Plugin Development Chinese translation
 - [Flo56958/MineTinker](https://github.com/Flo56958/MineTinker) - A TinkersConstruct-inspired Spigot plugin
 
+## mongodb 
+
+- [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
+
 ## monitoring 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1099,6 +1107,7 @@
 
 ## nodejs 
 
+- [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 
@@ -1150,6 +1159,7 @@
 
 ## others 
 
+- [JetBrains/100-exercises-to-learn-rust](https://github.com/JetBrains/100-exercises-to-learn-rust) - 
 - [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [Aidan-McNay/scarf](https://github.com/Aidan-McNay/scarf) - A suite of tools for interacting with (System)Verilog hardware designs
@@ -1944,6 +1954,7 @@
 
 ## telegram-bot 
 
+- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 
 ## tensorflow 
@@ -1992,6 +2003,7 @@
 
 ## typescript 
 
+- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
