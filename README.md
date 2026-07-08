@@ -66,6 +66,7 @@
 - [incluud/accessible-astro-components](https://github.com/incluud/accessible-astro-components) - A collection of accessible components for Astro projects with built-in ARIA attributes, keyboard navigation and interactive elements. Easy to implement and customize to your needs.
 - [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - An opinionated, unstyled static blogging template built with Astro and native CSS.
 - [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - ✍️ My personal information security blog. Built with Astro, Tailwind, and shadcn/ui.
+- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [Dnzzk2/Litos](https://github.com/Dnzzk2/Litos) - A Simple & Modern Blog Theme for Astro
 - [OverflowCat/astro-typst](https://github.com/OverflowCat/astro-typst) - All-in-one Typst integration for Astro
 - [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
@@ -460,7 +461,6 @@
 ## Python 
 
 - [ChattelionLuo/MinecrafTeX](https://github.com/ChattelionLuo/MinecrafTeX) - Typeset real LaTeX math in authentic Minecraft pixel art — one pixel OpenType MATH font for both LaTeX (PDF) and the web (Temml/MathML).
-- [sjfhsjfh/google_scholar_mcp](https://github.com/sjfhsjfh/google_scholar_mcp) - 📚MCP service for Google Scholar that filters only complete abstracts and seamlessly integrates with Cherry Studio.
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow
 - [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -743,8 +743,6 @@
 - [bokuweb/docx-rs](https://github.com/bokuweb/docx-rs) - :memo:  A .docx file writer with Rust/WebAssembly.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-- [sjfhsjfh/typst-relescope](https://github.com/sjfhsjfh/typst-relescope) - 
-- [sjfhsjfh/typst-wasm](https://github.com/sjfhsjfh/typst-wasm) - 
 - [YDX-2147483647/typechat-link](https://github.com/YDX-2147483647/typechat-link) - 《字谈字畅》（TypeChat）是全球首家用华语制作的字体排印主题播客节目。此项目从其网站爬取各期的参考链接，并整理出一些信息。
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [typst-community/tytanic](https://github.com/typst-community/tytanic) - A test runner for typst projects.
@@ -761,7 +759,6 @@
 - [hooyuser/typst_font_manager](https://github.com/hooyuser/typst_font_manager) - A CLI tool to manage fonts for Typst projects.
 - [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
 - [SabrinaJewson/cmarker.typ](https://github.com/SabrinaJewson/cmarker.typ) - Transpile CommonMark Markdown to Typst, from within Typst!
-- [sjfhsjfh/typship](https://github.com/sjfhsjfh/typship) - A Typst package CLI tool
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
@@ -879,7 +876,6 @@
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [hamster1963/NextMe](https://github.com/hamster1963/NextMe) - NextMe is a personal website built with Next.js and Tailwind CSS.
 - [ParaN3xus/tyraria](https://github.com/ParaN3xus/tyraria) - Recreate the online editing experience of typst.app based on tinymist and typst.ts
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
