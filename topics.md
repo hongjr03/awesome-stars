@@ -284,7 +284,7 @@
 ## awesome 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
@@ -355,7 +355,6 @@
 
 ## claude 
 
-- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
@@ -365,7 +364,6 @@
 
 ## claude-code 
 
-- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -941,7 +939,6 @@
 
 ## llm 
 
-- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [mercurialsolo/claudectl](https://github.com/mercurialsolo/claudectl) - Orchestrate a swarm of Claude Code agents with a local brain that learns from you.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -1950,7 +1947,6 @@
 
 ## telegram-bot 
 
-- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 
 ## tensorflow 
@@ -1999,7 +1995,6 @@
 
 ## typescript 
 
-- [op7418/Claude-to-IM](https://github.com/op7418/Claude-to-IM) - Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
