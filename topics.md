@@ -1313,6 +1313,7 @@
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
 - [wenbin-liu/typst-hugo](https://github.com/wenbin-liu/typst-hugo) - A typst to html compiler for hugo
+- [hust-open-atom-club/intro2oss](https://github.com/hust-open-atom-club/intro2oss) - 开源软件通识课程 (Introduction to Open Source Software)，本课程暂定设计面向信息大类专业的低年级学生
 - [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
 - [lublak/typst-spreet-package](https://github.com/lublak/typst-spreet-package) - 
 - [slowli/externref](https://github.com/slowli/externref) - Low-cost reference type shims for WASM modules
