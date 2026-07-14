@@ -641,6 +641,7 @@
 
 ## Rust 
 
+- [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
 - [JetBrains/100-exercises-to-learn-rust](https://github.com/JetBrains/100-exercises-to-learn-rust) - 
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [Aidan-McNay/scarf](https://github.com/Aidan-McNay/scarf) - A suite of tools for interacting with (System)Verilog hardware designs
