@@ -1163,6 +1163,7 @@
 
 ## others 
 
+- [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
 - [JetBrains/100-exercises-to-learn-rust](https://github.com/JetBrains/100-exercises-to-learn-rust) - 
 - [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
