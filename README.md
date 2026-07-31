@@ -88,7 +88,7 @@
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [mbbill/Silverfir](https://github.com/mbbill/Silverfir) - A WebAssembly runtime for embedded systems
 - [yamt/toywasm](https://github.com/yamt/toywasm) - A WebAssembly interpreter written in C
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [mcuking/wasmc](https://github.com/mcuking/wasmc) - :sparkles:  A WebAssembly interpreter written in C for demonstration
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac](https://github.com/Evian-Zhang/learn-assembly-on-Apple-Silicon-Mac) - 在 Apple Silicon Mac 上入门汇编语言
