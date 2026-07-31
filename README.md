@@ -28,7 +28,6 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
-- [MDX](#mdx)
 - [Markdown](#markdown)
 - [MoonBit](#moonbit)
 - [Nim](#nim)
@@ -358,10 +357,6 @@
 - [junliumath/ROP](https://github.com/junliumath/ROP) - The Code is created for dehaze, sand dust image and underwater image enhancement.
 - [hongjr03/ROP_Python](https://github.com/hongjr03/ROP_Python) - Rank-One Prior implemented in Python. The code is created for dehaze, sand dust image and underwater image enhancement.
 - [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
-
-## MDX 
-
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ## Markdown 
 
@@ -866,6 +861,7 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) - VSCode public API plugged on the monaco editor
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
