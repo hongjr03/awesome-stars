@@ -75,6 +75,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -143,6 +144,7 @@
 - [parsing](#parsing)
 - [php](#php)
 - [physics](#physics)
+- [pixel-art](#pixel-art)
 - [portfolio-website](#portfolio-website)
 - [powershell](#powershell)
 - [productivity](#productivity)
@@ -577,6 +579,7 @@
 
 ## docker 
 
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [josxha/minecraft-purpur-docker](https://github.com/josxha/minecraft-purpur-docker) - Automatic Docker builds for Minecraft Purpur server
 - [ichi4096/vivado-on-silicon-mac](https://github.com/ichi4096/vivado-on-silicon-mac) - Installs Vivado on M1/M2/M3 macs
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
@@ -641,6 +644,7 @@
 
 ## fastapi 
 
+- [unstonio/pixelgpt-24x24](https://github.com/unstonio/pixelgpt-24x24) - Tiny local text-to-24x24 pixel art model, trained on roughly 200K samples in 30 minutes on an RTX 5090.
 - [ayushjain01/Spotify-Lyrics-Share](https://github.com/ayushjain01/Spotify-Lyrics-Share) - Inspired by Spotify, this project lets you share specific song lyrics with friends. It creates custom preview images for your selected lyrics, perfect for sharing!
 
 ## firefox 
@@ -696,6 +700,10 @@
 ## gamedev 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+## generative-ai 
+
+- [unstonio/pixelgpt-24x24](https://github.com/unstonio/pixelgpt-24x24) - Tiny local text-to-24x24 pixel art model, trained on roughly 200K samples in 30 minutes on an RTX 5090.
 
 ## git 
 
@@ -895,6 +903,7 @@
 
 ## kubernetes 
 
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 
 ## language 
@@ -927,6 +936,7 @@
 
 ## linux 
 
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1641,6 +1651,10 @@
 
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 
+## pixel-art 
+
+- [unstonio/pixelgpt-24x24](https://github.com/unstonio/pixelgpt-24x24) - Tiny local text-to-24x24 pixel art model, trained on roughly 200K samples in 30 minutes on an RTX 5090.
+
 ## portfolio-website 
 
 - [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
@@ -1721,6 +1735,7 @@
 
 ## pytorch 
 
+- [unstonio/pixelgpt-24x24](https://github.com/unstonio/pixelgpt-24x24) - Tiny local text-to-24x24 pixel art model, trained on roughly 200K samples in 30 minutes on an RTX 5090.
 - [WiwilZ/MVMD-PyTorch](https://github.com/WiwilZ/MVMD-PyTorch) - Multivariate Variational Mode Decomposition implemented in PyTorch
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
