@@ -1638,6 +1638,7 @@
 
 ## parsing 
 
+- [adclz/auto-lsp](https://github.com/adclz/auto-lsp) - A rust crate for creating AST and LSP servers powered by tree-sitter.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
@@ -1817,6 +1818,7 @@
 
 ## rust 
 
+- [adclz/auto-lsp](https://github.com/adclz/auto-lsp) - A rust crate for creating AST and LSP servers powered by tree-sitter.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [tower-lsp-community/ls-types](https://github.com/tower-lsp-community/ls-types) - Types for the LSP and LSIF specifications
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
