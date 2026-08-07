@@ -637,6 +637,7 @@
 
 ## Rust 
 
+- [adclz/auto-lsp](https://github.com/adclz/auto-lsp) - A rust crate for creating AST and LSP servers powered by tree-sitter.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
 - [JetBrains/100-exercises-to-learn-rust](https://github.com/JetBrains/100-exercises-to-learn-rust) - 
