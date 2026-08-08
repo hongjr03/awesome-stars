@@ -1180,6 +1180,8 @@
 
 ## others 
 
+- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images.
+- [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
 - [kunlinglio/project-timer](https://github.com/kunlinglio/project-timer) - Track your coding time automatically with detailed language, project and file-level insights.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
@@ -1636,6 +1638,7 @@
 
 ## package-manager 
 
+- [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
@@ -1700,6 +1703,7 @@
 
 ## python 
 
+- [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -2067,6 +2071,7 @@
 
 ## verilog 
 
+- [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [dalance/sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 - [KelvinChung2000/vuff](https://github.com/KelvinChung2000/vuff) - A ruff inspired Verilog/System Verilog lint+formatting tool
