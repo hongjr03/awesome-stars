@@ -940,6 +940,7 @@
 
 ## Typst 
 
+- [wensimehrp/haita](https://github.com/wensimehrp/haita) - HTML and PDF documentation generation in pure Typst. No external tool required.
 - [bernsteining/scoryst](https://github.com/bernsteining/scoryst) - 🎼 Music engraving in Typst
 - [pacaunt/sanor](https://github.com/pacaunt/sanor) - Fast, small, but powerful presentation framework in Typst.
 - [tianyi-smile/parize](https://github.com/tianyi-smile/parize) - A Typst package that allows any block-level element to be treated as part of a paragraph.
