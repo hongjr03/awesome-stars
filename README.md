@@ -836,6 +836,7 @@
 
 ## SystemVerilog 
 
+- [inuEbisu/fpga-minesweeper](https://github.com/inuEbisu/fpga-minesweeper) - 
 - [chipsalliance/sv-tests](https://github.com/chipsalliance/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard.
 
 ## TeX 
