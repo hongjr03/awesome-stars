@@ -228,6 +228,7 @@
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) - Zero-DCE code and model
 - [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [chenyang1999/MyComputerCollegeCourses](https://github.com/chenyang1999/MyComputerCollegeCourses) - 我的大学课程学习资料汇总
@@ -599,7 +600,6 @@
 - [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
-- [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [Li-Chongyi/UHDFour_code](https://github.com/Li-Chongyi/UHDFour_code) - 
 - [Ysz2022/NeRCo](https://github.com/Ysz2022/NeRCo) - [ICCV 2023] Implicit Neural Representation for Cooperative Low-light Image Enhancement
 - [limuloo/PyDIff](https://github.com/limuloo/PyDIff) - [IJCAI 2023 ORAL] "Pyramid Diffusion Models For Low-light Image Enhancement" (Official Implementation)
@@ -841,6 +841,7 @@
 
 ## TeX 
 
+- [juliusross1/Pennstander](https://github.com/juliusross1/Pennstander) - Pennstander Font
 - [AiDaiP/OUC-LaTex-master](https://github.com/AiDaiP/OUC-LaTex-master) - 中国海洋大学硕士博士学位论文 LaTeX 模板（2025版）
 - [AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp) - Frama-C and WP tutorial
 - [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2026，持续更新！
