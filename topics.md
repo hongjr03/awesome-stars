@@ -1180,6 +1180,7 @@
 
 ## others 
 
+- [inuEbisu/fpga-minesweeper](https://github.com/inuEbisu/fpga-minesweeper) - 
 - [wensimehrp/haita](https://github.com/wensimehrp/haita) - HTML and PDF documentation generation in pure Typst. No external tool required.
 - [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images.
 - [dtolnay/watt](https://github.com/dtolnay/watt) - Runtime for executing procedural macros as WebAssembly
