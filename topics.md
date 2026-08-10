@@ -1180,6 +1180,7 @@
 
 ## others 
 
+- [juliusross1/Pennstander](https://github.com/juliusross1/Pennstander) - Pennstander Font
 - [inuEbisu/fpga-minesweeper](https://github.com/inuEbisu/fpga-minesweeper) - 
 - [wensimehrp/haita](https://github.com/wensimehrp/haita) - HTML and PDF documentation generation in pure Typst. No external tool required.
 - [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images.
