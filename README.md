@@ -645,7 +645,7 @@
 - [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) - Writing a hypervisor in 1,000 lines.
 - [JetBrains/100-exercises-to-learn-rust](https://github.com/JetBrains/100-exercises-to-learn-rust) - 
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-- [Aidan-McNay/scarf](https://github.com/Aidan-McNay/scarf) - A suite of tools for interacting with (System)Verilog hardware designs
+- [Aidan-McNay/forj](https://github.com/Aidan-McNay/forj) - A suite of tools for interacting with (System)Verilog hardware designs
 - [xlsynth/slang-rs](https://github.com/xlsynth/slang-rs) - Rust bindings for the Slang Verilog parser
 - [tower-lsp-community/ls-types](https://github.com/tower-lsp-community/ls-types) - Types for the LSP and LSIF specifications
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
