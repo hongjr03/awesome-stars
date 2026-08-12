@@ -844,7 +844,7 @@
 - [juliusross1/Pennstander](https://github.com/juliusross1/Pennstander) - Pennstander Font
 - [AiDaiP/OUC-LaTex-master](https://github.com/AiDaiP/OUC-LaTex-master) - 中国海洋大学硕士博士学位论文 LaTeX 模板（2025版）
 - [AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp) - Frama-C and WP tutorial
-- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2026，持续更新！
+- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2027
 - [XPixelGroup/BasicSR-docs](https://github.com/XPixelGroup/BasicSR-docs) - 
 - [ameDev21/6-033-mit-notes](https://github.com/ameDev21/6-033-mit-notes) - This repo contains all 6.033 notes, with slides, some papers.
 - [LukasPietzschmann/awesome-beamer](https://github.com/LukasPietzschmann/awesome-beamer) - Kinda awesome beamer theme
