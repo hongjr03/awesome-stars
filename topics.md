@@ -1395,7 +1395,7 @@
 - [Cherrison/ouc_jwc_spader](https://github.com/Cherrison/ouc_jwc_spader) - 爬取中国海洋大学教务处课表(python)
 - [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) - WeChat Mini-program plugin for TensorFlow.js
 - [skygongque/MiniProgram-DouyinParse](https://github.com/skygongque/MiniProgram-DouyinParse) - 抖音无水印视频解析小程序，利用云开发云函数无需后端服务器即可上线
-- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2026，持续更新！
+- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2027
 - [a-kkiri/CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template) - 高教社杯全国大学生数学建模比赛（CUMCM）Typst 模版
 - [frigopedro/Apple-Music-Background](https://github.com/frigopedro/Apple-Music-Background) - A script that generate dynamic background such as Apple Music does.
 - [etigerstudio/apple-music-cover-scraper](https://github.com/etigerstudio/apple-music-cover-scraper) - A command line tool to scrape album cover from apple music preview page.
