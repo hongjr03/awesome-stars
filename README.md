@@ -303,7 +303,6 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [AlanDecode/Typecho-Theme-VOID](https://github.com/AlanDecode/Typecho-Theme-VOID) - 🐒 猴子打字机原理的产物
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
-- [lifeeka/leaflet.bezier](https://github.com/lifeeka/leaflet.bezier) - Draws a Bézier line between two points with an animated flight object.
 - [frogcat/leaflet-tilelayer-mask](https://github.com/frogcat/leaflet-tilelayer-mask) - A Leaflet Tilelayer with mask
 - [ZhuGYao/echarts_trajectory](https://github.com/ZhuGYao/echarts_trajectory) - echarts与百度地图轨迹整合示例
 - [moonrailgun/chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) - 中国地址生成器 - 三级地址 四级地址 随机生成完整地址
@@ -934,6 +933,7 @@
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [lcandy2/webvpn-converter](https://github.com/lcandy2/webvpn-converter) - 轻松访问校内网络资源，无需繁琐设置，只需粘贴链接，常规网址即刻转化为您学校的Web VPN网址。
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+- [lifeeka/leaflet.bezier](https://github.com/lifeeka/leaflet.bezier) - Draws a Bézier line between two points with an animated flight object.
 - [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [zu1k/book-searcher](https://github.com/zu1k/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
