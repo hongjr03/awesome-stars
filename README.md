@@ -840,6 +840,7 @@
 
 ## SystemVerilog 
 
+- [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [inuEbisu/fpga-minesweeper](https://github.com/inuEbisu/fpga-minesweeper) - 
 - [chipsalliance/sv-tests](https://github.com/chipsalliance/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard.
 
