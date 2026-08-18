@@ -1187,6 +1187,7 @@
 
 ## others 
 
+- [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
 - [pulp-platform/bender](https://github.com/pulp-platform/bender) - A dependency management tool for hardware projects.
 - [juliusross1/Pennstander](https://github.com/juliusross1/Pennstander) - Pennstander Font
