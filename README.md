@@ -384,7 +384,7 @@
 - [jeff4444/Vivado_on_mac](https://github.com/jeff4444/Vivado_on_mac) - This guide documents the exact steps I followed to get Vivado running on an Apple Silicon (M3 Pro) MacBook by installing a Windows ARM environment. The goal is to provide a clear, copy‑and‑pasteable p
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
-- [Midnight-2004/CoreProtect-AutoBuild](https://github.com/Midnight-2004/CoreProtect-AutoBuild) - 每周日自动拉取并构建一次CoreProtect
+- [Midnight-2004/CoreProtect-AutoBuild](https://github.com/Midnight-2004/CoreProtect-AutoBuild) - 每周六自动拉取并构建一次CoreProtect
 - [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis. 静态程序分析入门教程。
 - [skanehira/writing-a-wasm-runtime-in-rust](https://github.com/skanehira/writing-a-wasm-runtime-in-rust) - Writing A Wasm Runtime In Rust
 - [hongjr03/tinymist-coverage-workflow](https://github.com/hongjr03/tinymist-coverage-workflow) - 
@@ -989,7 +989,7 @@
 - [flaribbit/indenta](https://github.com/flaribbit/indenta) - Fix indent of first paragraph in typst.
 - [jomaway/typst-bytefield](https://github.com/jomaway/typst-bytefield) - A typst package for creating diagrams of network protocols, memory layouts, register definitions or similar structures.
 - [jneug/typst-mantys](https://github.com/jneug/typst-mantys) - Template for documenting Typst Packages and Templates.
-- [The-Notebookinator/notebookinator](https://github.com/The-Notebookinator/notebookinator) - 
+- [The-Notebookinator/notebookinator](https://github.com/The-Notebookinator/notebookinator) - A VEX Robotics Competition notebook template powered by Typst, with multiple themes and customization options
 - [Amelia-Mowers/typst-tabut](https://github.com/Amelia-Mowers/typst-tabut) - 
 - [csimide/cuti](https://github.com/csimide/cuti) - Cuti: A simple typst package simulates fake bold / fake italic characters. | Cuti：在 typst 中便捷使用伪粗体/伪斜体
 - [LucaCiucci/bob-typ](https://github.com/LucaCiucci/bob-typ) - svgbob for typst, powered by wasm
