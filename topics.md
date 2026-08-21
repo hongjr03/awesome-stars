@@ -1279,7 +1279,7 @@
 - [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌
 - [OverflowCat/astro-typst](https://github.com/OverflowCat/astro-typst) - All-in-one Typst integration for Astro
 - [JacyCui/static-analysis](https://github.com/JacyCui/static-analysis) - 静态分析基础教程
-- [Midnight-2004/CoreProtect-AutoBuild](https://github.com/Midnight-2004/CoreProtect-AutoBuild) - 每周日自动拉取并构建一次CoreProtect
+- [Midnight-2004/CoreProtect-AutoBuild](https://github.com/Midnight-2004/CoreProtect-AutoBuild) - 每周六自动拉取并构建一次CoreProtect
 - [kxxt/overleaf](https://github.com/kxxt/overleaf) - A web-based collaborative LaTeX editor
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [maoken-fonts/frex-sans](https://github.com/maoken-fonts/frex-sans) - Source files of Frex Sans Project | 械黑计划字型源文件
@@ -1496,7 +1496,7 @@
 - [yuhaoliu7456/Diff-Plugin](https://github.com/yuhaoliu7456/Diff-Plugin) - [CVPR 2024] Official code release of our paper "Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks"
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 - [csguoh/Awesome-Mamba-in-Low-Level-Vision](https://github.com/csguoh/Awesome-Mamba-in-Low-Level-Vision) - A paper list of recent mamba efforts for low-level vision.
-- [The-Notebookinator/notebookinator](https://github.com/The-Notebookinator/notebookinator) - 
+- [The-Notebookinator/notebookinator](https://github.com/The-Notebookinator/notebookinator) - A VEX Robotics Competition notebook template powered by Typst, with multiple themes and customization options
 - [Embraccce/BlueBridgeCup-Python](https://github.com/Embraccce/BlueBridgeCup-Python) - 蓝桥杯刷题记录，涉及到Python组的省赛和国赛真题。
 - [junyilou/python-ical-timetable](https://github.com/junyilou/python-ical-timetable) - Python 生成 ics 格式的大学生课表，支持自定义课程周数和其他信息，支持定义教室 GPS 等信息
 - [Amelia-Mowers/typst-tabut](https://github.com/Amelia-Mowers/typst-tabut) - 
