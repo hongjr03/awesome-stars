@@ -1391,7 +1391,7 @@
 - [ladeng07/7MA-Helper](https://github.com/ladeng07/7MA-Helper) - IOS快捷指令：7MA助手，功能包括扫码骑车，一键还车，一键续借，订单状态，长时间锁车等
 - [Embraccce/RecStudy](https://github.com/Embraccce/RecStudy) - 记录推荐系统的学习
 - [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - [IEEE TPAMI 2025] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
-- [FatPaper-1874/mine-monopoly](https://github.com/FatPaper-1874/mine-monopoly) - 大富翁总项目
+- [FatPaper-1874/mine-monopoly](https://github.com/FatPaper-1874/mine-monopoly) - MineMonopoly 是一款支持自定义地图的多人在线大富翁游戏，内置功能完整的地图编辑器。
 - [WJZ-P/LiteLoaderQQNT-Grab-RedBag](https://github.com/WJZ-P/LiteLoaderQQNT-Grab-RedBag) - 基于IPC通信的抢红包插件！ヽ(＾Д＾)ﾉ
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 - [Red-Asuka/vitepress-plugin-tabs](https://github.com/Red-Asuka/vitepress-plugin-tabs) - VitePress plugin - markdown custom container to display content in tabs
