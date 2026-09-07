@@ -867,6 +867,7 @@
 
 ## TypeScript 
 
+- [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [kunlinglio/project-timer](https://github.com/kunlinglio/project-timer) - Track your coding time automatically with detailed language, project and file-level insights.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
