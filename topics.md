@@ -1566,7 +1566,7 @@
 - [AiArt-Gao/MATEBIT](https://github.com/AiArt-Gao/MATEBIT) - [CVPR'23] Masked and Adaptive Transformer for Exemplar Based Image Translation (MATEBIT)
 - [csfive/composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🦊 CS61A 教材 Composing Programs 的中文翻译
 - [JianghaiSCU/Diffusion-Low-Light](https://github.com/JianghaiSCU/Diffusion-Low-Light) - Official pytorch implementation for "Low-light Image Enhancement with Wavelet-based Diffusion Models"
-- [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
+- [apple-aiml-research/ml-mgie](https://github.com/apple-aiml-research/ml-mgie) - 
 - [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
 - [ykdai/Flare7K](https://github.com/ykdai/Flare7K) - Official Implementation of "Flare7K: A Phenomenological Nighttime Flare Removal Dataset"
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
