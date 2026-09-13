@@ -954,7 +954,7 @@
 
 - [wensimehrp/haita](https://github.com/wensimehrp/haita) - HTML and PDF documentation generation in pure Typst. No external tool required.
 - [bernsteining/scoryst](https://github.com/bernsteining/scoryst) - 🎼 Music engraving in Typst
-- [pacaunt/sanor](https://github.com/pacaunt/sanor) - Fast, small, but powerful presentation framework in Typst.
+- [pacaunt/sanor](https://github.com/pacaunt/sanor) - A tool for creating precise animated presentation in Typst.
 - [tianyi-smile/parize](https://github.com/tianyi-smile/parize) - A Typst package that allows any block-level element to be treated as part of a paragraph.
 - [andreasKroepelin/lovelace](https://github.com/andreasKroepelin/lovelace) - A Typst package for typesetting pseudocode
 - [hongjr03/ouc-bachelor-thesis](https://github.com/hongjr03/ouc-bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
