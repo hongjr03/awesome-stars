@@ -1243,7 +1243,7 @@
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-- [pacaunt/sanor](https://github.com/pacaunt/sanor) - Fast, small, but powerful presentation framework in Typst.
+- [pacaunt/sanor](https://github.com/pacaunt/sanor) - A tool for creating precise animated presentation in Typst.
 - [LaurenzV/krilla](https://github.com/LaurenzV/krilla) - A high-level, ergonomic Rust library for creating PDF documents.
 - [tianyi-smile/parize](https://github.com/tianyi-smile/parize) - A Typst package that allows any block-level element to be treated as part of a paragraph.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
