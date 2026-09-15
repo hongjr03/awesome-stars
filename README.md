@@ -31,6 +31,7 @@
 - [Markdown](#markdown)
 - [MoonBit](#moonbit)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
@@ -371,6 +372,10 @@
 
 - [nimpylib/npython](https://github.com/nimpylib/npython) - Python interpreter written in Nim (C or Js backend)
 - [nimpylib/nimpylib](https://github.com/nimpylib/nimpylib) - "Write Python in Nim!"   Python builtins/standard-Lib functions ported to Nim
+
+## Nix 
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## OCaml 
 
