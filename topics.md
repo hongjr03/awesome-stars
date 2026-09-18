@@ -1204,6 +1204,7 @@
 
 ## others 
 
+- [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) - 
 - [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - 
 - [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
