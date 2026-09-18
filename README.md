@@ -959,6 +959,7 @@
 
 ## Typst 
 
+- [tiger2005/carbon-typst-blog](https://github.com/tiger2005/carbon-typst-blog) - 
 - [wensimehrp/haita](https://github.com/wensimehrp/haita) - HTML and PDF documentation generation in pure Typst. No external tool required.
 - [bernsteining/scoryst](https://github.com/bernsteining/scoryst) - 🎼 Music engraving in Typst
 - [pacaunt/sanor](https://github.com/pacaunt/sanor) - A tool for creating precise animated presentation in Typst.
