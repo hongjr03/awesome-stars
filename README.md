@@ -282,7 +282,6 @@
 - [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|
 - [checkToke/yangtai](https://github.com/checkToke/yangtai) - 青龙面板、上车， 巴奴火锅、一汽大众、海底捞、屈臣氏、霸王茶姬、华住会、东呈会、万达酒店、益禾堂 自动签到 。大疆商城监控库存、价格变化
 - [WJZ-P/LiteLoaderQQNT-Grab-RedBag](https://github.com/WJZ-P/LiteLoaderQQNT-Grab-RedBag) - 基于IPC通信的抢红包插件！ヽ(＾Д＾)ﾉ
-- [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 基于 Hexo 的全能个人知识库，开箱即用，内置海量标签和动态数据组件。可用于个人博客、项目文档、知识库、专栏、笔记等。
 - [dark-flames/apollo-typst](https://github.com/dark-flames/apollo-typst) - Typst blog template based on Zola, typst.ts, and apollo.
 - [b-coimbra/dawn](https://github.com/b-coimbra/dawn) - A startpage called "dawn"
@@ -915,6 +914,7 @@
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [FatPaper-1874/mine-monopoly](https://github.com/FatPaper-1874/mine-monopoly) - MineMonopoly 是一款支持自定义地图的多人在线大富翁游戏，内置功能完整的地图编辑器。
+- [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [vincerubinetti/svg-to-png](https://github.com/vincerubinetti/svg-to-png) - Convert SVGs to PNGs right in your browser, reliably and correctly
 - [Red-Asuka/vitepress-plugin-tabs](https://github.com/Red-Asuka/vitepress-plugin-tabs) - VitePress plugin - markdown custom container to display content in tabs
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
