@@ -1497,7 +1497,6 @@
 - [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK) - 我的世界新兴论坛晋级赛，欢迎观战
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
-- [ac1982/eBook-translator](https://github.com/ac1982/eBook-translator) - Native prompt engineering translate script that can keep e-book format, URL, image and more.
 - [ameDev21/6-033-mit-notes](https://github.com/ameDev21/6-033-mit-notes) - This repo contains all 6.033 notes, with slides, some papers.
 - [ShaneHeX/6.033-2018](https://github.com/ShaneHeX/6.033-2018) - After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one’s own distributed system includes an ability to a
 - [xstephen95x/6033](https://github.com/xstephen95x/6033) - Personal course notes for Spring 2017 semester, 6.033
