@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [TickLabVN/biopass](https://github.com/TickLabVN/biopass) - An alternative to Windows Hello/Howdy
 - [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
