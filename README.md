@@ -460,6 +460,7 @@
 ## Python 
 
 - [olofk/edalize](https://github.com/olofk/edalize) - An abstraction library for interfacing EDA tools
+- [juliusross1/Pennstander](https://github.com/juliusross1/Pennstander) - Pennstander Font
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [ChattelionLuo/MinecrafTeX](https://github.com/ChattelionLuo/MinecrafTeX) - Typeset real LaTeX math in authentic Minecraft pixel art — one pixel OpenType MATH font for both LaTeX (PDF) and the web (Temml/MathML).
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow
@@ -853,7 +854,6 @@
 
 ## TeX 
 
-- [juliusross1/Pennstander](https://github.com/juliusross1/Pennstander) - Pennstander Font
 - [AiDaiP/OUC-LaTex-master](https://github.com/AiDaiP/OUC-LaTex-master) - 中国海洋大学硕士博士学位论文 LaTeX 模板（2025版）
 - [AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp) - Frama-C and WP tutorial
 - [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2027
