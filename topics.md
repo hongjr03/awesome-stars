@@ -208,6 +208,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -637,6 +638,7 @@
 
 ## education 
 
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - https://learningos.cn/os-lectures/ 2026年春季OS课程Slides\实验指导\思维导图\挑战项目等
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
@@ -1112,6 +1114,7 @@
 
 ## music 
 
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [bernsteining/scoryst](https://github.com/bernsteining/scoryst) - 🎼 Music engraving in Typst
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -1586,7 +1589,6 @@
 - [ykdai/Flare7K](https://github.com/ykdai/Flare7K) - Official Implementation of "Flare7K: A Phenomenological Nighttime Flare Removal Dataset"
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [latexstudio-org/mcmthesis](https://github.com/latexstudio-org/mcmthesis) - LaTeX2e Template designed for MCM/ICM
-- [BenjaminHalko/win11-circles](https://github.com/BenjaminHalko/win11-circles) - A recreation of the glowing circles from the Windows 11 user creation screen
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [saicaca/hexo-theme-vivia](https://github.com/saicaca/hexo-theme-vivia) - A clean and minimalist theme for Hexo.
 - [MeiK2333/github-style](https://github.com/MeiK2333/github-style) - 
@@ -2226,6 +2228,17 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+## windows-11 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+- [BenjaminHalko/win11-circles](https://github.com/BenjaminHalko/win11-circles) - A recreation of the glowing circles from the Windows 11 user creation screen
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
+- [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 
 ## wordpress 
 
