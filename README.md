@@ -685,7 +685,7 @@
 - [ParaN3xus/jupytypst](https://github.com/ParaN3xus/jupytypst) - 
 - [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [RohanAdwankar/foxes](https://github.com/RohanAdwankar/foxes) - 
