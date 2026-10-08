@@ -1141,7 +1141,7 @@
 
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19 and Tailwind CSS v4: a liquid-glass bento grid with hand-made cards and motion, and a Notion-powered blog.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Personal website for Cali Castle
@@ -1714,7 +1714,7 @@
 
 ## portfolio-website 
 
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19 and Tailwind CSS v4: a liquid-glass bento grid with hand-made cards and motion, and a Notion-powered blog.
 
 ## powershell 
 
@@ -1834,7 +1834,7 @@
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
 - [vincerubinetti/svg-to-png](https://github.com/vincerubinetti/svg-to-png) - Convert SVGs to PNGs right in your browser, reliably and correctly
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19 and Tailwind CSS v4: a liquid-glass bento grid with hand-made cards and motion, and a Notion-powered blog.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
@@ -2023,7 +2023,7 @@
 - [kailoon/kailoon.com](https://github.com/kailoon/kailoon.com) - My simple portfolio blog built using 11th and tailwindcss.
 - [SlateDesign/slate-blog](https://github.com/SlateDesign/slate-blog) - A minimal, elegant, and modern blog theme built with Astro.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
-- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19, HeroUI, and Tailwind CSS v4. Features a Notion-powered blog and Bento-inspired responsive design.
+- [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19 and Tailwind CSS v4: a liquid-glass bento grid with hand-made cards and motion, and a Notion-powered blog.
 - [kuizuo/blog](https://github.com/kuizuo/blog) - A technical blog with Docusaurus customization
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Personal website for Cali Castle
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
