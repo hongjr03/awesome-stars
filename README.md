@@ -296,7 +296,6 @@
 - [smallfawn/QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 企鹅交流1021185005
 - [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK) - 我的世界新兴论坛晋级赛，欢迎观战
 - [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
-- [csfive/composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🦊 CS61A 教材 Composing Programs 的中文翻译
 - [BenjaminHalko/win11-circles](https://github.com/BenjaminHalko/win11-circles) - A recreation of the glowing circles from the Windows 11 user creation screen
 - [tuanzi0701/notion_cn](https://github.com/tuanzi0701/notion_cn) - notion客户端汉化，包括mac和win
 - [shufflewzc/faker2](https://github.com/shufflewzc/faker2) - 不破楼兰终不还
@@ -938,6 +937,7 @@
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Personal website for Cali Castle
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [csfive/composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🦊 CS61A 教材 Composing Programs 的中文翻译
 - [kirito41dd/obsidian-hugo-publish](https://github.com/kirito41dd/obsidian-hugo-publish) - write blog in obsidian, pubulish to hugo site.
 - [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT/QwQNT 插件 - 轻量工具箱
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
