@@ -645,6 +645,7 @@
 
 ## Rust 
 
+- [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
 - [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) - A set of crates dedicated to parsing YAML.
