@@ -784,7 +784,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [Coekjan/typst-upgrade](https://github.com/Coekjan/typst-upgrade) - Upgrade your typst packages
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [HenryJk/PvZWidescreen](https://github.com/HenryJk/PvZWidescreen) - Widescreen mod for Plants vs Zombies
