@@ -852,6 +852,7 @@
 
 ## SystemVerilog 
 
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [inuEbisu/fpga-minesweeper](https://github.com/inuEbisu/fpga-minesweeper) - 浙江大学《数字逻辑设计》课程大作业：仿 Windows 扫雷
 - [chipsalliance/sv-tests](https://github.com/chipsalliance/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard.
