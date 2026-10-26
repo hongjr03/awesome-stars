@@ -121,7 +121,7 @@
 
 ## C++ 
 
-- [TickLabVN/biopass](https://github.com/TickLabVN/biopass) - An alternative to Windows Hello/Howdy
+- [phucvinh57/biopass](https://github.com/phucvinh57/biopass) - An alternative to Windows Hello/Howdy
 - [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
@@ -644,6 +644,8 @@
 
 ## Rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [oxalica/async-lsp](https://github.com/oxalica/async-lsp) - Asynchronous Language Server Protocol framework
