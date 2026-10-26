@@ -496,7 +496,7 @@
 
 ## cpp 
 
-- [TickLabVN/biopass](https://github.com/TickLabVN/biopass) - An alternative to Windows Hello/Howdy
+- [phucvinh57/biopass](https://github.com/phucvinh57/biopass) - An alternative to Windows Hello/Howdy
 - [clice-io/clice](https://github.com/clice-io/clice) - A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
@@ -724,16 +724,21 @@
 
 ## game-development 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [Embraccce/Wisdom-and-Valor-Three-Kingdoms](https://github.com/Embraccce/Wisdom-and-Valor-Three-Kingdoms) - This is a strategy role-playing game. As a major project for the "Game Design and Development" course at Ocean University of China in the spring of 2024, our aim is to create a gaming experience that'
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## game-engine 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## gamedev 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## generative-ai 
@@ -791,6 +796,7 @@
 
 ## gui 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 
 ## hacktoberfest 
@@ -1202,6 +1208,7 @@
 
 ## open-source 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
@@ -1886,6 +1893,8 @@
 
 ## rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) - A set of crates dedicated to parsing YAML.
 - [adclz/auto-lsp](https://github.com/adclz/auto-lsp) - A rust crate for creating AST and LSP servers powered by tree-sitter.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
