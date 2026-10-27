@@ -176,6 +176,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
+- [skills](#skills)
 - [spacevim](#spacevim)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -1277,7 +1278,6 @@
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [g-plane/lspt](https://github.com/g-plane/lspt) - Language Server Protocol types made easy.
-- [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [pacaunt/sanor](https://github.com/pacaunt/sanor) - A tool for creating precise animated presentation in Typst.
@@ -1451,7 +1451,7 @@
 - [Cherrison/ouc_jwc_spader](https://github.com/Cherrison/ouc_jwc_spader) - 爬取中国海洋大学教务处课表(python)
 - [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) - WeChat Mini-program plugin for TensorFlow.js
 - [skygongque/MiniProgram-DouyinParse](https://github.com/skygongque/MiniProgram-DouyinParse) - 抖音无水印视频解析小程序，利用云开发云函数无需后端服务器即可上线
-- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2027
+- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - COMAP MCM/ICM 2023-2027
 - [a-kkiri/CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template) - 高教社杯全国大学生数学建模比赛（CUMCM）Typst 模版
 - [frigopedro/Apple-Music-Background](https://github.com/frigopedro/Apple-Music-Background) - A script that generate dynamic background such as Apple Music does.
 - [etigerstudio/apple-music-cover-scraper](https://github.com/etigerstudio/apple-music-cover-scraper) - A command line tool to scrape album cover from apple music preview page.
@@ -2003,6 +2003,12 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## skills 
+
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+- [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
 ## spacevim 
 
