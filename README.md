@@ -854,6 +854,7 @@
 
 ## SystemVerilog 
 
+- [projf/projf-explore](https://github.com/projf/projf-explore) - Project F brings FPGAs to life with exciting open-source designs you can build on.
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [inuEbisu/fpga-minesweeper](https://github.com/inuEbisu/fpga-minesweeper) - 浙江大学《数字逻辑设计》课程大作业：仿 Windows 扫雷
@@ -863,7 +864,7 @@
 
 - [AiDaiP/OUC-LaTex-master](https://github.com/AiDaiP/OUC-LaTex-master) - 中国海洋大学硕士博士学位论文 LaTeX 模板（2025版）
 - [AllanBlanchard/tutoriel_wp](https://github.com/AllanBlanchard/tutoriel_wp) - Frama-C and WP tutorial
-- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - 数模美赛材料合集 COMAP MCM/ICM 2023-2027
+- [GuangLun2000/COMAP-MCM-2026](https://github.com/GuangLun2000/COMAP-MCM-2026) - COMAP MCM/ICM 2023-2027
 - [XPixelGroup/BasicSR-docs](https://github.com/XPixelGroup/BasicSR-docs) - 
 - [ameDev21/6-033-mit-notes](https://github.com/ameDev21/6-033-mit-notes) - This repo contains all 6.033 notes, with slides, some papers.
 - [LukasPietzschmann/awesome-beamer](https://github.com/LukasPietzschmann/awesome-beamer) - Kinda awesome beamer theme
