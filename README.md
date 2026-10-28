@@ -65,6 +65,7 @@
 
 - [incluud/accessible-astro-components](https://github.com/incluud/accessible-astro-components) - A collection of accessible components for Astro projects with built-in ARIA attributes, keyboard navigation and interactive elements. Easy to implement and customize to your needs.
 - [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - An opinionated, unstyled static blogging template built with Astro and native CSS.
+- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - My personal website, built with Astro, CSS, and love.
 - [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [Dnzzk2/Litos](https://github.com/Dnzzk2/Litos) - A Simple & Modern Blog Theme for Astro
 - [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
@@ -904,7 +905,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
-- [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev) - My personal website, built with Astro, CSS, and love.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [hamster1963/NextMe](https://github.com/hamster1963/NextMe) - NextMe is a personal website built with Next.js and Tailwind CSS.
 - [ParaN3xus/tyraria](https://github.com/ParaN3xus/tyraria) - Recreate the online editing experience of typst.app based on tinymist and typst.ts
