@@ -14,6 +14,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -269,6 +270,10 @@
 - [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+## animation 
+
+- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 
 ## ansible 
 
