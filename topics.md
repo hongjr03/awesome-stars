@@ -413,7 +413,7 @@
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [hooyuser/typst_font_manager](https://github.com/hooyuser/typst_font_manager) - A CLI tool to manage fonts for Typst projects.
@@ -756,7 +756,7 @@
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [hellodigua/code996-web](https://github.com/hellodigua/code996-web) - code996 web端实现
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
