@@ -197,7 +197,7 @@
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings,
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [mewmew/typast](https://github.com/mewmew/typast) - Parser for Typst.
+- [mewmew/typast](https://github.com/mewmew/typast) - Parser for Typst. Tools to updates dependencies and convert Typst files for offline use.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -248,7 +248,6 @@
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [iceiceiceYu/Computer-System-Engineering](https://github.com/iceiceiceYu/Computer-System-Engineering) - Computer System Engineering (CSE) course in Fudan University - labs, reviews & papers 复旦大学《计算机系统工程》课程lab、复习资料与模拟试题
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [GhastCraftHD/Miniaturise](https://github.com/GhastCraftHD/Miniaturise) - A Minecraft Paper plugin that helps you to create miniatures of your builds and makes working with Block Displays easy
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [SincereXIA/XidianCS](https://github.com/SincereXIA/XidianCS) - 西安电子科技大学 计算机科学与技术专业 笔记、上机作业、实验 etc.
@@ -851,6 +850,7 @@
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
 - [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## SystemVerilog 
 
