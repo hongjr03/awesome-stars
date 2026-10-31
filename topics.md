@@ -1312,7 +1312,7 @@
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [adjivas/ml](https://github.com/adjivas/ml) - A library to generating UML language from Rust's project into graphiz/dot file.
-- [mewmew/typast](https://github.com/mewmew/typast) - Parser for Typst.
+- [mewmew/typast](https://github.com/mewmew/typast) - Parser for Typst. Tools to updates dependencies and convert Typst files for offline use.
 - [jeff4444/Vivado_on_mac](https://github.com/jeff4444/Vivado_on_mac) - This guide documents the exact steps I followed to get Vivado running on an Apple Silicon (M3 Pro) MacBook by installing a Windows ARM environment. The goal is to provide a clear, copy‑and‑pasteable p
 - [Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon](https://github.com/Mikura-Kyouka/Vivado-Docker-with-OrbStack-on-Apple-Silicon) - 
 - [polylux-typ/jotter](https://github.com/polylux-typ/jotter) - Handwritten notebook style template for Polylux
