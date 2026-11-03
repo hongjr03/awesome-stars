@@ -135,7 +135,7 @@
 - [bamboolife/SoundTouch](https://github.com/bamboolife/SoundTouch) - Android使用SoundTouch实现音频的变调变速
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 - [Heptagon196/Dict](https://github.com/Heptagon196/Dict) - 命令行英汉/汉英字典
-- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, mpd, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [PanQL/zircon](https://github.com/PanQL/zircon) - 从fuchsia官方目录中分离出来的zircon代码
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [lihas/windows-DPI-scaling-sample](https://github.com/lihas/windows-DPI-scaling-sample) - App To mimic getting and setting DPI scaling for displays on a system
