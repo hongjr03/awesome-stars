@@ -229,7 +229,6 @@
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) - Zero-DCE code and model
-- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [chenyang1999/MyComputerCollegeCourses](https://github.com/chenyang1999/MyComputerCollegeCourses) - 我的大学课程学习资料汇总
@@ -399,7 +398,6 @@
 - [3401797899/OUC_TCP](https://github.com/3401797899/OUC_TCP) - 计网实验
 - [ACT-02/PingFang-for-Windows](https://github.com/ACT-02/PingFang-for-Windows) - 为 Windows 适配的苹方字体。
 - [ladeng07/7MA-Helper](https://github.com/ladeng07/7MA-Helper) - IOS快捷指令：7MA助手，功能包括扫码骑车，一键还车，一键续借，订单状态，长时间锁车等
-- [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - [IEEE TPAMI 2025] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp) - 『微信小程序』优秀教程、轮子、开源项目 资源汇总
@@ -505,6 +503,7 @@
 - [CHERWING/CHERWIN_SCRIPTS](https://github.com/CHERWING/CHERWIN_SCRIPTS) - 永辉生活脚本 | 顺丰速运脚本 | 朴朴超市脚本 | 统一茄皇脚本 | 海底捞小程序脚本 |  口味王会员中心小程序脚本 |  霸王茶姬小程序脚本 | 奈雪点单小程序脚本 | 卡夫亨氏新厨艺公众号脚本 |  韵达快递小程序脚本 | 中通快递小程序脚本 | 德邦快递小程序脚本 |  极兔速递小程序脚本 | 夸克云盘 | 网易生活研究社小程序脚本 | 顾家家居小程序脚本 | 宽哥之家小程序脚本 | 特
 - [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 - [Embraccce/RecStudy](https://github.com/Embraccce/RecStudy) - 记录推荐系统的学习
+- [Harbinzzy/All-in-One-Image-Restoration-Survey](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) - [IEEE TPAMI 2025] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 - [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
 - [hongjr03/OUC-Electricity-Monitor](https://github.com/hongjr03/OUC-Electricity-Monitor) - 一个监控OUC宿舍电费变化的工具，实现了电量余量监控、可视化和通知，支持多种一键部署方式和自定义配置。
 - [SuperNG6/Docker-qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) - Docker-qBittorrent-Enhanced-Edition
@@ -604,6 +603,7 @@
 - [Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [Li-Chongyi/UHDFour_code](https://github.com/Li-Chongyi/UHDFour_code) - 
 - [Ysz2022/NeRCo](https://github.com/Ysz2022/NeRCo) - [ICCV 2023] Implicit Neural Representation for Cooperative Low-light Image Enhancement
@@ -644,6 +644,8 @@
 
 ## Rust 
 
+- [asobi-soft/holotyp](https://github.com/asobi-soft/holotyp) - 
+- [amll-dev/amll-ttml-db](https://github.com/amll-dev/amll-ttml-db) - 作者特供给 AMLL 的 TTML 逐词歌词库，也欢迎大家前来建设本仓库
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
@@ -934,7 +936,7 @@
 - [lspriv/wx-calendar](https://github.com/lspriv/wx-calendar) - 微信小程序日历
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) - Personal website built with Next.js 16, React 19 and Tailwind CSS v4: a liquid-glass bento grid with hand-made cards and motion, and a Notion-powered blog.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [kuizuo/blog](https://github.com/kuizuo/blog) - A technical blog with Docusaurus customization
