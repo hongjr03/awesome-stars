@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [jesscarter/mproton](https://github.com/jesscarter/mproton) - Run Windows Steam games on Apple Silicon Macs, the way Proton runs them on Linux (experimental)
 - [phucvinh57/biopass](https://github.com/phucvinh57/biopass) - An alternative to Windows Hello/Howdy
 - [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
@@ -843,6 +844,7 @@
 
 ## Swift 
 
+- [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
