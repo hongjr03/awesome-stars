@@ -644,6 +644,7 @@
 
 ## Rust 
 
+- [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - A language server implementation for WGSL and WESL
 - [asobi-soft/holotyp](https://github.com/asobi-soft/holotyp) - 
 - [amll-dev/amll-ttml-db](https://github.com/amll-dev/amll-ttml-db) - 作者特供给 AMLL 的 TTML 逐词歌词库，也欢迎大家前来建设本仓库
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -980,7 +981,7 @@
 - [pacaunt/sanor](https://github.com/pacaunt/sanor) - A tool for creating precise animated presentation in Typst.
 - [tianyi-smile/parize](https://github.com/tianyi-smile/parize) - A Typst package that allows any block-level element to be treated as part of a paragraph.
 - [andreasKroepelin/lovelace](https://github.com/andreasKroepelin/lovelace) - A Typst package for typesetting pseudocode
-- [hongjr03/ouc-bachelor-thesis](https://github.com/hongjr03/ouc-bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
+- [typst-ouc/bachelor-thesis](https://github.com/typst-ouc/bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
 - [pauladam94/curryst](https://github.com/pauladam94/curryst) - Typst Package to typeset inference rule
 - [hongjr03/typst-oxdraw](https://github.com/hongjr03/typst-oxdraw) - A Typst plugin for visualizing Mermaid diagrams, built on top of oxdraw.
 - [polylux-typ/jotter](https://github.com/polylux-typ/jotter) - Handwritten notebook style template for Polylux
@@ -1006,7 +1007,7 @@
 - [piepert/grape-suite](https://github.com/piepert/grape-suite) - Typst template suite for papers, presentation slides, exams, and more!
 - [QuadnucYard/pigeonful-typ](https://github.com/QuadnucYard/pigeonful-typ) - A typst package for creating splendid document of pigeons.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) - Simple admonishment for typst
-- [hongjr03/OUC-Typst-Assignment-Templates](https://github.com/hongjr03/OUC-Typst-Assignment-Templates) - 
+- [typst-ouc/assignment-templates](https://github.com/typst-ouc/assignment-templates) - 
 - [hzkonor/bubble-template](https://github.com/hzkonor/bubble-template) - Simple and colorful template for typst
 - [a-kkiri/CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template) - 高教社杯全国大学生数学建模比赛（CUMCM）Typst 模版
 - [skriptum/diatypst](https://github.com/skriptum/diatypst) - easy slides in typst
