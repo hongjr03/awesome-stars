@@ -1248,6 +1248,7 @@
 
 ## others 
 
+- [wgsl-analyzer/wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - A language server implementation for WGSL and WESL
 - [jesscarter/mproton](https://github.com/jesscarter/mproton) - Run Windows Steam games on Apple Silicon Macs, the way Proton runs them on Linux (experimental)
 - [asobi-soft/holotyp](https://github.com/asobi-soft/holotyp) - 
 - [amll-dev/amll-ttml-db](https://github.com/amll-dev/amll-ttml-db) - 作者特供给 AMLL 的 TTML 逐词歌词库，也欢迎大家前来建设本仓库
@@ -1309,7 +1310,7 @@
 - [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) - a pure css implementation of some sunlight streaming in through the window
 - [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings,
 - [andreasKroepelin/lovelace](https://github.com/andreasKroepelin/lovelace) - A Typst package for typesetting pseudocode
-- [hongjr03/ouc-bachelor-thesis](https://github.com/hongjr03/ouc-bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
+- [typst-ouc/bachelor-thesis](https://github.com/typst-ouc/bachelor-thesis) - （非官方）中国海洋大学本科毕业论文 Typst 模板
 - [OverflowCat/tiago](https://github.com/OverflowCat/tiago) - 
 - [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 10x faster Homebrew client
 - [reitzig/sdkman-for-fish](https://github.com/reitzig/sdkman-for-fish) - Adds support for SDKMAN! to fish
@@ -1448,7 +1449,7 @@
 - [nagejacob/RecurrentMobileNet](https://github.com/nagejacob/RecurrentMobileNet) - Light parameters raw image denoising, 2nd place in MegCup 2022
 - [kyashy/denoising-on-mobile-devices](https://github.com/kyashy/denoising-on-mobile-devices) - Python implementation of the paper "Practical Deep Raw Image Denoising on Mobile Devices"
 - [JL-DY/MFDNet](https://github.com/JL-DY/MFDNet) - Lightweight network towards real-time image denoising on mobile devices
-- [hongjr03/OUC-Typst-Assignment-Templates](https://github.com/hongjr03/OUC-Typst-Assignment-Templates) - 
+- [typst-ouc/assignment-templates](https://github.com/typst-ouc/assignment-templates) - 
 - [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|
 - [checkToke/yangtai](https://github.com/checkToke/yangtai) - 青龙面板、上车， 巴奴火锅、一汽大众、海底捞、屈臣氏、霸王茶姬、华住会、东呈会、万达酒店、益禾堂 自动签到 。大疆商城监控库存、价格变化
 - [linbailo/zyqinglong](https://github.com/linbailo/zyqinglong) - 青龙面板脚本自用库薅羊毛（✅ 滴滴出行领券✅ 滴滴加油领券✅ 滴滴代驾领券/滴滴签到领券打卡✅ 滴滴果园✅ mt论坛✅ 美团✅ 饿了么✅ 得物✅ 顺丰✅ 霸王茶姬✅ 益禾堂✅ 塔斯汀✅ 海底捞）
