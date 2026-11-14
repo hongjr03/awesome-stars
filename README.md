@@ -506,7 +506,7 @@
 - [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
 - [hongjr03/OUC-Electricity-Monitor](https://github.com/hongjr03/OUC-Electricity-Monitor) - 一个监控OUC宿舍电费变化的工具，实现了电量余量监控、可视化和通知，支持多种一键部署方式和自定义配置。
 - [SuperNG6/Docker-qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) - Docker-qBittorrent-Enhanced-Edition
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
 - [3401797899/BlackBoard-helper](https://github.com/3401797899/BlackBoard-helper) - BB平台助手是中国海洋大学海大云学堂（本科BB平台）助手，用于OUC-SRDP项目BB平台助手。
 - [Cherrison/ouc_jwc_spader](https://github.com/Cherrison/ouc_jwc_spader) - 爬取中国海洋大学教务处课表(python)
