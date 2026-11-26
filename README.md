@@ -228,7 +228,7 @@
 - [moxcomic/archer](https://github.com/moxcomic/archer) - Archer is a top-tier Mahjong AI development framework, currently reaching as high as Tenhou 10 dan on Phoenix. https://moxcomic.github.io/archer/
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
-- [YeyingLab/night-enhancement](https://github.com/YeyingLab/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
+- [YeyingLab/night-enhancement](https://github.com/YeyingLab/night-enhancement) - [ECCV 2022] Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression
 - [Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) - Zero-DCE code and model
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
@@ -516,7 +516,7 @@
 - [VITA-Group/EnlightenGAN](https://github.com/VITA-Group/EnlightenGAN) - [IEEE TIP] "EnlightenGAN: Deep Light Enhancement without Paired Supervision" by Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang
 - [iSEE-Laboratory/DiffUIR](https://github.com/iSEE-Laboratory/DiffUIR) - (CVPR2024) Official implementation of paper: "Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model"
 - [c-yn/ConvIR](https://github.com/c-yn/ConvIR) - Revitalizing Convolutional Network for Image Restoration
-- [YeyingLab/RaindropClarity](https://github.com/YeyingLab/RaindropClarity) - [ECCV2024] "Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal", https://arxiv.org/abs/2407.16957
+- [YeyingLab/RaindropClarity](https://github.com/YeyingLab/RaindropClarity) - [ECCV 2024] Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal
 - [c-yn/IRNeXt](https://github.com/c-yn/IRNeXt) - [ICML2023] IRNeXt: Rethinking Convolutional Network Design for Image Restoration
 - [htyjers/StrDiffusion](https://github.com/htyjers/StrDiffusion) - [CVPR 2024] Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting
 - [TianheWu/CoSeR](https://github.com/TianheWu/CoSeR) - An unofficial implementation for "CoSeR: Bridging Image and Language for Cognitive Super-Resolution (CVPR 2024)"
@@ -622,7 +622,7 @@
 - [bixiangpeng/HiSIF-DTA](https://github.com/bixiangpeng/HiSIF-DTA) - 
 - [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023 Top-10 Cited 🏆) & (NTIRE 2024 Runner-Up 🏆) & (NTIRE 2025 Winner 🏆) & (NTIRE 2026 Winner 🏆)
 - [KevinOfCathay/DDPM-demo](https://github.com/KevinOfCathay/DDPM-demo) - pytorch ddpm demo
-- [YeyingLab/nighttime_dehaze](https://github.com/YeyingLab/nighttime_dehaze) - [ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738
+- [YeyingLab/nighttime_dehaze](https://github.com/YeyingLab/nighttime_dehaze) - [ACM MM 2023] Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution
 - [BIGWangYuDong/lqit](https://github.com/BIGWangYuDong/lqit) - Low Quality Image Toolbox
 - [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) - Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Meth
 - [hojonathanho/diffusion](https://github.com/hojonathanho/diffusion) - Denoising Diffusion Probabilistic Models
